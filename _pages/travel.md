@@ -12,7 +12,7 @@ This page is under construction, check back later!
 
 ![Benasque_2](/images/Benasque_2.jpg)
 
-![Benasque_talk](/images/Benasque_Talk.jpg)  
+![Benasque_talk](/images/Benasque_Talk.jpeg)  
 This photo is taken by Chris Pattison.
 
 ## Gent, Belgium, 2023 {#Gent}
