@@ -46,14 +46,14 @@ Andrew Cross, Zhiyang He, Patrick Rall, Theodore Yoder.
 
 
 1. __Single-shot decoding of good quantum LDPC codes__, June 2023  
-Shouzhen Gu, Eugene Tang, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubica  
+Shouzhen Gu, Eugene Tang, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubica.  
 *QEC 2023, TQC 2024.  
 Talk at [Advances in Quantum Coding Theory](https://simons.berkeley.edu/workshops/advances-quantum-coding-theory) at Simons Institute.*  
 *Communications in Mathematical Physics.*  
 [[arXiv]](https://arxiv.org/abs/2306.12470), [[Shouzhen's Talk at Simons]](https://www.youtube.com/watch?v=ee3RmbNSBvc), [[Talk at TQC]](https://www.youtube.com/watch?v=RUClShhrqUQ)
 
 1. __Quantum Locally Testable Code with Constant Soundness__, Sep 2022  
-Andrew Cross, Zhiyang He, Anand Natarajan, Mario Szegedy, Guanyu Zhu  
+Andrew Cross, Zhiyang He, Anand Natarajan, Mario Szegedy, Guanyu Zhu.  
 *QIP 2023. Talk at IBM Yorktown.*  
 *Quantum.* 
 [[arXiv]](https://arxiv.org/abs/2209.11405), [[Talk at QIP]](https://www.youtube.com/watch?v=iFoAmifvfto)  
