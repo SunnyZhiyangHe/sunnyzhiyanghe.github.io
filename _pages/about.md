@@ -24,7 +24,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 - I presented our work on [Single-shot decoding of good quantum LDPC codes](https://arxiv.org/abs/2306.12470) at TQC 2024 hosted in Okinawa, Japan. 
 - In Fall 2024, I helped organize a reading group on Quantum Fault-Tolerance with Rachel Zhang, Adam Wills and Vinod Vaikuntanathan. 
 - I gave a guest lecture at UCLA on [An Introduction to Quantum LDPC Codes](files/QLDPC_UCLA.pdf) in March 2024, hosted by Professor [Jens Palsberg](https://web.cs.ucla.edu/~palsberg/). 
-- I pesented our work with IBM on [Quantum Locally Testable Code with Constant Soundness](https://arxiv.org/abs/2209.11405) at QIP 2023 in Gent, Belgium. Here are some [photos](/travel#Gent) of the beautiful city of Gent. I also presented this work at MIT, Tufts, and IBM Yorktown.
+- I presented our work with IBM on [Quantum Locally Testable Code with Constant Soundness](https://arxiv.org/abs/2209.11405) at QIP 2023 in Gent, Belgium. Here are some [photos](/travel#Gent) of the beautiful city of Gent. I also presented this work at MIT, Tufts, and IBM Yorktown.
 - In Summer 2023, I attended the [Quantum Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-workshop) at Simons Institute.
 - In Spring 2022, I helped organzie a reading group on Asymptotically Good QLDPC Codes with Eugene Tang and Anand Natarajan.
 
