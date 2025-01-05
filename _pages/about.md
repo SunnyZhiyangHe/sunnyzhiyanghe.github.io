@@ -67,7 +67,7 @@ Zhiyang He, Jason Li.
 *STOC 2022.*
 [[arXiv]](https://arxiv.org/abs/2111.03221), [[Talk at STOC]](https://www.youtube.com/watch?v=Uo9ff0Tq2Fo)
 
-1. __Near-linear-time, Optimal Vertex Cut Sparsifier in Directed Acyclic Graphs__, Nov 2020
+1. __Near-linear-time, Optimal Vertex Cut Sparsifier in Directed Acyclic Graphs__, Nov 2020  
 Zhiyang He, Jason Li, Magnus Wahlström.  
 *European Symposium on Algorithms (ESA) 2021, **Best Paper Award***. 
 [[arXiv]](https://arxiv.org/abs/2011.13485)
@@ -79,7 +79,7 @@ Zhiyang He.
 *The Electronic Journal of Combinatorics.* 
 [[arXiv]](https://arxiv.org/abs/2009.04590)
 
-1. __Hypergraphs with Few Berge Paths of Fixed Length between Vertices__, July 2018
+1. __Hypergraphs with Few Berge Paths of Fixed Length between Vertices__, July 2018  
 Zhiyang He, Michael Tait.  
 *SIAM Journal on Discrete Mathematics.* 
 [[arXiv]](https://arxiv.org/abs/1807.10177)
