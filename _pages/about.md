@@ -51,7 +51,7 @@ Shouzhen Gu, Eugene Tang, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubic
 *QEC 2023, TQC 2024.  
 Talk at [Advances in Quantum Coding Theory](https://simons.berkeley.edu/workshops/advances-quantum-coding-theory) at Simons Institute.*  
 *Communications in Mathematical Physics.*  
-[[arXiv]](https://arxiv.org/abs/2306.12470), [[Shouzhen's Talk at Simons]](https://www.youtube.com/watch?v=ee3RmbNSBvc), [[Talk at TQC]](https://www.youtube.com/watch?v=RUClShhrqUQ)
+[[arXiv]](https://arxiv.org/abs/2306.12470), [[Shouzhen's Talk at Simons]](https://www.youtube.com/watch?v=ee3RmbNSBvc), [[Talk at TQC]](https://www.youtube.com/watch?v=RUClShhrqUQ), [[Slides]](files/SingleShotDecoding.pdf)
 
 1. __Quantum Locally Testable Code with Constant Soundness__, Sep 2022  
 Andrew Cross, Zhiyang He, Anand Natarajan, Mario Szegedy, Guanyu Zhu.  
@@ -59,7 +59,6 @@ Andrew Cross, Zhiyang He, Anand Natarajan, Mario Szegedy, Guanyu Zhu.
 *Quantum.* 
 [[arXiv]](https://arxiv.org/abs/2209.11405), [[Talk at QIP]](https://www.youtube.com/watch?v=iFoAmifvfto)  
 <!-- [[Quantum]](https://quantum-journal.org/papers/q-2024-10-18-1501/) -->
-
 
 ### Graph Algorithms
 

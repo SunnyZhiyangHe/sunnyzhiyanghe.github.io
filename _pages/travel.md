@@ -4,15 +4,21 @@ title: "Travel"
 author_profile: true
 ---
 
-This page is under construction, check back later!
+<!-- This page is under construction, check back later! -->
 
 ## Japan
 
 ![Tokyo_1](/images/Tokyo_1.jpg)
+=========================
+Sensō-ji (浅草寺) is a magnificent temple in Tokyo with more than 30 million visitors annually.
 
 ![Nara_1](/images/Nara_1.jpg)
 =========================
 Tōdai-ji (東大寺) was established in the early 8th century. The Nara Park hosting the temple is populated by cookie-seeking deers.
+
+![Nara_2](/images/Nara_2.jpg)
+=========================
+Two representatives. They can sniff the cookies in your pockets. 
 
 ## Summer in Benasque, Spain {#Benasque}
 
@@ -39,3 +45,9 @@ They have the most fantastic chocolates and waffles in Belgium.
 ![Brugge_1](/images/Brugge_1.JPG)
 =========================
 This photo is taken in Brugge.
+
+## Winter in Salt Lake City {#SLC}
+
+![SLC_1](/images/SLC_1.jpg)
+
+![SLC_2](/images/SLC_2.jpg)
