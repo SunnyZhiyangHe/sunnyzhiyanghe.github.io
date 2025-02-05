@@ -6,7 +6,7 @@ author_profile: true
 
 <!-- This page is under construction, check back later! -->
 
-## Japan
+## Japan {#Japan}
 
 ![Tokyo_1](/images/Tokyo_1.jpg)
 =========================

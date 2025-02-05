@@ -12,25 +12,28 @@ Hi! This is Sunny, I am a graduate student at MIT advised by Professor [Peter Sh
 
 Prior to grad school I was an undergrad at CMU. I worked in graph algorithms with Professor [Anupam Gupta](https://cs.nyu.edu/~anupamg/) and [Jason Li](https://q3r.github.io/), and combinatorics with Professor [Boris Bukh](https://www.borisbukh.org/) and [Michael Tait](https://sites.google.com/view/michaeltait).
 
-
-## Experiences {#exp}
-- I was a summer intern at [QuEra](https://www.quera.com/) in 2024. We just posted our paper, [Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165), to arXiv. 
-- In Spring 2024, I attended the [Quantum Algorithms, Complexity, and Fault Tolerance Workshop](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance), hosted by [Simons Institute](https://simons.berkeley.edu/homepage) at UC Berkeley.
-- I was a summer intern at [IBM Quantum](https://www.ibm.com/quantum) in 2022 and 2023. 
-- In Fall 2022, I was a TA for [Peter Shor's course on Quantum Computation](https://math.mit.edu/~shor/435-LN/).
-
 ## Talks and Travel {#talks}
-- I presented a recent work with IBM on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque. I also presented this work at Harvard and Ohio State University.
-- I presented our work on [Single-shot decoding of good quantum LDPC codes](https://arxiv.org/abs/2306.12470) at TQC 2024 hosted in Okinawa, Japan. 
-- In Fall 2024, I helped organize a reading group on Quantum Fault-Tolerance with Rachel Zhang, Adam Wills and Vinod Vaikuntanathan. 
+- In Fall 2024, I helped organize a reading group on Quantum Fault-Tolerance with Rachel Zhang, Adam Wills and Vinod Vaikuntanathan. We recently posted our paper, [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864), to arXiv.
+- I presented a recent work with IBM on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque. I also presented this work at MIT, Harvard and Ohio State University. I will present this work at QIP 2025.
+- I presented our work on [Single-shot decoding of good quantum LDPC codes](https://arxiv.org/abs/2306.12470) at TQC 2024 hosted in Okinawa, Japan. Here are some [photos](/travel#Japan) of Japan.
 - I gave a guest lecture at UCLA on [An Introduction to Quantum LDPC Codes](files/QLDPC_UCLA.pdf) in March 2024, hosted by Professor [Jens Palsberg](https://web.cs.ucla.edu/~palsberg/). 
 - I presented our work with IBM on [Quantum Locally Testable Code with Constant Soundness](https://arxiv.org/abs/2209.11405) at QIP 2023 in Gent, Belgium. Here are some [photos](/travel#Gent) of the beautiful city of Gent. I also presented this work at MIT, Tufts, and IBM Yorktown.
 - In Summer 2023, I attended the [Quantum Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-workshop) at Simons Institute.
 - In Spring 2022, I helped organize a reading group on Asymptotically Good QLDPC Codes with Eugene Tang and Anand Natarajan.
 
+## Experiences {#exp}
+- I was a summer intern at [QuEra](https://www.quera.com/) in 2024. We recently posted our paper, [Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165), to arXiv. 
+- In Spring 2024, I attended the [Quantum Algorithms, Complexity, and Fault Tolerance Workshop](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance), hosted by [Simons Institute](https://simons.berkeley.edu/homepage) at UC Berkeley.
+- I was a summer intern at [IBM Quantum](https://www.ibm.com/quantum) in 2022 and 2023. 
+- In Fall 2022, I was a TA for [Peter Shor's course on Quantum Computation](https://math.mit.edu/~shor/435-LN/).
+
 ## Publications {#publications}
 
 ### Quantum
+1. __Quantum Codes with Addressable and Transversal Non-Clifford Gates__, Feb 2025
+Zhiyang He, Vinod Vaikuntanathan, Adam Wills, Rachel Yun Zhang. 
+[[arxiv]](https://arxiv.org/abs/2502.01864)
+
 1. __Experimental Demonstration of Logical Magic State Distillation__, Dec 2024  
 QuEra Team and Collaborators.  
 [[arXiv]](https://arxiv.org/abs/2412.15165), [[Blog post by QuEra]](https://www.quera.com/blog-posts/magic-state-distillation-on-logical-qubits)
@@ -44,7 +47,6 @@ Zhiyang He, Luke Robitaille, Xinyu Tan.
 Andrew Cross, Zhiyang He, Patrick Rall, Theodore Yoder.  
 *QIP 2025. Voted talk at [FTQT 2024](https://www.benasque.org/2024ftqt/).* 
 [[arXiv]](https://arxiv.org/abs/2407.18393)
-
 
 1. __Single-shot decoding of good quantum LDPC codes__, June 2023  
 Shouzhen Gu, Eugene Tang, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubica.  
