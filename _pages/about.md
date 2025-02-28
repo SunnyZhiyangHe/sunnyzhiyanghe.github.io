@@ -32,7 +32,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 ### Quantum
 1. __Quantum Codes with Addressable and Transversal Non-Clifford Gates__, Feb 2025
 Zhiyang He, Vinod Vaikuntanathan, Adam Wills, Rachel Yun Zhang.  
-*Talks at MIT and [Coogee 2025](https://quantum.sydney.edu.au/coogee25/).* 
+Talks at MIT and [Coogee 2025](https://quantum.sydney.edu.au/coogee25/). 
 [[arxiv]](https://arxiv.org/abs/2502.01864)
 
 1. __Experimental Demonstration of Logical Magic State Distillation__, Dec 2024  
@@ -40,26 +40,26 @@ QuEra Team and Collaborators.
 [[arXiv]](https://arxiv.org/abs/2412.15165), [[Blog post by QuEra]](https://www.quera.com/blog-posts/magic-state-distillation-on-logical-qubits)
 
 1. __Permutation gates in the third level of the Clifford hierarchy__, Oct 2024  
-Zhiyang He, Luke Robitaille, Xinyu Tan. 
-[[arXiv]](https://arxiv.org/abs/2410.11818)
+Zhiyang He, Luke Robitaille, Xinyu Tan.  
+[[arXiv]](https://arxiv.org/abs/2410.11818), [[Poster at QIP 2025]](files/QIP_2025_poster.pdf)
 
 1. __Improved QLDPC Surgery: Logical Measurements and Bridging Codes__, July 2024  
 <!-- [Andrew Cross](https://research.ibm.com/people/andrew-cross), __Z. He__, [Patrick Rall](https://www.patrickrall.com/), [Theodore Yoder](https://scholar.google.com/citations?user=OhiKBrsAAAAJ&hl=en) -->
 Andrew Cross, Zhiyang He, Patrick Rall, Theodore Yoder.  
 *QIP 2025. Voted talk at [FTQT 2024](https://www.benasque.org/2024ftqt/).*  
-*Talks at MIT, Harvard, IBM, and APS March Meetings.* 
+Talks at MIT, Harvard, IBM, and APS March Meetings. 
 [[arXiv]](https://arxiv.org/abs/2407.18393)
 
 1. __Single-shot decoding of good quantum LDPC codes__, June 2023  
 Shouzhen Gu, Eugene Tang, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubica.  
-*QEC 2023, TQC 2024. Communications in Mathematical Physics.  
-Talk at [Advances in Quantum Coding Theory](https://simons.berkeley.edu/workshops/advances-quantum-coding-theory) at Simons Institute.*  
+*QEC 2023, TQC 2024. Communications in Mathematical Physics.*  
+Talk at [Advances in Quantum Coding Theory](https://simons.berkeley.edu/workshops/advances-quantum-coding-theory) at Simons Institute.  
 [[arXiv]](https://arxiv.org/abs/2306.12470), [[Shouzhen's Talk at Simons]](https://www.youtube.com/watch?v=ee3RmbNSBvc), [[Talk at TQC]](https://www.youtube.com/watch?v=RUClShhrqUQ), [[Slides]](files/SingleShotDecoding.pdf)
 
 1. __Quantum Locally Testable Code with Constant Soundness__, Sep 2022  
 Andrew Cross, Zhiyang He, Anand Natarajan, Mario Szegedy, Guanyu Zhu.  
 *QIP 2023. Quantum.*  
-*Talks at MIT, Tufts, and IBM Yorktown.*  
+Talks at MIT, Tufts, and IBM Yorktown.  
 [[arXiv]](https://arxiv.org/abs/2209.11405), [[Talk at QIP]](https://www.youtube.com/watch?v=iFoAmifvfto)  
 <!-- [[Quantum]](https://quantum-journal.org/papers/q-2024-10-18-1501/) -->
 
