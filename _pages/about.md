@@ -12,17 +12,26 @@ Hi! This is Sunny, I am a graduate student at MIT advised by Professor [Peter Sh
 
 Prior to grad school I was an undergrad at CMU. I worked in graph algorithms with Professor [Anupam Gupta](https://cs.nyu.edu/~anupamg/) and [Jason Li](https://q3r.github.io/), and combinatorics with Professor [Boris Bukh](https://www.borisbukh.org/) and [Michael Tait](https://sites.google.com/view/michaeltait).
 
+## New preprints
+- Quantum LDPC code surgery can perform parallel measurements.  
+[Parallel Logical Measurements via Quantum Code Surgery](https://arxiv.org/abs/2503.05003)
+- Punctured quantum Reed-Solomon Codes have transversal and addressable CCZ gates. [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)
+- Magic state distillation works!  
+[Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165)
+
 ## Talks and Travel {#talks}
-- In Fall 2024, I helped organize a reading group on Quantum Fault-Tolerance with Rachel Zhang, Adam Wills and Vinod Vaikuntanathan. We recently posted our paper, [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864), to arXiv.
+
+- In Fall 2024, I helped organize a reading group on Quantum Fault-Tolerance with Rachel Zhang, Adam Wills and Vinod Vaikuntanathan. 
 - I presented a recent work with IBM on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque. I also presented this work at QIP 2025.
 - I presented our work on [Single-shot decoding of good quantum LDPC codes](https://arxiv.org/abs/2306.12470) at TQC 2024 hosted in Okinawa, Japan. Here are some [photos](/travel#Japan) of Japan.
 - I gave a guest lecture at UCLA on [An Introduction to Quantum LDPC Codes](files/QLDPC_UCLA.pdf) in March 2024, hosted by Professor [Jens Palsberg](https://web.cs.ucla.edu/~palsberg/). 
+- I attended QEC 2023 at Sydney, Australia. Did you know that visitors can pet koalas and (small) kangaroos at the [Featherdale Wildlife Park](https://www.featherdale.com.au/)?
 - I presented our work with IBM on [Quantum Locally Testable Code with Constant Soundness](https://arxiv.org/abs/2209.11405) at QIP 2023 in Gent, Belgium. Here are some [photos](/travel#Gent) of the beautiful city of Gent. I also presented this work at IBM Yorktown.
 - In Summer 2023, I attended the [Quantum Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-workshop) at Simons Institute.
 - In Spring 2022, I helped organize a reading group on Asymptotically Good QLDPC Codes with Eugene Tang and Anand Natarajan.
 
 ## Experiences {#exp}
-- I was a summer intern at [QuEra](https://www.quera.com/) in 2024. We recently posted our paper, [Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165), to arXiv. 
+- I was a summer intern at [QuEra](https://www.quera.com/) in 2024. 
 - In Spring 2024, I attended the [Quantum Algorithms, Complexity, and Fault Tolerance Workshop](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance), hosted by [Simons Institute](https://simons.berkeley.edu/homepage) at UC Berkeley.
 - I was a summer intern at [IBM Quantum](https://www.ibm.com/quantum) in 2022 and 2023. 
 - In Fall 2022, I was a TA for [Peter Shor's course on Quantum Computation](https://math.mit.edu/~shor/435-LN/).
@@ -30,6 +39,13 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 ## Publications {#publications}
 
 ### Quantum
+<!-- 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, Mar 2025  
+John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Issac Chuang.  
+[[arxiv]]() -->
+1. __Parallel Logical Measurements via Quantum Code Surgery__, Mar 2025  
+Alexander Cowtan, Zhiyang He, Dominic Williamson, Theodore Yoder. 
+[[arxiv]](https://arxiv.org/abs/2503.05003)
+
 1. __Quantum Codes with Addressable and Transversal Non-Clifford Gates__, Feb 2025
 Zhiyang He, Vinod Vaikuntanathan, Adam Wills, Rachel Yun Zhang.  
 Talks at MIT and [Coogee 2025](https://quantum.sydney.edu.au/coogee25/). 
@@ -44,7 +60,6 @@ Zhiyang He, Luke Robitaille, Xinyu Tan.
 [[arXiv]](https://arxiv.org/abs/2410.11818), [[Poster at QIP 2025]](files/QIP_2025_poster.pdf)
 
 1. __Improved QLDPC Surgery: Logical Measurements and Bridging Codes__, July 2024  
-<!-- [Andrew Cross](https://research.ibm.com/people/andrew-cross), __Z. He__, [Patrick Rall](https://www.patrickrall.com/), [Theodore Yoder](https://scholar.google.com/citations?user=OhiKBrsAAAAJ&hl=en) -->
 Andrew Cross, Zhiyang He, Patrick Rall, Theodore Yoder.  
 *QIP 2025. Voted talk at [FTQT 2024](https://www.benasque.org/2024ftqt/).*  
 Talks at MIT, Harvard, IBM, and APS March Meetings. 
