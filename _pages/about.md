@@ -13,6 +13,10 @@ Hi! This is Sunny, I am a graduate student at MIT advised by Professor [Peter Sh
 Prior to grad school I was an undergrad at CMU. I worked in graph algorithms with Professor [Anupam Gupta](https://cs.nyu.edu/~anupamg/) and [Jason Li](https://q3r.github.io/), and combinatorics with Professor [Boris Bukh](https://www.borisbukh.org/) and [Michael Tait](https://sites.google.com/view/michaeltait).
 
 ## New preprints
+- We propose a highly flexible, optimizable and scalable architecture for fault-tolerant quantum computers based on QLDPC codes, powered by a new primitive called __extractor__ which can augment any QLDPC memory into a computational block.  
+[Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390)  
+<!-- 
+  <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="500">   -->
 - Quantum LDPC code surgery can perform parallel measurements.  
 [Parallel Logical Measurements via Quantum Code Surgery](https://arxiv.org/abs/2503.05003)
 - Punctured quantum Reed-Solomon Codes have transversal and addressable CCZ gates. [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)
@@ -25,7 +29,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 - I presented a recent work with IBM on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque. I also presented this work at QIP 2025.
 - I presented our work on [Single-shot decoding of good quantum LDPC codes](https://arxiv.org/abs/2306.12470) at TQC 2024 hosted in Okinawa, Japan. Here are some [photos](/travel#Japan) of Japan.
 - I gave a guest lecture at UCLA on [An Introduction to Quantum LDPC Codes](files/QLDPC_UCLA.pdf) in March 2024, hosted by Professor [Jens Palsberg](https://web.cs.ucla.edu/~palsberg/). 
-- I attended QEC 2023 at Sydney, Australia. Did you know that visitors can pet koalas and (small) kangaroos at the [Featherdale Wildlife Park](https://www.featherdale.com.au/)?
+- I attended QEC 2023 at Sydney, Australia. Did you know that visitors can pet [koalas and (small) kangaroos](/travel#Sydney) at the [Featherdale Wildlife Park](https://www.featherdale.com.au/)?
 - I presented our work with IBM on [Quantum Locally Testable Code with Constant Soundness](https://arxiv.org/abs/2209.11405) at QIP 2023 in Gent, Belgium. Here are some [photos](/travel#Gent) of the beautiful city of Gent. I also presented this work at IBM Yorktown.
 - In Summer 2023, I attended the [Quantum Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-workshop) at Simons Institute.
 - In Spring 2022, I helped organize a reading group on Asymptotically Good QLDPC Codes with Eugene Tang and Anand Natarajan.
@@ -42,6 +46,11 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 <!-- 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, Mar 2025  
 John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Issac Chuang.  
 [[arxiv]]() -->
+
+1. __Extractors: QLDPC Architecture for Efficient Pauli-Based Computation__, Mar 2025  
+Zhiyang He, Alexander Cowtan, Dominic Williamson, Theodore Yoder. 
+[[arxiv]](https://arxiv.org/abs/2503.10390)
+
 1. __Parallel Logical Measurements via Quantum Code Surgery__, Mar 2025  
 Alexander Cowtan, Zhiyang He, Dominic Williamson, Theodore Yoder. 
 [[arxiv]](https://arxiv.org/abs/2503.05003)

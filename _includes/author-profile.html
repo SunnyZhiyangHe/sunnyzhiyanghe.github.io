@@ -35,7 +35,7 @@
       {% endif %}
       {% if author.email %}
         <!-- <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li> -->
-        <li><i class="fa-solid fa-envelope icon-pad-right"></i>{{author.email}}</a></li>
+        <li><i class="fa-solid fa-envelope fa-fw icon-pad-right"></i>{{author.email}}</a></li>
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
@@ -43,7 +43,7 @@
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
       {% endif %}      
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fa-solid fa-compass icon-pad-right" ></i>Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class="fa-solid fa-compass fa-fw icon-pad-right" ></i>Google Scholar</a></li>
       {% endif %}
       {% if author.semantic %}
         <li><a href="{{ author.semantic }}"><i class="ai ai-semantic-scholar ai-fw icon-pad-right"></i>Semantic Scholar</a></li>
@@ -86,7 +86,7 @@
 
       <!-- Font Awesome icons / Social media -->
       {% if author.bluesky %}
-        <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>
+        <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-bluesky fa-fw icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-f icon-pad-right" aria-hidden="true"></i>Facebook</a></li>

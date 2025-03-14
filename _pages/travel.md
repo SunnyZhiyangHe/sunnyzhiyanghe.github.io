@@ -30,6 +30,17 @@ Two representatives. They can sniff the cookies in your pockets.
 =========================
 This photo is taken by Chris Pattison.
 
+## Sydney, Australia {#Sydney}
+
+![Sydney_opera](/images/Sydney_opera.jpg)
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="/images/kangaroo.jpg" alt="Kangaroo" style="width: 50%;">
+    <img src="/images/koala.jpg" alt="Koala" style="width: 50%;">
+</div>  
+  
+Some kangaroos are a lot more polite than others.
+
 ## Gent, Belgium {#Gent}
 
 ![Gent_1](/images/Gent_1.JPG)
