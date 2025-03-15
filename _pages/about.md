@@ -43,10 +43,6 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 ## Publications {#publications}
 
 ### Quantum
-<!-- 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, Mar 2025  
-John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Issac Chuang.  
-[[arxiv]]() -->
-
 1. __Extractors: QLDPC Architecture for Efficient Pauli-Based Computation__, Mar 2025  
 Zhiyang He, Alexander Cowtan, Dominic Williamson, Theodore Yoder. 
 [[arxiv]](https://arxiv.org/abs/2503.10390)
@@ -66,13 +62,14 @@ QuEra Team and Collaborators.
 
 1. __Permutation gates in the third level of the Clifford hierarchy__, Oct 2024  
 Zhiyang He, Luke Robitaille, Xinyu Tan.  
+Talk at MIT. 
 [[arXiv]](https://arxiv.org/abs/2410.11818), [[Poster at QIP 2025]](files/QIP_2025_poster.pdf)
 
 1. __Improved QLDPC Surgery: Logical Measurements and Bridging Codes__, July 2024  
 Andrew Cross, Zhiyang He, Patrick Rall, Theodore Yoder.  
 *QIP 2025. Voted talk at [FTQT 2024](https://www.benasque.org/2024ftqt/).*  
-Talks at MIT, Harvard, IBM, and APS March Meetings. 
-[[arXiv]](https://arxiv.org/abs/2407.18393)
+Talks at MIT, Harvard, IBM, and APS March Meetings.  
+[[arXiv]](https://arxiv.org/abs/2407.18393), [[Slides at QIP]](files/QLDPC_Surgery.pdf)
 
 1. __Single-shot decoding of good quantum LDPC codes__, June 2023  
 Shouzhen Gu, Eugene Tang, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubica.  
