@@ -43,8 +43,13 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 ## Publications {#publications}
 
 ### Quantum
+<!-- 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, Mar 2025  
+John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Issac Chuang.  
+[[arxiv]]() -->
+
 1. __Extractors: QLDPC Architecture for Efficient Pauli-Based Computation__, Mar 2025  
-Zhiyang He, Alexander Cowtan, Dominic Williamson, Theodore Yoder. 
+Zhiyang He, Alexander Cowtan, Dominic Williamson, Theodore Yoder.  
+Talk at MIT.
 [[arxiv]](https://arxiv.org/abs/2503.10390)
 
 1. __Parallel Logical Measurements via Quantum Code Surgery__, Mar 2025  
@@ -53,8 +58,8 @@ Alexander Cowtan, Zhiyang He, Dominic Williamson, Theodore Yoder.
 
 1. __Quantum Codes with Addressable and Transversal Non-Clifford Gates__, Feb 2025
 Zhiyang He, Vinod Vaikuntanathan, Adam Wills, Rachel Yun Zhang.  
-Talks at MIT and [Coogee 2025](https://quantum.sydney.edu.au/coogee25/). 
-[[arxiv]](https://arxiv.org/abs/2502.01864)
+Talks at MIT, [Coogee 2025](https://quantum.sydney.edu.au/coogee25/), [Asia Pacific QEC](https://www.youtube.com/@AsiaPacificQEC/videos).  
+[[arxiv]](https://arxiv.org/abs/2502.01864), [[Adam's Talk at APQEC]](https://www.youtube.com/watch?v=V9U_OJ5mZjI&t=7s)
 
 1. __Experimental Demonstration of Logical Magic State Distillation__, Dec 2024  
 QuEra Team and Collaborators.  
