@@ -58,7 +58,7 @@ Alexander Cowtan, Zhiyang He, Dominic Williamson, Theodore Yoder.
 
 1. __Quantum Codes with Addressable and Transversal Non-Clifford Gates__, Feb 2025
 Zhiyang He, Vinod Vaikuntanathan, Adam Wills, Rachel Yun Zhang.  
-Talks at MIT, [Coogee 2025](https://quantum.sydney.edu.au/coogee25/), [Asia Pacific QEC](https://www.youtube.com/@AsiaPacificQEC/videos).  
+Talks at MIT, [Coogee 2025](https://quantum.sydney.edu.au/coogee25/) and [Asia Pacific QEC](https://www.youtube.com/@AsiaPacificQEC/videos).  
 [[arxiv]](https://arxiv.org/abs/2502.01864), [[Adam's Talk at APQEC]](https://www.youtube.com/watch?v=V9U_OJ5mZjI&t=7s)
 
 1. __Experimental Demonstration of Logical Magic State Distillation__, Dec 2024  
