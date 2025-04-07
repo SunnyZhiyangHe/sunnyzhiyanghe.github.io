@@ -19,7 +19,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="500">   -->
 - Quantum LDPC code surgery can perform parallel measurements.  
 [Parallel Logical Measurements via Quantum Code Surgery](https://arxiv.org/abs/2503.05003)
-- Punctured quantum Reed-Solomon Codes have transversal and addressable CCZ gates. [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)
+- Punctured quantum Reed-Solomon codes have transversal and addressable CCZ gates. [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)
 - Magic state distillation works!  
 [Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165)
 
@@ -43,9 +43,9 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 ## Publications {#publications}
 
 ### Quantum
-<!-- 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, Mar 2025  
+<!-- 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, Apr 2025  
 John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Issac Chuang.  
-[[arxiv]]() -->
+[[arxiv]](), [[Poster at QIP]]() -->
 
 1. __Extractors: QLDPC Architecture for Efficient Pauli-Based Computation__, Mar 2025  
 Zhiyang He, Alexander Cowtan, Dominic Williamson, Theodore Yoder.  
@@ -58,12 +58,13 @@ Alexander Cowtan, Zhiyang He, Dominic Williamson, Theodore Yoder.
 
 1. __Quantum Codes with Addressable and Transversal Non-Clifford Gates__, Feb 2025
 Zhiyang He, Vinod Vaikuntanathan, Adam Wills, Rachel Yun Zhang.  
-Talks at MIT, [Coogee 2025](https://quantum.sydney.edu.au/coogee25/) and [Asia Pacific QEC](https://www.youtube.com/@AsiaPacificQEC/videos).  
+Talks at MIT, [Coogee 2025](https://quantum.sydney.edu.au/coogee25/), and [Asia Pacific QEC](https://www.youtube.com/@AsiaPacificQEC/videos).  
 [[arxiv]](https://arxiv.org/abs/2502.01864), [[Adam's Talk at APQEC]](https://www.youtube.com/watch?v=V9U_OJ5mZjI&t=7s)
 
 1. __Experimental Demonstration of Logical Magic State Distillation__, Dec 2024  
 QuEra Team and Collaborators.  
-[[arXiv]](https://arxiv.org/abs/2412.15165), [[Blog post by QuEra]](https://www.quera.com/blog-posts/magic-state-distillation-on-logical-qubits)
+Talks at MIT, Harvard, and APS March Meetings.  
+[[arXiv]](https://arxiv.org/abs/2412.15165), [[Blog Post by QuEra]](https://www.quera.com/blog-posts/magic-state-distillation-on-logical-qubits)
 
 1. __Permutation gates in the third level of the Clifford hierarchy__, Oct 2024  
 Zhiyang He, Luke Robitaille, Xinyu Tan.  
@@ -75,43 +76,43 @@ Andrew Cross, Zhiyang He, Patrick Rall, Theodore Yoder.
 *QIP 2025. Voted talk at [FTQT 2024](https://www.benasque.org/2024ftqt/).*  
 Talks at MIT, Harvard, IBM, and APS March Meetings.  
 [[arXiv]](https://arxiv.org/abs/2407.18393), [[Slides at QIP]](files/QLDPC_Surgery.pdf)
+<!-- [[Talk at QIP]]() -->
 
 1. __Single-shot decoding of good quantum LDPC codes__, June 2023  
 Shouzhen Gu, Eugene Tang, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubica.  
 *QEC 2023, TQC 2024. Communications in Mathematical Physics.*  
 Talk at [Advances in Quantum Coding Theory](https://simons.berkeley.edu/workshops/advances-quantum-coding-theory) at Simons Institute.  
-[[arXiv]](https://arxiv.org/abs/2306.12470), [[Shouzhen's Talk at Simons]](https://www.youtube.com/watch?v=ee3RmbNSBvc), [[Talk at TQC]](https://www.youtube.com/watch?v=RUClShhrqUQ), [[Slides]](files/SingleShotDecoding.pdf)
+[[arXiv]](https://arxiv.org/abs/2306.12470), [[Shouzhen's Talk at Simons]](https://www.youtube.com/watch?v=ee3RmbNSBvc), [[Talk at TQC]](https://www.youtube.com/watch?v=RUClShhrqUQ), [[Slides]](files/SingleShotDecoding.pdf), [[CMP]](https://link.springer.com/article/10.1007/s00220-024-04951-6)
 
 1. __Quantum Locally Testable Code with Constant Soundness__, Sep 2022  
 Andrew Cross, Zhiyang He, Anand Natarajan, Mario Szegedy, Guanyu Zhu.  
 *QIP 2023. Quantum.*  
 Talks at MIT, Tufts, and IBM Yorktown.  
-[[arXiv]](https://arxiv.org/abs/2209.11405), [[Talk at QIP]](https://www.youtube.com/watch?v=iFoAmifvfto)  
-<!-- [[Quantum]](https://quantum-journal.org/papers/q-2024-10-18-1501/) -->
+[[arXiv]](https://arxiv.org/abs/2209.11405), [[Talk at QIP]](https://www.youtube.com/watch?v=iFoAmifvfto), [[Quantum]](https://quantum-journal.org/papers/q-2024-10-18-1501/)
 
 ### Graph Algorithms
 
 1. __Breaking the $$n^k$$ Barrier for Minimum $$k$$-cut on Simple Graphs__, Nov 2021  
 Zhiyang He, Jason Li.  
 *STOC 2022.*
-[[arXiv]](https://arxiv.org/abs/2111.03221), [[Talk at STOC]](https://www.youtube.com/watch?v=Uo9ff0Tq2Fo)
+[[arXiv]](https://arxiv.org/abs/2111.03221), [[Talk at STOC]](https://www.youtube.com/watch?v=Uo9ff0Tq2Fo), [[STOC]](https://dl.acm.org/doi/10.1145/3519935.3519948)
 
 1. __Near-linear-time, Optimal Vertex Cut Sparsifier in Directed Acyclic Graphs__, Nov 2020  
 Zhiyang He, Jason Li, Magnus Wahlström.  
-*European Symposium on Algorithms (ESA) 2021, **Best Paper Award***. 
-[[arXiv]](https://arxiv.org/abs/2011.13485)
+*European Symposium on Algorithms (ESA) 2021, **Best Paper Award***.
+[[arXiv]](https://arxiv.org/abs/2011.13485), [[ESA]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2021.52)
 
 ### Combinatorics
 
-1. __New Upper Bound on Extremal Number of Even Cycles__, Sep 2020  
+1. __A New Upper Bound on Extremal Number of Even Cycles__, Sep 2020  
 Zhiyang He.  
 *The Electronic Journal of Combinatorics.* 
-[[arXiv]](https://arxiv.org/abs/2009.04590)
+[[arXiv]](https://arxiv.org/abs/2009.04590), [[EJC]](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v28i2p41)
 
 1. __Hypergraphs with Few Berge Paths of Fixed Length between Vertices__, July 2018  
 Zhiyang He, Michael Tait.  
 *SIAM Journal on Discrete Mathematics.* 
-[[arXiv]](https://arxiv.org/abs/1807.10177)
+[[arXiv]](https://arxiv.org/abs/1807.10177), [[SIAM]](https://epubs.siam.org/doi/10.1137/18M1203389)
 
 
 
