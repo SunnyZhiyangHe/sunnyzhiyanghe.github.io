@@ -1,0 +1,16 @@
+.nowrap {
+    white-space: nowrap;
+  }
+
+input[type="checkbox"] + .extra-authors {
+  display: none;
+}
+
+input[type="checkbox"]:checked + .extra-authors {
+  display: inline;
+}
+
+/* Ensure everything stays on one line */
+label, .extra-authors {
+  display: inline;
+}

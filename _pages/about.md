@@ -17,7 +17,9 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390)  
 <!-- 
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="500">   -->
-- Quantum LDPC code surgery can perform parallel measurements.  
+<!-- - ML decoders can be faster and more accurate than BPOSD.  
+[Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes]() -->
+- Quantum LDPC code surgery can perform parallel logical Pauli measurements.  
 [Parallel Logical Measurements via Quantum Code Surgery](https://arxiv.org/abs/2503.05003)
 - Punctured quantum Reed-Solomon codes have transversal and addressable CCZ gates. [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)
 - Magic state distillation works!  
@@ -40,10 +42,12 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 - I was a summer intern at [IBM Quantum](https://www.ibm.com/quantum) in 2022 and 2023. 
 - In Fall 2022, I was a TA for [Peter Shor's course on Quantum Computation](https://math.mit.edu/~shor/435-LN/).
 
+
 ## Publications {#publications}
 
 ### Quantum
-<!-- 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, Apr 2025  
+
+<!-- 1. <span class="nowrap">__Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, Apr 2025</span>   
 John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Issac Chuang.  
 [[arxiv]](), [[Poster at QIP]]() -->
 
@@ -56,24 +60,28 @@ Talk at MIT.
 Alexander Cowtan, Zhiyang He, Dominic Williamson, Theodore Yoder. 
 [[arxiv]](https://arxiv.org/abs/2503.05003)
 
-1. __Quantum Codes with Addressable and Transversal Non-Clifford Gates__, Feb 2025
+1. __Quantum Codes with Addressable and Transversal Non-Clifford Gates__, Feb 2025   
+<!-- (b) __Asymptotically Good Quantum Codes with Addressable and Transversal__  
+__Non-Clifford Gates__, Apr 2025   -->
 Zhiyang He, Vinod Vaikuntanathan, Adam Wills, Rachel Yun Zhang.  
 Talks at MIT, [Coogee 2025](https://quantum.sydney.edu.au/coogee25/), and [Asia Pacific QEC](https://www.youtube.com/@AsiaPacificQEC/videos).  
 [[arxiv]](https://arxiv.org/abs/2502.01864), [[Adam's Talk at APQEC]](https://www.youtube.com/watch?v=V9U_OJ5mZjI&t=7s)
 
 1. __Experimental Demonstration of Logical Magic State Distillation__, Dec 2024  
-QuEra Team and Collaborators.  
+Pedro Sales Rodriguez, John M. Robinson, Paul Niklas Jepsen, Zhiyang He, Casey Duckering, Chen Zhao, Kai-Hsin Wu, <label for="auth-toggle-1" style="cursor:pointer; text-decoration:underline; display:inline;">and 60 more authors</label><input type="checkbox" id="auth-toggle-1" style="display:none;"><span class="extra-authors">: Joseph Campo, Kevin Bagnall, Minho Kwon, Thomas Karolyshyn, Phillip Weinberg, Madelyn Cain, Simon J. Evered, Alexandra A. Geim, Marcin Kalinowski, Sophie H. Li, Tom Manovitz, Jesse Amato-Grill, James I. Basham, Liane Bernstein, Boris Braverman, Alexei Bylinskii, Adam Choukri, Robert DeAngelo, Fang Fang, Connor Fieweger, Paige Frederick, David Haines, Majd Hamdan, Julian Hammett, Ning Hsu, Ming-Guang Hu, Florian Huber, Ningyuan Jia, Dhruv Kedar, Milan Kornjača, Fangli Liu, John Long, Jonathan Lopatin, Pedro L. S. Lopes, Xiu-Zhe Luo, Tommaso Macrì, Ognjen Marković, Luis A. Martínez-Martínez, Xianmei Meng, Stefan Ostermann, Evgeny Ostroumov, David Paquette, Zexuan Qiang, Vadim Shofman, Anshuman Singh, Manuj Singh, Nandan Sinha, Henry Thoreen, Noel Wan, Yiping Wang, Daniel Waxman-Lenz, Tak Wong, Jonathan Wurtz, Andrii Zhdanov, Laurent Zheng, Markus Greiner, Alexander Keesling, Nathan Gemelke, Vladan Vuletić, Takuya Kitagawa</span>, Sheng-Tao Wang, Dolev Bluvstein, Mikhail D. Lukin, Alexander Lukin, Hengyun Zhou, Sergio H. Cantú.  
+<!-- QuEra Team and Collaborators.   -->
+<!--  -->
 Talks at MIT, Harvard, and APS March Meetings.  
 [[arXiv]](https://arxiv.org/abs/2412.15165), [[Blog Post by QuEra]](https://www.quera.com/blog-posts/magic-state-distillation-on-logical-qubits)
 
 1. __Permutation gates in the third level of the Clifford hierarchy__, Oct 2024  
 Zhiyang He, Luke Robitaille, Xinyu Tan.  
 Talk at MIT. 
-[[arXiv]](https://arxiv.org/abs/2410.11818), [[Poster at QIP 2025]](files/QIP_2025_poster.pdf)
+[[arXiv]](https://arxiv.org/abs/2410.11818), [[Poster at QIP]](files/Permutations_QIP_2025_poster.pdf)
 
 1. __Improved QLDPC Surgery: Logical Measurements and Bridging Codes__, July 2024  
 Andrew Cross, Zhiyang He, Patrick Rall, Theodore Yoder.  
-*QIP 2025. Voted talk at [FTQT 2024](https://www.benasque.org/2024ftqt/).*  
+*QIP 2025.* Talk at [FTQT 2024](https://www.benasque.org/2024ftqt/).  
 Talks at MIT, Harvard, IBM, and APS March Meetings.  
 [[arXiv]](https://arxiv.org/abs/2407.18393), [[Slides at QIP]](files/QLDPC_Surgery.pdf)
 <!-- [[Talk at QIP]]() -->
@@ -113,7 +121,6 @@ Zhiyang He.
 Zhiyang He, Michael Tait.  
 *SIAM Journal on Discrete Mathematics.* 
 [[arXiv]](https://arxiv.org/abs/1807.10177), [[SIAM]](https://epubs.siam.org/doi/10.1137/18M1203389)
-
 
 
 
