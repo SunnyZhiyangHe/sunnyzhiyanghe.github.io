@@ -2,15 +2,15 @@
     white-space: nowrap;
   }
 
-input[type="checkbox"] + .extra-authors {
+input[type="checkbox"] + .more-authors {
   display: none;
 }
 
-input[type="checkbox"]:checked + .extra-authors {
+input[type="checkbox"]:checked + .more-authors {
   display: inline;
 }
 
 /* Ensure everything stays on one line */
-label, .extra-authors {
+label, .more-authors {
   display: inline;
 }
