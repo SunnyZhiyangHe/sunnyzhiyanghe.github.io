@@ -27,6 +27,8 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 - Magic state distillation works!  
 [Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165)
 
+  <img src="/images/MSD_main.png" alt="Logical magic state distillation with color code" width="600">
+    
 ## Talks and Travel {#talks}
 - I gave a talk on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at the University of Sydney & PsiQuantum joint journal club. I will also present this work at the MIT QI group meeting.
 - I will give a talk on [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864) at [Inria's QASAR Seminar](https://team.inria.fr/qasar/).
@@ -63,11 +65,12 @@ Talks at MIT, [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/), and U. S
 
 1. __Parallel Logical Measurements via Quantum Code Surgery__, Mar 2025  
 Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.  
+*TQC 2025.*  
 Talk at [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/). [[arxiv]](https://arxiv.org/abs/2503.05003)
 
 1. __Quantum Codes with Addressable and Transversal Non-Clifford Gates__, Feb 2025   
 <!-- (b) __Asymptotically Good Quantum Codes with Addressable and Transversal__  
-__Non-Clifford Gates__, Apr 2025   -->
+__Non-Clifford Gates__, May 2025   -->
 Zhiyang He, Vinod Vaikuntanathan, Adam Wills, Rachel Yun Zhang.  
 Talks at MIT, [Coogee 2025](https://quantum.sydney.edu.au/coogee25/), and [Asia Pacific QEC](https://www.youtube.com/@AsiaPacificQEC/videos).  
 [[arxiv]](https://arxiv.org/abs/2502.01864), [[Adam's Talk at APQEC]](https://www.youtube.com/watch?v=V9U_OJ5mZjI&t=7s)
