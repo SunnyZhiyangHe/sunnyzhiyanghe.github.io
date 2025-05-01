@@ -30,7 +30,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
   <img src="/images/MSD_main.png" alt="Logical magic state distillation with color code" width="600">
     
 ## Talks and Travel {#talks}
-- I gave a talk on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at the University of Sydney & PsiQuantum joint journal club. I will also present this work at the Yale QI colloquium and the MIT QI group meeting.
+- I gave a talk on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at the University of Sydney & PsiQuantum joint journal club. I will also present this work at the MIT QI group meeting.
 - I will give a talk on [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864) at [Inria's QASAR Seminar](https://team.inria.fr/qasar/).
 - I gave a talk titled <ins>Building a Quantum Computer Beyond the Surface Code</ins> in Apr 2025, at the MIT PQI seminar organized by Anand Natarajan. 
 - In Fall 2024, I helped organize a reading group on Quantum Fault-Tolerance with Rachel Zhang, Adam Wills and Vinod Vaikuntanathan. 
