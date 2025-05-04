@@ -30,17 +30,25 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
   <img src="/images/MSD_main.png" alt="Logical magic state distillation with color code" width="600">
     
 ## Talks and Travel {#talks}
-- I gave a talk on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at the University of Sydney & PsiQuantum joint journal club. I will also present this work at the MIT QI group meeting.
-- I will give a talk on [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864) at [Inria's QASAR Seminar](https://team.inria.fr/qasar/).
-- I gave a talk titled <ins>Building a Quantum Computer Beyond the Surface Code</ins> in Apr 2025, at the MIT PQI seminar organized by Anand Natarajan. 
-- In Fall 2024, I helped organize a reading group on Quantum Fault-Tolerance with Rachel Zhang, Adam Wills and Vinod Vaikuntanathan. 
-- I presented a recent work with IBM on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque. I also presented this work at QIP 2025.
+- I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at the University of Sydney & PsiQuantum joint journal club.
+<!-- - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI colloquium. Here are a few [photos](/travel#Yale) of Yale. I also presented this work at the University of Sydney & PsiQuantum joint journal club and MIT. -->
+- I will present our work on [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864) at [Inria's QASAR Seminar](https://team.inria.fr/qasar/).
+- I gave a talk titled <ins>Building a Quantum Computer Beyond the Surface Code</ins> in Apr 2025, at the MIT PQI seminar organized by Anand Natarajan.  
+- I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
 - I presented our work on [Single-shot decoding of good quantum LDPC codes](https://arxiv.org/abs/2306.12470) at TQC 2024 hosted in Okinawa, Japan. Here are some [photos](/travel#Japan) of Japan.
-- I gave a guest lecture at UCLA titled [An Introduction to Quantum LDPC Codes](files/QLDPC_UCLA.pdf) in March 2024, hosted by Professor [Jens Palsberg](https://web.cs.ucla.edu/~palsberg/). 
 - I attended QEC 2023 in Sydney, Australia. Did you know that visitors can pet [koalas and (small) kangaroos](/travel#Sydney) at the [Featherdale Wildlife Park](https://www.featherdale.com.au/)?
-- I presented our work with IBM on [Quantum Locally Testable Code with Constant Soundness](https://arxiv.org/abs/2209.11405) at QIP 2023 in Gent, Belgium. Here are some [photos](/travel#Gent) of the beautiful city of Gent. I also presented this work at IBM Yorktown.
-- In Summer 2023, I attended the [Quantum Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-workshop) at Simons Institute.
-- In Spring 2022, I helped organize a reading group on Asymptotically Good QLDPC Codes with Eugene Tang and Anand Natarajan.
+- I presented our work on [Quantum Locally Testable Code with Constant Soundness](https://arxiv.org/abs/2209.11405) at QIP 2023 in Gent, Belgium. Here are some [photos](/travel#Gent) of the beautiful city of Gent. 
+
+<details markdown="1">
+  <summary>Older News</summary>
+
+  <div markdown="1">
+  - In Fall 2024, I helped organize a reading group on Quantum Fault-Tolerance with Rachel Zhang, Adam Wills and Vinod Vaikuntanathan.
+  - I gave a guest lecture at UCLA titled [An Introduction to Quantum LDPC Codes](files/QLDPC_UCLA.pdf) in March 2024, hosted by Professor [Jens Palsberg](https://web.cs.ucla.edu/~palsberg/). 
+  - In Summer 2023, I attended the [Quantum Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-workshop) at Simons Institute.
+  - In Spring 2022, I helped organize a reading group on Asymptotically Good QLDPC Codes with Eugene Tang and Anand Natarajan.
+  </div>
+</details>
 
 ## Experiences {#exp}
 - I was a summer intern at [QuEra](https://www.quera.com/) in 2024. 
@@ -61,7 +69,7 @@ John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Issac Chuang.
 
 1. __Extractors: QLDPC Architecture for Efficient Pauli-Based Computation__, Mar 2025  
 Zhiyang He, Alexander Cowtan, Dominic J. Williamson, Theodore J. Yoder.  
-Talks at MIT, [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/), and U. Sydney & PsiQuantum.  
+Talks at MIT, [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/) and U. Sydney & PsiQuantum.  
 [[arxiv]](https://arxiv.org/abs/2503.10390), [[Slides]](files/Extractors.pdf)
 
 1. __Parallel Logical Measurements via Quantum Code Surgery__, Mar 2025  

@@ -1,10 +1,20 @@
 ---
 permalink: /travel
 title: "Travel"
-author_profile: true
+author_profile: false
 ---
 
 <!-- This page is under construction, check back later! -->
+
+## Summer in Benasque, Spain {#Benasque}
+
+![Benasque_1](/images/Benasque_1.jpg)  
+
+![Benasque_2](/images/Benasque_2.jpg)
+
+![Benasque_talk](/images/Benasque_Talk.jpeg)  
+=========================
+This photo is taken by Chris Pattison.
 
 ## Japan {#Japan}
 
@@ -19,16 +29,6 @@ Tōdai-ji (東大寺) was established in the early 8th century. The Nara Park ho
 ![Nara_2](/images/Nara_2.jpg)
 =========================
 Two representatives. They can sniff the cookies in your pockets. 
-
-## Summer in Benasque, Spain {#Benasque}
-
-![Benasque_1](/images/Benasque_1.jpg)  
-
-![Benasque_2](/images/Benasque_2.jpg)
-
-![Benasque_talk](/images/Benasque_Talk.jpeg)  
-=========================
-This photo is taken by Chris Pattison.
 
 ## Sydney, Australia {#Sydney}
 
@@ -56,6 +56,8 @@ They have the most fantastic chocolates and waffles in Belgium.
 ![Brugge_1](/images/Brugge_1.JPG)
 =========================
 This photo is taken in Brugge.
+
+<!-- ## Spring around Yale {#Yale} -->
 
 ## Winter in Salt Lake City {#SLC}
 
