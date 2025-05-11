@@ -38,18 +38,17 @@ Two representatives. They can sniff the cookies in your pockets.
     <img src="/images/kangaroo.jpg" alt="Kangaroo" style="width: 50%;">
     <img src="/images/koala.jpg" alt="Koala" style="width: 50%;">
 </div>  
-  
 Some kangaroos are a lot more polite than others.
 
 ## Gent, Belgium {#Gent}
 
-![Gent_1](/images/Gent_1.JPG)
+![Gent_1](/images/Gent_1_v2.JPG)
 
-![Gent_2](/images/Gent_2.JPG)
+<!-- ![Gent_2](/images/Gent_2.JPG) -->
 
 ![Gent_3](/images/Gent_3.JPG)
 
-![Gent_4](/images/Gent_4.JPG)
+![Gent_4](/images/Gent_4_v2.JPG)
 =========================
 They have the most fantastic chocolates and waffles in Belgium.
 
@@ -57,7 +56,21 @@ They have the most fantastic chocolates and waffles in Belgium.
 =========================
 This photo is taken in Brugge.
 
-<!-- ## Spring around Yale {#Yale} -->
+## Spring around Yale, New Haven {#Yale}
+
+<!-- ![Yale_2](/images/Yale_2.jpg) -->
+
+![Yale_1](/images/Yale_1.jpg)
+
+Many thanks to Katie Chang for showing me around the scenic Yale campus.
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="/images/Monet_Garden.jpg" alt="Monet" style="width: 50%;">
+    <img src="/images/Newton_Principia.jpg" alt="Principia" style="width: 50%;">
+</div>  
+<br/>
+Left: *The Artist's Garden at Giverny* (1900) by Claude Monet, in Yale University Art Gallery. 
+Right: A signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*, in Beinecke Rare Book and Manuscript Library. 
 
 ## Winter in Salt Lake City {#SLC}
 
