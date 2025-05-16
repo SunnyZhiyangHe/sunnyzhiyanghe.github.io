@@ -21,19 +21,18 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 [Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes](https://arxiv.org/abs/2504.13043)
 - Quantum LDPC code surgery can perform parallel logical Pauli measurements.  
 [Parallel Logical Measurements via Quantum Code Surgery](https://arxiv.org/abs/2503.05003)
-- Punctured quantum Reed-Solomon codes have transversal and addressable CCZ gates. [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)  
-<!-- <span class="nowrap"> A similar construction with algebraic geometry codes gives asymptotically good parameters. </span>  
-<span class="nowrap"> [Asymptotically Good Quantum Codes with Addressable and Transversal Non-Clifford Gates]() </span> -->
+- Punctured quantum Reed-Solomon codes have transversal and addressable CCZ gates. [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)   
+<!-- Similar construction with algebraic geometry codes gives asymptotically good parameters.   -->
+<!-- [Asymptotically Good Quantum Codes with Addressable and Transversal Non-Clifford Gates]() -->
 - Magic state distillation works!  
 [Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165)
 
   <img src="/images/MSD_main.png" alt="Logical magic state distillation with color code" width="600">
     
 ## Talks and Travel {#talks}
-<!-- - I gave an invited talk on [Extractors](https://arxiv.org/abs/2503.10390) at the [DIMACS Workshop on Quantum Software Systems and Theory](http://dimacs.rutgers.edu/events/details?eID=3248), hosted by Rutgers University.  -->
-- I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. 
-<!-- I also presented this work at the University of Sydney & PsiQuantum joint journal club and MIT. -->
 - I will present our work on [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864) at [Inria's QASAR Seminar](https://team.inria.fr/qasar/).
+- I gave an invited talk on [Extractors](https://arxiv.org/abs/2503.10390) at the [DIMACS Workshop on Quantum Software Systems and Theory](http://dimacs.rutgers.edu/events/details?eID=3248), hosted by Rutgers University. 
+- I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. 
 - I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
 - I presented our work on [Single-shot decoding of good quantum LDPC codes](https://arxiv.org/abs/2306.12470) at TQC 2024 hosted in Okinawa, Japan. Here are some [photos](/travel#Japan) of Japan.
 - I attended QEC 2023 in Sydney, Australia. Did you know that visitors can pet [koalas and (small) kangaroos](/travel#Sydney) at the [Featherdale Wildlife Park](https://www.featherdale.com.au/)?
@@ -67,26 +66,29 @@ Zhiyang He, Quynh Nguyen, Christopher Pattison.
 
 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, <span class="nowrap">2025</span>  
 John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Issac Chuang.  
-[[arxiv]](https://arxiv.org/abs/2504.13043), [[Poster at QIP]](files/decoder_qip25_poster.pdf)
+[[arXiv]](https://arxiv.org/abs/2504.13043), [[Poster at QIP]](files/decoder_qip25_poster.pdf)
 
 1. __Extractors: QLDPC Architecture for Efficient Pauli-Based Computation__, 2025  
 Zhiyang He, Alexander Cowtan, Dominic J. Williamson, Theodore J. Yoder.  
 *QEC 2025.*  
-Talks at MIT, Yale, [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/) and U. Sydney & PsiQuantum.  
-[[arxiv]](https://arxiv.org/abs/2503.10390), [[Slides]](files/Extractors.pdf)
+<!-- Talk at [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) at Simons.   -->
+Talks at MIT, Yale YQI, [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/), Xanadu, 
+[DIMACS](http://dimacs.rutgers.edu/events/details?eID=3248), and U. Sydney & PsiQuantum.  
+[[arXiv]](https://arxiv.org/abs/2503.10390), [[Slides]](files/Extractors.pdf)
 
 1. __Parallel Logical Measurements via Quantum Code Surgery__, 2025  
 Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.  
 *QEC 2025, TQC 2025.*  
-Talk at [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/). [[arxiv]](https://arxiv.org/abs/2503.05003)
+Talk at [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/). [[arXiv]](https://arxiv.org/abs/2503.05003)
 
 1. __Quantum Codes with Addressable and Transversal Non-Clifford Gates__, 2025   
 <!-- (b) __Asymptotically Good Quantum Codes with Addressable and Transversal__  
-__Non-Clifford Gates__, May 2025   -->
+__Non-Clifford Gates__, 2025   -->
 Zhiyang He, Vinod Vaikuntanathan, Adam Wills, Rachel Yun Zhang.  
 *QEC 2025.*  
-Talks at MIT, [Coogee 2025](https://quantum.sydney.edu.au/coogee25/), and [Asia Pacific QEC](https://www.youtube.com/@AsiaPacificQEC/videos).  
-[[arxiv]](https://arxiv.org/abs/2502.01864), [[Adam's Talk at APQEC]](https://www.youtube.com/watch?v=V9U_OJ5mZjI&t=7s)
+Talks at MIT, [Coogee 2025](https://quantum.sydney.edu.au/coogee25/), [Asia Pacific QEC](https://www.youtube.com/@AsiaPacificQEC/videos), and [Inria](https://team.inria.fr/qasar/).  
+[[arXiv]](https://arxiv.org/abs/2502.01864), [[Adam's Talk at APQEC]](https://www.youtube.com/watch?v=V9U_OJ5mZjI&t=7s)
+<!-- , [[Slides]]() -->
 
 1. __Experimental Demonstration of Logical Magic State Distillation__, 2024  
 Pedro Sales Rodriguez, John M. Robinson, Paul Niklas Jepsen, Zhiyang He, Casey Duckering, Chen Zhao, Kai-Hsin Wu, <label for="auth-toggle-1" style="cursor:pointer; text-decoration:underline; display:inline;">and 60 more authors</label><input type="checkbox" id="auth-toggle-1" style="display:none;"><span class="more-authors">: Joseph Campo, Kevin Bagnall, Minho Kwon, Thomas Karolyshyn, Phillip Weinberg, Madelyn Cain, Simon J. Evered, Alexandra A. Geim, Marcin Kalinowski, Sophie H. Li, Tom Manovitz, Jesse Amato-Grill, James I. Basham, Liane Bernstein, Boris Braverman, Alexei Bylinskii, Adam Choukri, Robert DeAngelo, Fang Fang, Connor Fieweger, Paige Frederick, David Haines, Majd Hamdan, Julian Hammett, Ning Hsu, Ming-Guang Hu, Florian Huber, Ningyuan Jia, Dhruv Kedar, Milan Kornjača, Fangli Liu, John Long, Jonathan Lopatin, Pedro L. S. Lopes, Xiu-Zhe Luo, Tommaso Macrì, Ognjen Marković, Luis A. Martínez-Martínez, Xianmei Meng, Stefan Ostermann, Evgeny Ostroumov, David Paquette, Zexuan Qiang, Vadim Shofman, Anshuman Singh, Manuj Singh, Nandan Sinha, Henry Thoreen, Noel Wan, Yiping Wang, Daniel Waxman-Lenz, Tak Wong, Jonathan Wurtz, Andrii Zhdanov, Laurent Zheng, Markus Greiner, Alexander Keesling, Nathan Gemelke, Vladan Vuletić, Takuya Kitagawa</span>, Sheng-Tao Wang, Dolev Bluvstein, Mikhail D. Lukin, Alexander Lukin, Hengyun Zhou, Sergio H. Cantú.  
@@ -100,7 +102,8 @@ Talk at MIT.
 
 1. __Improved QLDPC Surgery: Logical Measurements and Bridging Codes__, 2024  
 Andrew Cross, Zhiyang He, Patrick J. Rall, Theodore J. Yoder.  
-*QIP 2025.* Talk at [FTQT 2024](https://www.benasque.org/2024ftqt/).  
+*QIP 2025.*  
+Talk at [Fault-Tolerant Quantum Technologies](https://www.benasque.org/2024ftqt/) in Benasque.  
 Talks at MIT, Harvard, IBM, APS March Meetings, and [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/).  
 [[arXiv]](https://arxiv.org/abs/2407.18393), [[Slides at QIP]](files/QLDPC_Surgery.pdf)
 <!-- [[Talk at QIP]]() -->
