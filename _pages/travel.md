@@ -77,3 +77,5 @@ Right: A signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*,
 ![SLC_1](/images/SLC_1.jpg)
 
 ![SLC_2](/images/SLC_2.jpg)
+
+If you've scrolled all this way, I also have a [secret cheeseboard page](/cheeseboards).
