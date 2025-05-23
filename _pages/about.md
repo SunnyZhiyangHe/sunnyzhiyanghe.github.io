@@ -98,7 +98,7 @@ Talks at MIT, Harvard, APS March Meetings, and [FTQC](https://les-houches-ftqc-w
 1. __Permutation gates in the third level of the Clifford hierarchy__, 2024  
 Zhiyang He, Luke Robitaille, Xinyu Tan.  
 Talk at MIT. 
-[[arxiv]](https://arxiv.org/abs/2410.11818), [[Poster at QIP]](files/Permutations_QIP_2025_poster.pdf)
+[[arxiv]](https://arxiv.org/abs/2410.11818), [[Poster at QIP & QEC]](files/Permutations_QIP_2025_poster.pdf)
 
 1. __Improved QLDPC Surgery: Logical Measurements and Bridging Codes__, 2024  
 Andrew Cross, Zhiyang He, Patrick J. Rall, Theodore J. Yoder.  
@@ -107,12 +107,14 @@ Talk at [Fault-Tolerant Quantum Technologies](https://www.benasque.org/2024ftqt/
 Talks at MIT, Harvard, IBM, APS March Meetings, and [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/).  
 [[arxiv]](https://arxiv.org/abs/2407.18393), [[Slides at QIP]](files/QLDPC_Surgery.pdf)
 <!-- [[Talk at QIP]]() -->
+<!-- [[Poster at QEC]]() -->
 
 1. __Single-shot decoding of good quantum LDPC codes__, 2023  
 Shouzhen Gu, Eugene Tang, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubica.  
 *QEC 2023, TQC 2024. Communications in Mathematical Physics.*  
 Talk at [Advances in Quantum Coding Theory](https://simons.berkeley.edu/workshops/advances-quantum-coding-theory) at Simons Institute.  
 [[arxiv]](https://arxiv.org/abs/2306.12470), [[Shouzhen's Talk at Simons]](https://www.youtube.com/watch?v=ee3RmbNSBvc), [[Talk at TQC]](https://www.youtube.com/watch?v=RUClShhrqUQ), [[Slides at TQC]](files/SingleShotDecoding.pdf), [[CMP]](https://link.springer.com/article/10.1007/s00220-024-04951-6)
+<!-- [[Poster at QIP]]() -->
 
 1. __Quantum Locally Testable Code with Constant Soundness__, 2022  
 Andrew Cross, Zhiyang He, Anand Natarajan, Mario Szegedy, Guanyu Zhu.  
