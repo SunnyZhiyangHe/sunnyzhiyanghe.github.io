@@ -6,6 +6,30 @@ author_profile: false
 
 <!-- This page is under construction, check back later! -->
 
+## Athens and Delphi, Greece {#Greece}
+
+![Acropolis_Far](/images/Greece/Acropolis_1.jpeg)  
+
+![Acropolis_Near](/images/Greece/Acropolis_2.jpeg)  
+=========================
+Acropolis of Athens (Ακρόπολη Αθηνών), from near and afar. 
+
+![Posidon](/images/Greece/Temple_of_Posidon.jpeg)  
+
+![Aegean](/images/Greece/Aegean.jpeg)  
+=========================
+Sunset at Aegean Sea, next to the Temple of Posidon (photo above). 
+
+![Delphi](/images/Greece/Delphi.jpeg)  
+=========================
+Ancient gymnasium at Delphi, next to the Oracle. Olympian athletes of ancient Greece used to train here. 
+
+<!-- <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="/images/Greece/Temple_of_Posidon.jpeg" alt="Temple of Posidon" style="width: 50%;">
+    <img src="/images/Greece/Aegean.jpeg" alt="Sunset at Aegean" style="width: 50%;">
+</div>   -->
+
+
 ## Summer in Benasque, Spain {#Benasque}
 
 ![Benasque_1](/images/Benasque_1.jpg)  
@@ -72,10 +96,14 @@ Many thanks to Katie Chang for showing me around the scenic Yale campus.
 Left: *The Artist's Garden at Giverny* (1900) by Claude Monet, in Yale University Art Gallery. 
 Right: A signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*, in Beinecke Rare Book and Manuscript Library. 
 
-## Winter in Salt Lake City {#SLC}
+## San Francisco and San Jose, California {#CA}
+
+![SF](/images/SanFrancisco/Palace_of_Fine_arts.jpeg)
+
+## Winter in Salt Lake City, Utah {#SLC}
 
 ![SLC_1](/images/SLC_1.jpg)
 
 ![SLC_2](/images/SLC_2.jpg)
 
-If you've scrolled all this way, I also have a [secret cheeseboard page](/cheeseboards).
+If you've scrolled all this way, I also have a [secret cheeseboard page](/cheeseboards), and a page for [randomly distributed cats](/cats).

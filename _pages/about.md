@@ -30,7 +30,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
   <img src="/images/MSD_main.png" alt="Logical magic state distillation with color code" width="600">
     
 ## Talks and Travel {#talks}
-- I will present our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) hosted by Simons Institute. 
+- I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) hosted by Simons Institute. I am now visiting at the [Summer Cluster on Quantum Computing Workshop](https://simons.berkeley.edu/workshops/summer-cluster-quantum-computing-workshop).
 - I presented our work on [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864) ([Slides](/files/AddressableCCZ.pdf)) at [Inria's QASAR Seminar](https://team.inria.fr/qasar/).
 - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. 
 - I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
@@ -76,6 +76,7 @@ Talk at [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://si
 Talks at MIT, Yale YQI, [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/), Xanadu, 
 [DIMACS](http://dimacs.rutgers.edu/events/details?eID=3248), and U. Sydney & PsiQuantum.  
 [[arxiv]](https://arxiv.org/abs/2503.10390), [[Slides]](files/Extractors.pdf)
+<!-- [[Talk at Simons]]() -->
 
 1. __Parallel Logical Measurements via Quantum Code Surgery__, 2025  
 Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.  
