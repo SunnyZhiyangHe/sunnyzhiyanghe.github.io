@@ -96,9 +96,13 @@ Many thanks to Katie Chang for showing me around the scenic Yale campus.
 Left: *The Artist's Garden at Giverny* (1900) by Claude Monet, in Yale University Art Gallery. 
 Right: A signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*, in Beinecke Rare Book and Manuscript Library. 
 
-## San Francisco and San Jose, California {#CA}
+## San Francisco, California {#CA}
 
-![SF](/images/SanFrancisco/Palace_of_Fine_arts.jpeg)
+![Chinatown](/images/SanFrancisco/Chinatown.JPG)
+<!-- =========================
+The San Francisco chinatown is the oldest in North America.  -->
+
+![SF_1](/images/SanFrancisco/Palace_of_Fine_arts.jpeg)
 
 ## Winter in Salt Lake City, Utah {#SLC}
 

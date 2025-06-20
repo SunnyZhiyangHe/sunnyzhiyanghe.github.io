@@ -20,7 +20,8 @@ Cats in Delphi, in front of the Delphi Archaeological Museum.
     <img src="/images/Cats/Coco_3.jpeg" alt="Coco_3" style="width: 50%;">
 </div>  
 Random cat spawn on a couch in Cambridge. Left is apparently a natural position for him, as he stayed like this unmoved for half an hour.
-<!-- Same cat as above, in a different natural position. Right: Napping cat in Japan.  -->
+
+More oracle calls in progress, check back later!
 
 <!-- ![Cat_Japan](/images/Cats/Cat_Japan.jpeg) 
 =========================
