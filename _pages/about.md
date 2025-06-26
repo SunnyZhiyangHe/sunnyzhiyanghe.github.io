@@ -17,6 +17,10 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390)  
 
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="500">  
+- ML decoders can be faster and more accurate than BPOSD for QLDPC codes.  
+[Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes](https://arxiv.org/abs/2504.13043)
+- Quantum LDPC code surgery can perform parallel logical Pauli measurements.  
+[Parallel Logical Measurements via Quantum Code Surgery](https://arxiv.org/abs/2503.05003)
 - Punctured quantum Reed-Solomon codes have transversal and addressable CCZ gates. [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)   
 <!-- Similar construction with algebraic geometry codes gives asymptotically good parameters.   -->
 <!-- [Asymptotically Good Quantum Codes with Addressable and Transversal Non-Clifford Gates]() -->
@@ -25,17 +29,14 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 
   <img src="/images/MSD_main.png" alt="Logical magic state distillation with color code" width="600">
 
-<details markdown="1">
+<!-- <details markdown="1">
   <summary>Past Highlights</summary>
 
   <div markdown="1">
-  - ML decoders can be faster and more accurate than BPOSD for QLDPC codes.  
-  [Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes](https://arxiv.org/abs/2504.13043)
-  - Quantum LDPC code surgery can perform parallel logical Pauli measurements.  
-  [Parallel Logical Measurements via Quantum Code Surgery](https://arxiv.org/abs/2503.05003)
+  
   </div>
 </details>
-  
+   -->
 ## Talks and Travel {#talks}
 - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) hosted by Simons Institute. Here is the [Youtube video](https://www.youtube.com/watch?v=L6cDAbaW2Zs).
 - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. 
