@@ -12,7 +12,7 @@ Hi! This is Sunny, I am a graduate student at MIT advised by Professor [Peter Sh
 
 Prior to grad school I was an undergrad at CMU. I worked in graph algorithms with Professor [Anupam Gupta](https://cs.nyu.edu/~anupamg/) and [Jason Li](https://q3r.github.io/), and combinatorics with Professor [Boris Bukh](https://www.borisbukh.org/) and [Michael Tait](https://sites.google.com/view/michaeltait).
 
-## Paper Highlights
+## Recent Works
 - **Extractor architectures**: A highly flexible architecture for fault-tolerant quantum computers based on QLDPC codes, powered by a new primitive called *extractor* which can augment any quantum code into a computational block. [[Slides]](files/Extractors.pdf), [[Talk at Simons]](https://www.youtube.com/watch?v=L6cDAbaW2Zs)  
 [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390)  
 
@@ -38,7 +38,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 </details>
    -->
 ## Talks and Travel {#talks}
-- I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) hosted by Simons Institute. Here is the [Youtube video](https://www.youtube.com/watch?v=L6cDAbaW2Zs).
+- I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) hosted by Simons Institute. Here is the [recording](https://www.youtube.com/watch?v=L6cDAbaW2Zs) on Youtube.
 - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. 
 - I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
 - I presented our work on [Single-shot decoding of good quantum LDPC codes](https://arxiv.org/abs/2306.12470) at TQC 2024 hosted in Okinawa, Japan. Here are some [photos](/travel#Japan) of Japan.
@@ -66,7 +66,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 - In Fall 2022, I was a TA for [Peter Shor's course on Quantum Computation](https://math.mit.edu/~shor/435-LN/).
 
 
-## Publications {#publications}
+## Writings {#writings}
 
 ### Quantum
 1. __Composable Quantum Fault-Tolerance__, To Appear  
@@ -154,7 +154,8 @@ Zhiyang He, Michael Tait.
 *SIAM Journal on Discrete Mathematics.* 
 [[arxiv]](https://arxiv.org/abs/1807.10177), [[SIAM]](https://epubs.siam.org/doi/10.1137/18M1203389)
 
-
+### Others
+- Master's Thesis: [On Extremal Combinatorics and Its Applications in Matroid Theory](/files/MSThesis.pdf)
 
 
 
