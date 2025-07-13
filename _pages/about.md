@@ -159,7 +159,7 @@ Zhiyang He, Michael Tait.
 [[arxiv]](https://arxiv.org/abs/1807.10177), [[SIAM]](https://epubs.siam.org/doi/10.1137/18M1203389)
 
 ### Others
-- Master's Thesis: [On Extremal Combinatorics and Its Applications in Matroid Theory](/files/MSThesis.pdf)
+- Master's Thesis: [On Extremal Combinatorics and Its Applications in Matroid Theory](/files/Masters_Thesis.pdf)
 
 
 
