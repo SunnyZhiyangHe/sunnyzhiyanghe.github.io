@@ -17,29 +17,31 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390)  
 
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="500">  
-- ML decoders can be faster and more accurate than BPOSD for QLDPC codes.  
-[Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes](https://arxiv.org/abs/2504.13043)
-- Quantum LDPC code surgery can perform parallel logical Pauli measurements.  
-[Parallel Logical Measurements via Quantum Code Surgery](https://arxiv.org/abs/2503.05003)
-- Punctured quantum Reed-Solomon codes have transversal and addressable CCZ gates.  
-[Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)   
-Similar construction with algebraic geometry codes gives [asymptotically good parameters](https://arxiv.org/abs/2507.05392).  
-- Magic state distillation works!  
+- Magic state distillation works! Our paper was just published in [Nature](https://www.nature.com/articles/s41586-025-09367-3).  
 [Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165)
 
   <img src="/images/MSD_main.png" alt="Logical magic state distillation with color code" width="600">
+- Punctured quantum Reed-Solomon codes have transversal and addressable CCZ gates.  
+[Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)   
+Similar construction with algebraic geometry codes gives [asymptotically good parameters](https://arxiv.org/abs/2507.05392).  
 
-<!-- <details markdown="1">
+
+<details markdown="1">
   <summary>Past Highlights</summary>
 
   <div markdown="1">
+  - ML decoders can be faster and more accurate than BPOSD for QLDPC codes.  
+  [Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes](https://arxiv.org/abs/2504.13043)
+  - Quantum LDPC code surgery can perform parallel logical Pauli measurements.  
+  [Parallel Logical Measurements via Quantum Code Surgery](https://arxiv.org/abs/2503.05003)
   
   </div>
 </details>
-   -->
+  
 ## Talks and Travel {#talks}
 - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. 
 - I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
+- I gave a guest lecture at UCLA titled [An Introduction to Quantum LDPC Codes](files/QLDPC_UCLA.pdf), hosted by Professor [Jens Palsberg](https://web.cs.ucla.edu/~palsberg/). 
 - I presented our work on [Single-shot decoding of good quantum LDPC codes](https://arxiv.org/abs/2306.12470) at TQC 2024 hosted in Okinawa, Japan. Here are some [photos](/travel#Japan) of Japan.
 - I attended QEC 2023 in Sydney, Australia. Did you know that visitors can pet [koalas and (small) kangaroos](/travel#Sydney) at the [Featherdale Wildlife Park](https://www.featherdale.com.au/)?
 - I presented our work on [Quantum Locally Testable Code with Constant Soundness](https://arxiv.org/abs/2209.11405) at QIP 2023 in Gent, Belgium. Here are some [photos](/travel#Gent) of the beautiful city of Gent. 
@@ -53,7 +55,6 @@ Similar construction with algebraic geometry codes gives [asymptotically good pa
   - I gave an invited talk on [Extractors](https://arxiv.org/abs/2503.10390) at the [DIMACS Workshop on Quantum Software Systems and Theory](http://dimacs.rutgers.edu/events/details?eID=3248), hosted at Rutgers University. 
   - I gave a talk on Building a Quantum Computer Beyond the Surface Code in Apr 2025, at the MIT PQI seminar organized by Anand Natarajan.  
   - In Fall 2024, I helped organize a reading group on Quantum Fault-Tolerance with Rachel Zhang, Adam Wills and Vinod Vaikuntanathan.
-  - I gave a guest lecture at UCLA titled [An Introduction to Quantum LDPC Codes](files/QLDPC_UCLA.pdf) in March 2024, hosted by Professor [Jens Palsberg](https://web.cs.ucla.edu/~palsberg/). 
   - In Summer 2023 and 2025, I attended the [Quantum Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-workshop) at Simons Institute.
   - In Spring 2022, I helped organize a reading group on Asymptotically Good QLDPC Codes with Eugene Tang and Anand Natarajan.
   </div>
@@ -81,7 +82,7 @@ John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Issac Chuang.
 Zhiyang He, Alexander Cowtan, Dominic J. Williamson, Theodore J. Yoder.  
 *QEC 2025.*  
 Talk at [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) at Simons Institute.  
-Talks at MIT, Yale YQI, [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/), Xanadu, 
+Talks at MIT, IBM, Yale YQI, [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/), Xanadu, 
 [DIMACS](http://dimacs.rutgers.edu/events/details?eID=3248), and U. Sydney & PsiQuantum.  
 [[arxiv]](https://arxiv.org/abs/2503.10390), [[Slides]](files/Extractors.pdf), [[Talk at Simons]](https://www.youtube.com/watch?v=L6cDAbaW2Zs)
 
@@ -102,8 +103,7 @@ Talks at MIT, [Coogee 2025](https://quantum.sydney.edu.au/coogee25/), [Asia Paci
 Pedro Sales Rodriguez, John M. Robinson, Paul Niklas Jepsen, Zhiyang He, Casey Duckering, Chen Zhao, Kai-Hsin Wu, <label for="auth-toggle-1" style="cursor:pointer; text-decoration:underline; display:inline;">and 60 more authors</label><input type="checkbox" id="auth-toggle-1" style="display:none;"><span class="more-authors">: Joseph Campo, Kevin Bagnall, Minho Kwon, Thomas Karolyshyn, Phillip Weinberg, Madelyn Cain, Simon J. Evered, Alexandra A. Geim, Marcin Kalinowski, Sophie H. Li, Tom Manovitz, Jesse Amato-Grill, James I. Basham, Liane Bernstein, Boris Braverman, Alexei Bylinskii, Adam Choukri, Robert DeAngelo, Fang Fang, Connor Fieweger, Paige Frederick, David Haines, Majd Hamdan, Julian Hammett, Ning Hsu, Ming-Guang Hu, Florian Huber, Ningyuan Jia, Dhruv Kedar, Milan Kornjača, Fangli Liu, John Long, Jonathan Lopatin, Pedro L. S. Lopes, Xiu-Zhe Luo, Tommaso Macrì, Ognjen Marković, Luis A. Martínez-Martínez, Xianmei Meng, Stefan Ostermann, Evgeny Ostroumov, David Paquette, Zexuan Qiang, Vadim Shofman, Anshuman Singh, Manuj Singh, Nandan Sinha, Henry Thoreen, Noel Wan, Yiping Wang, Daniel Waxman-Lenz, Tak Wong, Jonathan Wurtz, Andrii Zhdanov, Laurent Zheng, Markus Greiner, Alexander Keesling, Nathan Gemelke, Vladan Vuletić, Takuya Kitagawa</span>, Sheng-Tao Wang, Dolev Bluvstein, Mikhail D. Lukin, Alexander Lukin, Hengyun Zhou, Sergio H. Cantú.  
 ***Nature (2025).***  
 Talks at MIT, Harvard, APS March Meetings, and [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/).  
-[[arxiv]](https://arxiv.org/abs/2412.15165), [[Blog Post by QuEra]](https://www.quera.com/blog-posts/magic-state-distillation-on-logical-qubits)
-<!-- , [[Nature]]() -->
+[[arxiv]](https://arxiv.org/abs/2412.15165), [[Blog Post by Harry]](https://www.quera.com/blog-posts/magic-state-distillation-on-logical-qubits), [[Press Release by QuEra]](https://www.quera.com/press-releases/quera-harvard-and-mit-researchers-demonstrate-logical-level-magic-state-distillation-on-a-neutral-atom-quantum-computer), [[Nature]](https://www.nature.com/articles/s41586-025-09367-3)  
 
 1. __Permutation gates in the third level of the Clifford hierarchy__, 2024  
 Zhiyang He, Luke Robitaille, Xinyu Tan.  
