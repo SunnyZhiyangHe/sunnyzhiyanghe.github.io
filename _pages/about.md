@@ -13,7 +13,7 @@ Hi! This is Sunny, I am a graduate student at MIT advised by Professor [Peter Sh
 Prior to grad school I was an undergrad at CMU. I worked in graph algorithms with Professor [Anupam Gupta](https://cs.nyu.edu/~anupamg/) and [Jason Li](https://q3r.github.io/), and combinatorics with Professor [Boris Bukh](https://www.borisbukh.org/) and [Michael Tait](https://sites.google.com/view/michaeltait).
 
 ## Recent Works
-- **Extractor architectures**: A highly flexible architecture for fault-tolerant quantum computers based on QLDPC codes, powered by a new primitive called *extractor* which can augment any quantum code into a computational block. [[Slides]](files/Extractors.pdf), [[Talk at Simons]](https://www.youtube.com/watch?v=L6cDAbaW2Zs)  
+- **Extractor architectures**: A highly flexible architecture for fault-tolerant quantum computers based on QLDPC codes, powered by a new primitive called **extractor** which can augment any quantum code into a computational processor. [[Slides]](files/Extractors.pdf), [[Talk at Simons]](https://www.youtube.com/watch?v=L6cDAbaW2Zs)  
 [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390)  
 
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="500">  
