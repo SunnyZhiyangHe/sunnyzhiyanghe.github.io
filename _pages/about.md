@@ -69,7 +69,7 @@ Similar construction with algebraic geometry codes gives [asymptotically good pa
 - In Spring 2024, I was a visitor at the [Quantum Algorithms, Complexity, and Fault Tolerance Workshop](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance) hosted by [Simons Institute](https://simons.berkeley.edu/homepage) at UC Berkeley.
 - I was a summer intern at [IBM Quantum](https://www.ibm.com/quantum) in 2022 and 2023. 
 - In Fall 2022, I was a TA for [Peter Shor's course on Quantum Computation](https://math.mit.edu/~shor/435-LN/).
-- At Carnegie Mellon, I was TAs for Discrete Math, Concepts of Mathematics, and Calculus II. 
+- At Carnegie Mellon, I TAed for Discrete Math, Concepts of Mathematics, and Calculus II. 
 
 ## Writings {#writings}
 
@@ -95,7 +95,7 @@ Talks at MIT, IBM, Yale YQI, [FTQC](https://les-houches-ftqc-workshop.alice-bob.
 Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.  
 *QEC 2025, TQC 2025.*  
 Talk at [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/). [[arxiv]](https://arxiv.org/abs/2503.05003)
-<!-- [[Slides at QEC]]()  -->
+<!-- [[Alex's Slides at QEC]]()  -->
 
 1. (I)&nbsp; __Quantum Codes with Addressable and Transversal Non-Clifford Gates__, 2025   
 (II) __Asymptotically Good Quantum Codes with Addressable and Transversal__  
