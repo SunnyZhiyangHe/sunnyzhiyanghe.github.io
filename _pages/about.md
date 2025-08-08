@@ -13,6 +13,9 @@ Hi! This is Sunny, I am a graduate student at MIT advised by Professor [Peter Sh
 Prior to grad school I was an undergrad at CMU. I worked in graph algorithms with Professor [Anupam Gupta](https://cs.nyu.edu/~anupamg/) and [Jason Li](https://q3r.github.io/), and combinatorics with Professor [Boris Bukh](https://www.borisbukh.org/) and [Michael Tait](https://sites.google.com/view/michaeltait).
 
 ## Recent Works
+<!-- - Fault-tolerance is, at its core, a combinatorial problem.  
+[Composable Quantum Fault-Tolerance]() -->
+
 - **Extractor architectures**: A highly flexible architecture for fault-tolerant quantum computers based on QLDPC codes, powered by a new primitive called **extractor** which can augment any quantum code into a computational processor. [[Slides]](files/Extractors.pdf), [[Talk at Simons]](https://www.youtube.com/watch?v=L6cDAbaW2Zs)  
 [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390)  
 
@@ -61,11 +64,12 @@ Similar construction with algebraic geometry codes gives [asymptotically good pa
 </details>
 
 ## Experiences {#exp}
+<!-- - I am serving on the program committee of QIP 2026. -->
 - I was a summer intern at [QuEra](https://www.quera.com/) in 2024. 
 - In Spring 2024, I was a visitor at the [Quantum Algorithms, Complexity, and Fault Tolerance Workshop](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance) hosted by [Simons Institute](https://simons.berkeley.edu/homepage) at UC Berkeley.
 - I was a summer intern at [IBM Quantum](https://www.ibm.com/quantum) in 2022 and 2023. 
 - In Fall 2022, I was a TA for [Peter Shor's course on Quantum Computation](https://math.mit.edu/~shor/435-LN/).
-
+- At Carnegie Mellon, I was TAs for Discrete Math, Concepts of Mathematics, and Calculus II. 
 
 ## Writings {#writings}
 
@@ -73,6 +77,7 @@ Similar construction with algebraic geometry codes gives [asymptotically good pa
 1. __Composable Quantum Fault-Tolerance__, To Appear  
 Zhiyang He, Quynh Nguyen, Christopher Pattison.  
 *QEC 2025.*  
+<!-- [[]](), [[Slides at QEC]]() -->
 
 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, <span class="nowrap">2025</span>  
 John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Issac Chuang.  
@@ -90,6 +95,7 @@ Talks at MIT, IBM, Yale YQI, [FTQC](https://les-houches-ftqc-workshop.alice-bob.
 Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.  
 *QEC 2025, TQC 2025.*  
 Talk at [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/). [[arxiv]](https://arxiv.org/abs/2503.05003)
+<!-- [[Slides at QEC]]()  -->
 
 1. (I)&nbsp; __Quantum Codes with Addressable and Transversal Non-Clifford Gates__, 2025   
 (II) __Asymptotically Good Quantum Codes with Addressable and Transversal__  
@@ -108,7 +114,7 @@ Talks at MIT, Harvard, APS March Meetings, and [FTQC](https://les-houches-ftqc-w
 1. __Permutation gates in the third level of the Clifford hierarchy__, 2024  
 Zhiyang He, Luke Robitaille, Xinyu Tan.  
 Talk at MIT. 
-[[arxiv]](https://arxiv.org/abs/2410.11818), [[Poster at QIP & QEC]](files/Permutations_QIP_2025_poster.pdf)
+[[arxiv]](https://arxiv.org/abs/2410.11818), [[Poster at QIP & QEC]](files/Permutations_QEC_2025_poster.pdf)
 
 1. __Improved QLDPC Surgery: Logical Measurements and Bridging Codes__, 2024  
 Andrew Cross, Zhiyang He, Patrick J. Rall, Theodore J. Yoder.  
@@ -116,16 +122,14 @@ Andrew Cross, Zhiyang He, Patrick J. Rall, Theodore J. Yoder.
 <!-- *QIP 2025, NPJ Quantum Information.*   -->
 Talk at [Fault-Tolerant Quantum Technologies](https://www.benasque.org/2024ftqt/) in Benasque.  
 Talks at MIT, Harvard, IBM, APS March Meetings, and [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/).  
-[[arxiv]](https://arxiv.org/abs/2407.18393), [[Slides at QIP]](files/QLDPC_Surgery.pdf)
-<!-- [[NPJ]]() -->
-<!-- [[Talk at QIP]]() -->
-<!-- [[Poster at QEC]]() -->
+[[arxiv]](https://arxiv.org/abs/2407.18393), [[Slides at QIP]](files/QLDPC_Surgery.pdf), [[Talk at QIP with Esha]](https://www.youtube.com/watch?v=42TYCtUMkD8), [[Poster at QEC]](files/surgery_qec2025_poster.pdf)
+<!-- [[NPJ QI]]() -->
 
 1. __Single-shot decoding of good quantum LDPC codes__, 2023  
 Shouzhen Gu, Eugene Tang, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubica.  
 *QEC 2023, TQC 2024. Communications in Mathematical Physics.*  
 Talk at [Advances in Quantum Coding Theory](https://simons.berkeley.edu/workshops/advances-quantum-coding-theory) at Simons Institute.  
-[[arxiv]](https://arxiv.org/abs/2306.12470), [[Shouzhen's Talk at Simons]](https://www.youtube.com/watch?v=ee3RmbNSBvc), [[Talk at TQC]](https://www.youtube.com/watch?v=RUClShhrqUQ), [[Slides at TQC]](files/SingleShotDecoding.pdf), [[CMP]](https://link.springer.com/article/10.1007/s00220-024-04951-6)
+[[arxiv]](https://arxiv.org/abs/2306.12470), [[Shouzhen's Talk at Simons]](https://www.youtube.com/watch?v=ee3RmbNSBvc), [[Slides at TQC]](files/SingleShotDecoding.pdf), [[Talk at TQC]](https://www.youtube.com/watch?v=RUClShhrqUQ), [[CMP]](https://link.springer.com/article/10.1007/s00220-024-04951-6)
 <!-- [[Poster at QIP]]() -->
 
 1. __Quantum Locally Testable Code with Constant Soundness__, 2022  
