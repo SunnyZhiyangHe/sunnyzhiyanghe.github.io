@@ -76,9 +76,9 @@ Similar construction with algebraic geometry codes gives [asymptotically good pa
 ### Quantum
 1. __Composable Quantum Fault-Tolerance__, 2025  
 Zhiyang He, Quynh Nguyen, Christopher Pattison.  
-*QEC 2025.* 
+*QEC 2025.*  
 [[Preprint]](/files/Composable_Quantum_FT.pdf)
-<!-- , [[Slides at QEC]]() -->
+<!-- , [[Slides]](/files/Composable_Quantum_FT_slides.pdf) -->
 
 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, <span class="nowrap">2025</span>  
 John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Issac Chuang.  
@@ -87,10 +87,10 @@ John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Issac Chuang.
 1. __Extractors: QLDPC Architecture for Efficient Pauli-Based Computation__, 2025  
 Zhiyang He, Alexander Cowtan, Dominic J. Williamson, Theodore J. Yoder.  
 *QEC 2025.*  
-Invited to the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/) at IEEE Quantum Week (QCE 2025).  
-Talk at [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) at Simons Institute.  
-Talks at MIT, IBM, Yale YQI, [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/), Xanadu, 
-[DIMACS](http://dimacs.rutgers.edu/events/details?eID=3248), and U. Sydney & PsiQuantum.  
+Invited talk at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/) at IEEE Quantum Week (QCE 2025).  
+<!-- Talk at [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) at Simons Institute.   -->
+Talks at Simons, MIT, IBM, Yale YQI, [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/), Xanadu, 
+[DIMACS](http://dimacs.rutgers.edu/events/details?eID=3248), and USydney & PsiQuantum.  
 [[arxiv]](https://arxiv.org/abs/2503.10390), [[Slides]](files/Extractors.pdf), [[Talk at Simons]](https://www.youtube.com/watch?v=L6cDAbaW2Zs)
 
 1. __Parallel Logical Measurements via Quantum Code Surgery__, 2025  
@@ -116,7 +116,8 @@ Talks at MIT, Harvard, APS March Meetings, and [FTQC](https://les-houches-ftqc-w
 1. __Permutation gates in the third level of the Clifford hierarchy__, 2024  
 Zhiyang He, Luke Robitaille, Xinyu Tan.  
 Talk at MIT. 
-[[arxiv]](https://arxiv.org/abs/2410.11818), [[Poster at QIP & QEC]](files/Permutations_QEC_2025_poster.pdf)
+[[arxiv]](https://arxiv.org/abs/2410.11818), [[Poster at QIP & QEC]](files/Permutations_QEC_2025_poster.pdf) 
+<!-- [[New Preprint]](/files/Permutations.pdf) -->
 
 1. __Improved QLDPC Surgery: Logical Measurements and Bridging Codes__, 2024  
 Andrew Cross, Zhiyang He, Patrick J. Rall, Theodore J. Yoder.  
