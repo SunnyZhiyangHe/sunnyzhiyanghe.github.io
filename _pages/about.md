@@ -76,7 +76,7 @@ Similar construction with algebraic geometry codes gives [asymptotically good pa
 ### Quantum
 1. __Composable Quantum Fault-Tolerance__, 2025  
 Zhiyang He, Quynh Nguyen, Christopher Pattison.  
-*QEC 2025.*  
+*QEC 2025.* 
 [[Preprint]](/files/Composable_Quantum_FT.pdf)
 <!-- , [[Slides]](/files/Composable_Quantum_FT_slides.pdf) -->
 
