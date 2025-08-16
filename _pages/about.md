@@ -13,34 +13,35 @@ Hi! This is Sunny, I am a graduate student at MIT advised by Professor [Peter Sh
 Prior to grad school I was an undergrad at CMU. I worked in graph algorithms with Professor [Anupam Gupta](https://cs.nyu.edu/~anupamg/) and [Jason Li](https://q3r.github.io/), and combinatorics with Professor [Boris Bukh](https://www.borisbukh.org/) and [Michael Tait](https://sites.google.com/view/michaeltait).
 
 ## Recent Works
-- Fault-tolerance is, at its core, a combinatorial study.  
-[Composable Quantum Fault-Tolerance](https://arxiv.org/abs/2508.08246)
 
-- **Extractor architectures**: A flexible architecture for fault-tolerant quantum computers based on QLDPC codes, powered by a new primitive called **extractor** which can augment any quantum code into a computational processor. [[Slides]](files/Extractors.pdf), [[Talk at Simons]](https://www.youtube.com/watch?v=L6cDAbaW2Zs)  
+- **Extractor architectures**: A flexible architecture for fault-tolerant quantum computers based on QLDPC codes, powered by a new primitive called **extractor** which can augment any quantum code into a computational processor. [[Slides]](files/Extractors.pdf), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066)  
 [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390)  
 
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="500">  
+
+- Fault-tolerance is, at its core, a combinatorial study.  
+[Composable Quantum Fault-Tolerance](https://arxiv.org/abs/2508.08246)
+
 - Magic state distillation works! Our paper was just published in [Nature](https://www.nature.com/articles/s41586-025-09367-3).  
 [Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165)
 
   <img src="/images/MSD_main.png" alt="Logical magic state distillation with color code" width="600">
-- Quantum LDPC code surgery can perform parallel logical Pauli measurements.  
-[Parallel Logical Measurements via Quantum Code Surgery](https://arxiv.org/abs/2503.05003)
-- Punctured quantum Reed-Solomon codes have transversal and addressable CCZ gates.  
-[Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)   
-Similar construction with algebraic geometry codes gives [asymptotically good parameters](https://arxiv.org/abs/2507.05392).  
-- ML decoders can be faster and more accurate than BPOSD for QLDPC codes.  
-[Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes](https://arxiv.org/abs/2504.13043)
 
-<!-- <details markdown="1">
+<details markdown="1">
   <summary>Past Highlights</summary>
 
   <div markdown="1">
-  
+  - Quantum LDPC code surgery can perform parallel logical Pauli measurements.  
+  [Parallel Logical Measurements via Quantum Code Surgery](https://arxiv.org/abs/2503.05003)
+  - Punctured quantum Reed-Solomon codes have transversal and addressable CCZ gates.  
+  [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)   
+  Similar construction with algebraic geometry codes gives [asymptotically good parameters](https://arxiv.org/abs/2507.05392).  
+  - ML decoders can be faster and more accurate than BPOSD for QLDPC codes.  
+  [Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes](https://arxiv.org/abs/2504.13043)
   
   </div>
 </details>
-   -->
+  
 ## Talks and Travel {#talks}
 - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. 
 - I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
