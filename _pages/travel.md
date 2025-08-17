@@ -94,7 +94,14 @@ Many thanks to Katie Chang for showing me around the scenic Yale campus.
 </div>  
 <br/>
 Left: *The Artist's Garden at Giverny* (1900) by Claude Monet, in Yale University Art Gallery. 
-Right: A signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*, in Beinecke Rare Book and Manuscript Library. 
+Right: A signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*, in Beinecke Rare Book and Manuscript Library.
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="/images/Yale/Fluorite.jpeg" alt="Monet" style="width: 50%;">
+    <img src="/images/Yale/Aquamarine.jpeg" alt="Principia" style="width: 50%;">
+</div>  
+<br/>
+Fluorite and aquamarine displayed at Yale's [Peabody museum](https://peabody.yale.edu/).
 
 ## San Francisco, California {#CA}
 

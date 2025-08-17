@@ -43,7 +43,8 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 </details>
   
 ## Talks and Travel {#talks}
-- I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. 
+- I will be giving a talk on [Extractor Architectures](https://arxiv.org/abs/2503.10390) at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/) at IEEE Quantum Week (QCE 2025).
+- I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. Their [Peabody museum](https://peabody.yale.edu/) also has fossils and shiny rocks.
 - I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
 - I gave a guest lecture at UCLA titled [An Introduction to Quantum LDPC Codes](files/QLDPC_UCLA.pdf), hosted by Professor [Jens Palsberg](https://web.cs.ucla.edu/~palsberg/). 
 - I presented our work on [Single-shot decoding of good quantum LDPC codes](https://arxiv.org/abs/2306.12470) at TQC 2024 hosted in Okinawa, Japan. Here are some [photos](/travel#Japan) of Japan.
@@ -65,7 +66,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 </details>
 
 ## Experiences {#exp}
-<!-- - I am serving on the program committee of QIP 2026. -->
+- I will be serving on the program committee of QIP 2026.
 - I was a summer intern at [QuEra](https://www.quera.com/) in 2024. 
 - In Spring 2024, I was a visitor at the [Quantum Algorithms, Complexity, and Fault Tolerance Workshop](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance) hosted by [Simons Institute](https://simons.berkeley.edu/homepage) at UC Berkeley.
 - I was a summer intern at [IBM Quantum](https://www.ibm.com/quantum) in 2022 and 2023. 
