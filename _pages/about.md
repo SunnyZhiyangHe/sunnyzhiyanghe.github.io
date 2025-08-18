@@ -14,7 +14,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 
 ## Recent Works
 
-- **Extractor architectures**: A flexible architecture for fault-tolerant quantum computers based on QLDPC codes, powered by a new primitive called **extractor** which can augment any quantum code into a computational processor. [[Slides]](files/Extractors.pdf), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066)  
+- **Extractor architectures**: A bridge from QLDPC memories to large-scale fault-tolerant QLDPC computers. [[Slides]](files/Extractors.pdf), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066)  
 [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390)  
 
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="500">  
