@@ -76,6 +76,12 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 ## Writings {#writings}
 
 ### Quantum
+<!-- 1. __Characterization of permutation gates in the 3rd level of the Clifford hierarchy__, 2025  
+Zhiyang He, Luke Robitaille, Xinyu Tan.  
+Talk at MIT. 
+Supersedes an earlier [preprint](https://arxiv.org/abs/2410.11818).  
+[[arxiv]](), [[Poster at QIP & QEC]](files/Permutations_QEC_2025_poster.pdf)   -->
+
 1. __Composable Quantum Fault-Tolerance__, 2025  
 Zhiyang He, Quynh T. Nguyen, Christopher A. Pattison.  
 *QEC 2025.*  
@@ -110,8 +116,10 @@ Talks at MIT, [Coogee 2025](https://quantum.sydney.edu.au/coogee25/), [Asia Paci
 1. __Experimental Demonstration of Logical Magic State Distillation__, 2024  
 Pedro Sales Rodriguez, John M. Robinson, Paul Niklas Jepsen, Zhiyang He, Casey Duckering, Chen Zhao, Kai-Hsin Wu, <label for="auth-toggle-1" style="cursor:pointer; text-decoration:underline; display:inline;">and 60 more authors</label><input type="checkbox" id="auth-toggle-1" style="display:none;"><span class="more-authors">: Joseph Campo, Kevin Bagnall, Minho Kwon, Thomas Karolyshyn, Phillip Weinberg, Madelyn Cain, Simon J. Evered, Alexandra A. Geim, Marcin Kalinowski, Sophie H. Li, Tom Manovitz, Jesse Amato-Grill, James I. Basham, Liane Bernstein, Boris Braverman, Alexei Bylinskii, Adam Choukri, Robert DeAngelo, Fang Fang, Connor Fieweger, Paige Frederick, David Haines, Majd Hamdan, Julian Hammett, Ning Hsu, Ming-Guang Hu, Florian Huber, Ningyuan Jia, Dhruv Kedar, Milan Kornjača, Fangli Liu, John Long, Jonathan Lopatin, Pedro L. S. Lopes, Xiu-Zhe Luo, Tommaso Macrì, Ognjen Marković, Luis A. Martínez-Martínez, Xianmei Meng, Stefan Ostermann, Evgeny Ostroumov, David Paquette, Zexuan Qiang, Vadim Shofman, Anshuman Singh, Manuj Singh, Nandan Sinha, Henry Thoreen, Noel Wan, Yiping Wang, Daniel Waxman-Lenz, Tak Wong, Jonathan Wurtz, Andrii Zhdanov, Laurent Zheng, Markus Greiner, Alexander Keesling, Nathan Gemelke, Vladan Vuletić, Takuya Kitagawa</span>, Sheng-Tao Wang, Dolev Bluvstein, Mikhail D. Lukin, Alexander Lukin, Hengyun Zhou, Sergio H. Cantú.  
 ***Nature (2025).***  
-Talks at MIT, Harvard, APS March Meetings.  
-[[arxiv]](https://arxiv.org/abs/2412.15165), [[Nature]](https://www.nature.com/articles/s41586-025-09367-3), [[Blog Post by QuEra]](https://www.quera.com/blog-posts/magic-state-distillation-on-logical-qubits), [[Popular Mechanics]](https://www.popularmechanics.com/science/a65450326/magic-state-distillation/), [[Harry's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=376d45f2-3342-4bfe-85e0-b3300100e71d) 
+Invited to the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/) at IEEE Quantum Week (QCE 2025).  
+Talks at QEC 2025, [Princeton PCTS](https://pcts.princeton.edu/events/2025/theoretical-and-experimental-advances-quantum-error-correction), [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/), MIT, Harvard, APS March Meetings.  
+[[arxiv]](https://arxiv.org/abs/2412.15165), [[Nature]](https://www.nature.com/articles/s41586-025-09367-3), [[Harry's talk at Princeton]](https://mediacentral.princeton.edu/media/Zhou%2C+Harry%2C+February+6%2C+2025%2C+%22Experimental+Demonstration+of+Logical+Magic+State+Distillation%22/1_9s8cg5ob), [[Harry's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=376d45f2-3342-4bfe-85e0-b3300100e71d), [[Popular Mechanics]](https://www.popularmechanics.com/science/a65450326/magic-state-distillation/)   
+<!-- [[Blog Post by QuEra]](https://www.quera.com/blog-posts/magic-state-distillation-on-logical-qubits),  -->
 
 1. __Permutation gates in the third level of the Clifford hierarchy__, 2024  
 Zhiyang He, Luke Robitaille, Xinyu Tan.  
@@ -167,6 +175,5 @@ Zhiyang He, Michael Tait.
 
 ### Others
 - Master's Thesis: [On Extremal Combinatorics and Its Applications in Matroid Theory](/files/Masters_Thesis.pdf)
-
 
 
