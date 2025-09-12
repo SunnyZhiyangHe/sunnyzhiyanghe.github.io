@@ -17,7 +17,13 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 - **Extractor architectures**: A bridge from QLDPC memories to large-scale fault-tolerant QLDPC computers. [[Slides]](files/Extractors.pdf), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066)  
 [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390)  
 
-  <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="500">  
+  <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="400">  
+
+<!-- - Check it out: permutation gates in $$C_3$$ whose inverse is not in $$C_k$$.
+[Characterization of permutation gates in the third level of the Clifford hierarchy]()
+
+- Have you heard of HDPC (high-density parity-check) before? Anyways, layer codes from HDPC input codes have provable and numerical partial self-correction properties.  
+[Layer codes as partially self-correcting quantum memories]() -->
 
 - Fault-tolerance is, at its core, a combinatorial study.  
 [Composable Quantum Fault-Tolerance](https://arxiv.org/abs/2508.08246)
@@ -43,30 +49,32 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 </details>
   
 ## Talks and Travel {#talks}
-- I will be giving a talk on [Extractor Architectures](https://arxiv.org/abs/2503.10390) at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/) at IEEE Quantum Week (QCE 2025).
-- I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. Their [Peabody museum](https://peabody.yale.edu/) also has fossils and shiny rocks.
+- I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/), part of IEEE Quantum Week hosted in Albuquerque. We visited their [Watermelon Mountains](/travel#ABQ).
+- I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. 
 - I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
 - I gave a guest lecture at UCLA titled [An Introduction to Quantum LDPC Codes](files/QLDPC_UCLA.pdf), hosted by Professor [Jens Palsberg](https://web.cs.ucla.edu/~palsberg/). 
-- I presented our work on [Single-shot decoding of good quantum LDPC codes](https://arxiv.org/abs/2306.12470) at TQC 2024 hosted in Okinawa, Japan. Here are some [photos](/travel#Japan) of Japan.
 - I attended QEC 2023 in Sydney, Australia. Did you know that visitors can pet [koalas and (small) kangaroos](/travel#Sydney) at the [Featherdale Wildlife Park](https://www.featherdale.com.au/)?
-- I presented our work on [Quantum Locally Testable Code with Constant Soundness](https://arxiv.org/abs/2209.11405) at QIP 2023 in Gent, Belgium. Here are some [photos](/travel#Gent) of the beautiful city of Gent. 
+
 
 <details markdown="1">
   <summary>Past Updates</summary>
 
   <div markdown="1">
+  <!-- - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/) at IEEE Quantum Week (QCE 2025). -->
   - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) hosted by Simons Institute. Here is the [recording](https://www.youtube.com/watch?v=L6cDAbaW2Zs) on Youtube.
   - I presented our work on [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864) ([Slides](/files/AddressableCCZ.pdf)) at [Inria's QASAR Seminar](https://team.inria.fr/qasar/).
-  - I gave an invited talk on [Extractors](https://arxiv.org/abs/2503.10390) at the [DIMACS Workshop on Quantum Software Systems and Theory](http://dimacs.rutgers.edu/events/details?eID=3248), hosted at Rutgers University. 
-  - I gave a talk on Building a Quantum Computer Beyond the Surface Code in Apr 2025, at the MIT PQI seminar organized by Anand Natarajan.  
+  <!-- - I gave an invited talk on [Extractors](https://arxiv.org/abs/2503.10390) at the [DIMACS Workshop on Quantum Software Systems and Theory](http://dimacs.rutgers.edu/events/details?eID=3248), hosted at Rutgers University.  -->
+  - I presented our work on [Single-shot decoding of good quantum LDPC codes](https://arxiv.org/abs/2306.12470) at TQC 2024 hosted in Okinawa, Japan. Here are some [photos](/travel#Japan) of Japan.
+  <!-- - I gave a talk on Building a Quantum Computer Beyond the Surface Code in Apr 2025, at the MIT PQI seminar organized by Anand Natarajan.   -->
   - In Fall 2024, I helped organize a reading group on Quantum Fault-Tolerance with Rachel Zhang, Adam Wills and Vinod Vaikuntanathan.
-  - In Summer 2023 and 2025, I attended the [Quantum Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-workshop) at Simons Institute.
+  <!-- - In Summer 2023 and 2025, I attended the [Quantum Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-workshop) at Simons Institute. -->
+  - I presented our work on [Quantum Locally Testable Code with Constant Soundness](https://arxiv.org/abs/2209.11405) at QIP 2023 in Gent, Belgium. Here are some [photos](/travel#Gent) of the beautiful city of Gent. 
   - In Spring 2022, I helped organize a reading group on Asymptotically Good QLDPC Codes with Eugene Tang and Anand Natarajan.
   </div>
 </details>
 
 ## Experiences {#exp}
-- I will be serving on the program committee of QIP 2026.
+- I am serving on the program committee of QIP 2026.
 - I was a summer intern at [QuEra](https://www.quera.com/) in 2024. 
 - In Spring 2024, I was a visitor at the [Quantum Algorithms, Complexity, and Fault Tolerance Workshop](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance) hosted by [Simons Institute](https://simons.berkeley.edu/homepage) at UC Berkeley.
 - I was a summer intern at [IBM Quantum](https://www.ibm.com/quantum) in 2022 and 2023. 
@@ -76,7 +84,12 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 ## Writings {#writings}
 
 ### Quantum
-<!-- 1. __Characterization of permutation gates in the 3rd level of the Clifford hierarchy__, 2025  
+<!-- 1. __Layer codes as partially self-correcting quantum memories__, 2025  
+Shouzhen Gu, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubica, Eugene Tang.
+Talks at [SQuInT 2025](https://squint.unm.edu/events/2025.html), [Princeton PCTS](https://pcts.princeton.edu/events/2025/theoretical-and-experimental-advances-quantum-error-correction), [MCQST 2025](https://www.mcqst.de/conference2025/)   
+[[arxiv]](), [[Alex's Talk at Princeton]](https://mediacentral.princeton.edu/media/Kubica%2C+Alex%2C+February+5%2C+2025%2C+%22Quantum+memories+and+self-correction%22/1_kit0egwf), [[Libor's Talk at Munich]](https://www.youtube.com/watch?v=Hkl_IcdhAmQ)
+
+1. __Characterization of permutation gates in the 3rd level of the Clifford hierarchy__, 2025  
 Zhiyang He, Luke Robitaille, Xinyu Tan.  
 Talk at MIT. 
 Supersedes an earlier [preprint](https://arxiv.org/abs/2410.11818).  
@@ -125,7 +138,6 @@ Talks at QEC 2025, [Princeton PCTS](https://pcts.princeton.edu/events/2025/theor
 Zhiyang He, Luke Robitaille, Xinyu Tan.  
 Talk at MIT. 
 [[arxiv]](https://arxiv.org/abs/2410.11818), [[Poster at QIP & QEC]](files/Permutations_QEC_2025_poster.pdf) 
-<!-- [[New Preprint]](/files/Permutations.pdf) -->
 
 1. __Improved QLDPC Surgery: Logical Measurements and Bridging Codes__, 2024  
 Andrew Cross, Zhiyang He, Patrick J. Rall, Theodore J. Yoder.  
@@ -141,7 +153,6 @@ Shouzhen Gu, Eugene Tang, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubic
 *QEC 2023, TQC 2024. Communications in Mathematical Physics.*  
 Talk at [Advances in Quantum Coding Theory](https://simons.berkeley.edu/workshops/advances-quantum-coding-theory) at Simons Institute.  
 [[arxiv]](https://arxiv.org/abs/2306.12470), [[Shouzhen's Talk at Simons]](https://www.youtube.com/watch?v=ee3RmbNSBvc), [[Slides at TQC]](files/SingleShotDecoding.pdf), [[Talk at TQC]](https://www.youtube.com/watch?v=RUClShhrqUQ), [[CMP]](https://link.springer.com/article/10.1007/s00220-024-04951-6)
-<!-- [[Poster at QIP]]() -->
 
 1. __Quantum Locally Testable Code with Constant Soundness__, 2022  
 Andrew Cross, Zhiyang He, Anand Natarajan, Mario Szegedy, Guanyu Zhu.  

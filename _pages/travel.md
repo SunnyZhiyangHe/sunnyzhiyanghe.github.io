@@ -29,7 +29,6 @@ Ancient gymnasium at Delphi, next to the Oracle. Olympian athletes of ancient Gr
     <img src="/images/Greece/Aegean.jpeg" alt="Sunset at Aegean" style="width: 50%;">
 </div>   -->
 
-
 ## Summer in Benasque, Spain {#Benasque}
 
 ![Benasque_1](/images/Benasque_1.jpg)  
@@ -53,6 +52,30 @@ Tōdai-ji (東大寺) was established in the early 8th century. The Nara Park ho
 ![Nara_2](/images/Nara_2.jpg)
 =========================
 Two representatives. They can sniff the cookies in your pockets. 
+
+## Spring around Yale, New Haven {#Yale}
+
+<!-- ![Yale_2](/images/Yale_2.jpg) -->
+
+![Yale_1](/images/Yale_1.jpg)
+
+Many thanks to Katie Chang for showing me around the scenic Yale campus.
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="/images/Monet_Garden.jpg" alt="Monet" style="width: 50%;">
+    <img src="/images/Newton_Principia.jpg" alt="Principia" style="width: 50%;">
+</div>  
+<br/>
+Left: *The Artist's Garden at Giverny* (1900) by Claude Monet, in Yale University Art Gallery. 
+Right: A signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*, in Beinecke Rare Book and Manuscript Library.
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="/images/Yale/Fluorite.jpeg" alt="Monet" style="width: 50%;">
+    <img src="/images/Yale/Aquamarine.jpeg" alt="Principia" style="width: 50%;">
+</div>  
+<br/>
+Fluorite and aquamarine displayed at Yale's [Peabody museum](https://peabody.yale.edu/).
+
 
 ## Sydney, Australia {#Sydney}
 
@@ -80,28 +103,12 @@ They have the most fantastic chocolates and waffles in Belgium.
 =========================
 This photo is taken in Brugge.
 
-## Spring around Yale, New Haven {#Yale}
+## Albuquerque, New Mexico {#ABQ}
+![oldtown](/images/ABQ/oldtown.jpeg)
 
-<!-- ![Yale_2](/images/Yale_2.jpg) -->
-
-![Yale_1](/images/Yale_1.jpg)
-
-Many thanks to Katie Chang for showing me around the scenic Yale campus.
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="/images/Monet_Garden.jpg" alt="Monet" style="width: 50%;">
-    <img src="/images/Newton_Principia.jpg" alt="Principia" style="width: 50%;">
-</div>  
-<br/>
-Left: *The Artist's Garden at Giverny* (1900) by Claude Monet, in Yale University Art Gallery. 
-Right: A signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*, in Beinecke Rare Book and Manuscript Library.
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="/images/Yale/Fluorite.jpeg" alt="Monet" style="width: 50%;">
-    <img src="/images/Yale/Aquamarine.jpeg" alt="Principia" style="width: 50%;">
-</div>  
-<br/>
-Fluorite and aquamarine displayed at Yale's [Peabody museum](https://peabody.yale.edu/).
+![Pano](/images/ABQ/pano.png)
+=========================
+Photo taken from the Sandia mountains. The word "Sandia" means watermelon in Spanish. It captures the color of the [red mountains with the green forests on top](https://en.wikipedia.org/wiki/Sandia_Mountains#Etymology). 
 
 ## San Francisco, California {#CA}
 
