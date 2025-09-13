@@ -25,7 +25,7 @@ Cats in Delphi, in front of the Delphi Archaeological Museum.
     <img src="/images/Cats/Coco_2.jpeg" alt="Coco_2" style="width: 50%;">
     <img src="/images/Cats/Coco_3.jpeg" alt="Coco_3" style="width: 50%;">
 </div>  
-Random cat spawn on a couch in Cambridge. Left is apparently a natural position for him, as he stayed like this unmoved for half an hour.
+[Random cat](https://photos.app.goo.gl/HK3oJNRbdTSeYy2E8) spawn on a couch in Cambridge. Left is apparently a natural position for him, as he stayed like this unmoved for half an hour.
 
 <p align="center">
   <img src="/images/Cats/Moose.jpeg" alt="Moose" width="70%"><br>
