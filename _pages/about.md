@@ -19,7 +19,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="400">  
 
-- Check it out: permutation gates in $$C_3$$ whose inverse are not in $$C_k$$.  
+- Check it out: permutation gates in $$C_3$$ whose inverses are not in $$C_k$$.  
 [Characterization of permutation gates in the third level of the Clifford hierarchy](https://arxiv.org/abs/2510.04993)
 
 <!-- - Have you heard of HDPC (high-density parity-check) codes before? Anyways, layer codes from HDPC input codes have provable and numerical partial self-correction properties.  
