@@ -19,10 +19,10 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="400">  
 
-<!-- - Check it out: permutation gates in $$C_3$$ whose inverse is not in $$C_k$$.
-[Characterization of permutation gates in the third level of the Clifford hierarchy]()
+- Check it out: permutation gates in $$C_3$$ whose inverse are not in $$C_k$$.  
+[Characterization of permutation gates in the third level of the Clifford hierarchy](https://arxiv.org/abs/2510.04993)
 
-- Have you heard of HDPC (high-density parity-check) before? Anyways, layer codes from HDPC input codes have provable and numerical partial self-correction properties.  
+<!-- - Have you heard of HDPC (high-density parity-check) codes before? Anyways, layer codes from HDPC input codes have provable and numerical partial self-correction properties.  
 [Layer codes as partially self-correcting quantum memories]() -->
 
 - Fault-tolerance is, at its core, a combinatorial study.  
@@ -87,13 +87,13 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 <!-- 1. __Layer codes as partially self-correcting quantum memories__, 2025  
 Shouzhen Gu, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubica, Eugene Tang.
 Talks at [SQuInT 2025](https://squint.unm.edu/events/2025.html), [Princeton PCTS](https://pcts.princeton.edu/events/2025/theoretical-and-experimental-advances-quantum-error-correction), [MCQST 2025](https://www.mcqst.de/conference2025/)   
-[[arxiv]](), [[Alex's Talk at Princeton]](https://mediacentral.princeton.edu/media/Kubica%2C+Alex%2C+February+5%2C+2025%2C+%22Quantum+memories+and+self-correction%22/1_kit0egwf), [[Libor's Talk at Munich]](https://www.youtube.com/watch?v=Hkl_IcdhAmQ)
+[[arxiv]](), [[Alex's Talk at Princeton]](https://mediacentral.princeton.edu/media/Kubica%2C+Alex%2C+February+5%2C+2025%2C+%22Quantum+memories+and+self-correction%22/1_kit0egwf), [[Libor's Talk at Munich]](https://www.youtube.com/watch?v=Hkl_IcdhAmQ) -->
 
 1. __Characterization of permutation gates in the 3rd level of the Clifford hierarchy__, 2025  
 Zhiyang He, Luke Robitaille, Xinyu Tan.  
 Talk at MIT. 
 Supersedes an earlier [preprint](https://arxiv.org/abs/2410.11818).  
-[[arxiv]](), [[Poster at QIP & QEC]](files/Permutations_QEC_2025_poster.pdf)   -->
+[[arxiv]](https://arxiv.org/abs/2510.04993), [[Poster at QIP & QEC]](files/Permutations_QEC_2025_poster.pdf)  
 
 1. __Composable Quantum Fault-Tolerance__, 2025  
 Zhiyang He, Quynh T. Nguyen, Christopher A. Pattison.  
@@ -134,10 +134,10 @@ Talks at QEC 2025, [Princeton PCTS](https://pcts.princeton.edu/events/2025/theor
 [[arxiv]](https://arxiv.org/abs/2412.15165), [[Nature]](https://www.nature.com/articles/s41586-025-09367-3), [[Harry's talk at Princeton]](https://mediacentral.princeton.edu/media/Zhou%2C+Harry%2C+February+6%2C+2025%2C+%22Experimental+Demonstration+of+Logical+Magic+State+Distillation%22/1_9s8cg5ob), [[Harry's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=376d45f2-3342-4bfe-85e0-b3300100e71d), [[Popular Mechanics]](https://www.popularmechanics.com/science/a65450326/magic-state-distillation/)   
 <!-- [[Blog Post by QuEra]](https://www.quera.com/blog-posts/magic-state-distillation-on-logical-qubits),  -->
 
-1. __Permutation gates in the third level of the Clifford hierarchy__, 2024  
+<!-- 1. __Permutation gates in the third level of the Clifford hierarchy__, 2024  
 Zhiyang He, Luke Robitaille, Xinyu Tan.  
 Talk at MIT. 
-[[arxiv]](https://arxiv.org/abs/2410.11818), [[Poster at QIP & QEC]](files/Permutations_QEC_2025_poster.pdf) 
+[[arxiv]](https://arxiv.org/abs/2410.11818), [[Poster at QIP & QEC]](files/Permutations_QEC_2025_poster.pdf)  -->
 
 1. __Improved QLDPC Surgery: Logical Measurements and Bridging Codes__, 2024  
 Andrew Cross, Zhiyang He, Patrick J. Rall, Theodore J. Yoder.  
