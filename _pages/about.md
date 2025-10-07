@@ -133,7 +133,6 @@ Invited to the [Scalable QEC Workshop](https://error-correction-lab.github.io/QE
 Talks at QEC 2025, [Princeton PCTS](https://pcts.princeton.edu/events/2025/theoretical-and-experimental-advances-quantum-error-correction), [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/), MIT, Harvard, APS March Meetings.  
 [[arxiv]](https://arxiv.org/abs/2412.15165), [[Nature]](https://www.nature.com/articles/s41586-025-09367-3), [[Harry's talk at Princeton]](https://mediacentral.princeton.edu/media/Zhou%2C+Harry%2C+February+6%2C+2025%2C+%22Experimental+Demonstration+of+Logical+Magic+State+Distillation%22/1_9s8cg5ob), [[Harry's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=376d45f2-3342-4bfe-85e0-b3300100e71d), [[Popular Mechanics]](https://www.popularmechanics.com/science/a65450326/magic-state-distillation/)   
 <!-- [[Blog Post by QuEra]](https://www.quera.com/blog-posts/magic-state-distillation-on-logical-qubits),  -->
-
 <!-- 1. __Permutation gates in the third level of the Clifford hierarchy__, 2024  
 Zhiyang He, Luke Robitaille, Xinyu Tan.  
 Talk at MIT. 
