@@ -104,6 +104,7 @@ They have the most fantastic chocolates and waffles in Belgium.
 This photo is taken in Brugge.
 
 ## Albuquerque, New Mexico {#ABQ}
+
 ![Pano](/images/ABQ/pano.png)
 =========================
 Photo taken from the Sandia mountains. The word "Sandia" means watermelon in Spanish. It captures the color of the [red mountains with the green forests on top](https://en.wikipedia.org/wiki/Sandia_Mountains#Etymology). 
