@@ -22,8 +22,8 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 - Check it out: permutation gates in $$C_3$$ whose inverses are not in $$C_k$$.  
 [Characterization of permutation gates in the third level of the Clifford hierarchy](https://arxiv.org/abs/2510.04993)
 
-<!-- - Have you heard of HDPC (high-density parity-check) codes before? Anyways, layer codes from HDPC input codes have provable and numerical partial self-correction properties.  
-[Layer codes as partially self-correcting quantum memories]() -->
+- Have you heard of high-density parity-check codes before? Anyways, layer codes with random HDPC input codes have provable and numerical partial self-correction properties.  
+[Layer codes as partially self-correcting quantum memories](https://arxiv.org/abs/2510.06659)
 
 - Fault-tolerance is, at its core, a combinatorial study.  
 [Composable Quantum Fault-Tolerance](https://arxiv.org/abs/2508.08246)
@@ -84,10 +84,10 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 ## Writings {#writings}
 
 ### Quantum
-<!-- 1. __Layer codes as partially self-correcting quantum memories__, 2025  
-Shouzhen Gu, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubica, Eugene Tang.
+1. __Layer codes as partially self-correcting quantum memories__, 2025  
+Shouzhen Gu, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubica, Eugene Tang.  
 Talks at [SQuInT 2025](https://squint.unm.edu/events/2025.html), [Princeton PCTS](https://pcts.princeton.edu/events/2025/theoretical-and-experimental-advances-quantum-error-correction), [MCQST 2025](https://www.mcqst.de/conference2025/)   
-[[arxiv]](), [[Alex's Talk at Princeton]](https://mediacentral.princeton.edu/media/Kubica%2C+Alex%2C+February+5%2C+2025%2C+%22Quantum+memories+and+self-correction%22/1_kit0egwf), [[Libor's Talk at Munich]](https://www.youtube.com/watch?v=Hkl_IcdhAmQ) -->
+[[arxiv]](https://arxiv.org/abs/2510.06659), [[Alex's Talk at Princeton]](https://mediacentral.princeton.edu/media/Kubica%2C+Alex%2C+February+5%2C+2025%2C+%22Quantum+memories+and+self-correction%22/1_kit0egwf), [[Libor's Talk at Munich]](https://www.youtube.com/watch?v=Hkl_IcdhAmQ)
 
 1. __Characterization of permutation gates in the 3rd level of the Clifford hierarchy__, 2025  
 Zhiyang He, Luke Robitaille, Xinyu Tan.  
