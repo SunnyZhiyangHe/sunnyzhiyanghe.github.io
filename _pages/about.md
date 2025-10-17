@@ -19,37 +19,39 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="400">  
 
-- Check it out: permutation gates in $$C_3$$ whose inverses are not in $$C_k$$.  
-[Characterization of permutation gates in the third level of the Clifford hierarchy](https://arxiv.org/abs/2510.04993)
-
-- Have you heard of high-density parity-check codes before? Anyways, layer codes with random HDPC input codes have provable and numerical partial self-correction properties.  
-[Layer codes as partially self-correcting quantum memories](https://arxiv.org/abs/2510.06659)
+- Quantum code surgery, but get them for constant time a piece if you run many of them.  
+[Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery](https://arxiv.org/abs/2510.14895) 
 
 - Fault-tolerance is, at its core, a combinatorial study.  
 [Composable Quantum Fault-Tolerance](https://arxiv.org/abs/2508.08246)
 
-- Magic state distillation works! Our paper was just published in [Nature](https://www.nature.com/articles/s41586-025-09367-3).  
-[Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165)
-
-  <img src="/images/MSD_main.png" alt="Logical magic state distillation with color code" width="600">
+- Check it out: permutation gates in $$C_3$$ whose inverses are not in $$C_k$$.  
+[Characterization of permutation gates in the third level of the Clifford hierarchy](https://arxiv.org/abs/2510.04993)
 
 <details markdown="1">
   <summary>Past Highlights</summary>
 
-  <div markdown="1">
-  - Quantum LDPC code surgery can perform parallel logical Pauli measurements.  
-  [Parallel Logical Measurements via Quantum Code Surgery](https://arxiv.org/abs/2503.05003)
+  <!-- <div markdown="1"> -->
+  - Magic state distillation works! Our paper was just published in [Nature](https://www.nature.com/articles/s41586-025-09367-3).  
+  [Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165)  
+
+    <img src="/images/MSD_main.png" alt="Logical magic state distillation with color code" width="600">
+
   - Punctured quantum Reed-Solomon codes have transversal and addressable CCZ gates.  
   [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)   
   Similar construction with algebraic geometry codes gives [asymptotically good parameters](https://arxiv.org/abs/2507.05392).  
+  - Quantum LDPC code surgery can perform parallel logical Pauli measurements.  
+  [Parallel Logical Measurements via Quantum Code Surgery](https://arxiv.org/abs/2503.05003)
+  - Have you heard of high-density parity-check codes before? Anyways, layer codes with random HDPC input codes have provable and numerical partial self-correction properties.  
+  [Layer codes as partially self-correcting quantum memories](https://arxiv.org/abs/2510.06659)
   - ML decoders can be faster and more accurate than BPOSD for QLDPC codes.  
   [Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes](https://arxiv.org/abs/2504.13043)
   
-  </div>
+  <!-- </div> -->
 </details>
   
 ## Talks and Travel {#talks}
-- I gave an invited talk on [Challenges in Scalable Quantum Error Correction](https://sunnyzhiyanghe.github.io/files/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM.
+- I gave an invited talk on [Challenges in Scalable Quantum Error Correction](https://sunnyzhiyanghe.github.io/files/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
 - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/), part of IEEE Quantum Week hosted in Albuquerque. We visited their [Watermelon Mountains](/travel#ABQ).
 - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. 
 - I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
@@ -85,9 +87,14 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 ## Writings {#writings}
 
 ### Quantum
+<!-- 1. __Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and__ <span class="nowrap">  __transversal surgery__, 2025</span>   -->
+1. __Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery__, 2025  
+Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder. 
+[[arxiv]](https://arxiv.org/abs/2510.14895) 
+
 1. __Layer codes as partially self-correcting quantum memories__, 2025  
 Shouzhen Gu, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubica, Eugene Tang.  
-Talks at [SQuInT 2025](https://squint.unm.edu/events/2025.html), [Princeton PCTS](https://pcts.princeton.edu/events/2025/theoretical-and-experimental-advances-quantum-error-correction), [MCQST 2025](https://www.mcqst.de/conference2025/)   
+Talks at [SQuInT 2025](https://squint.unm.edu/events/2025.html), [Princeton PCTS](https://pcts.princeton.edu/events/2025/theoretical-and-experimental-advances-quantum-error-correction) and [MCQST 2025](https://www.mcqst.de/conference2025/)   
 [[arxiv]](https://arxiv.org/abs/2510.06659), [[Alex's Talk at Princeton]](https://mediacentral.princeton.edu/media/Kubica%2C+Alex%2C+February+5%2C+2025%2C+%22Quantum+memories+and+self-correction%22/1_kit0egwf), [[Libor's Talk at Munich]](https://www.youtube.com/watch?v=Hkl_IcdhAmQ)
 
 1. __Characterization of permutation gates in the 3rd level of the Clifford hierarchy__, 2025  

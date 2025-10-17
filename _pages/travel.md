@@ -29,6 +29,8 @@ Ancient gymnasium at Delphi, next to the Oracle. Olympian athletes of ancient Gr
     <img src="/images/Greece/Aegean.jpeg" alt="Sunset at Aegean" style="width: 50%;">
 </div>   -->
 
+<!-- ## Fall in White Mountains, New Hampshire {#WhiteMountains} -->
+
 ## Summer in Benasque, Spain {#Benasque}
 
 ![Benasque_1](/images/Benasque_1.jpg)  
@@ -76,6 +78,15 @@ Right: A signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*,
 <br/>
 Fluorite and aquamarine displayed at Yale's [Peabody museum](https://peabody.yale.edu/).
 
+## Maine {#Maine}
+
+![Headlight](/images/EastCoast/Headlight_Sunrise.jpeg)
+=========================
+Sunrise at Portland Head Light.
+
+![JordanPond](/images/EastCoast/Acadia_JordanPond.jpeg)
+=========================
+Jordan Pond at Acadia.
 
 ## Sydney, Australia {#Sydney}
 
