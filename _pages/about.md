@@ -51,6 +51,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 </details>
   
 ## Talks and Travel {#talks}
+<!-- - I’ve just been anointed a [quantum surgeon](https://bsky.app/profile/domwilliamson.bsky.social/post/3m3ekjfae522v) by my fellow quantum surgeon, Dom Williamson. -->
 - I gave an invited talk on [Challenges in Scalable Quantum Error Correction](https://sunnyzhiyanghe.github.io/files/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
 - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/), part of IEEE Quantum Week hosted in Albuquerque. We visited their [Watermelon Mountains](/travel#ABQ).
 - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. 
@@ -118,7 +119,7 @@ Zhiyang He, Alexander Cowtan, Dominic J. Williamson, Theodore J. Yoder.
 Invited talk at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/) at IEEE Quantum Week (QCE 2025).  
 <!-- Talk at [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) at Simons Institute.   -->
 Talks at Simons, MIT, IBM, Yale YQI, Xanadu, 
-[DIMACS](http://dimacs.rutgers.edu/events/details?eID=3248), and USydney & PsiQuantum.  
+[DIMACS](http://dimacs.rutgers.edu/index.php/), and USydney & PsiQuantum.  
 [[arxiv]](https://arxiv.org/abs/2503.10390), [[Slides]](files/Extractors.pdf), [[Talk at Simons]](https://www.youtube.com/watch?v=L6cDAbaW2Zs), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066)
 
 1. __Parallel Logical Measurements via Quantum Code Surgery__, 2025  

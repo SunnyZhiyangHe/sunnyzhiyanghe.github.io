@@ -78,7 +78,7 @@ Right: A signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*,
 <br/>
 Fluorite and aquamarine displayed at Yale's [Peabody museum](https://peabody.yale.edu/).
 
-## Maine {#Maine}
+## Fall in Maine {#Maine}
 
 ![Headlight](/images/EastCoast/Headlight_Sunrise.jpeg)
 =========================
