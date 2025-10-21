@@ -110,7 +110,7 @@ Zhiyang He, Quynh T. Nguyen, Christopher A. Pattison.
 [[arxiv]](https://arxiv.org/abs/2508.08246), [[Chris's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a6e106f-5f21-417f-8bd9-b33000f3e782&start=1905.061)
 
 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, <span class="nowrap">2025</span>  
-John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Issac Chuang.  
+John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Isaac L. Chuang.  
 [[arxiv]](https://arxiv.org/abs/2504.13043), [[Poster at QIP]](files/decoder_qip25_poster.pdf)
 
 1. __Extractors: QLDPC Architecture for Efficient Pauli-Based Computation__, 2025  
