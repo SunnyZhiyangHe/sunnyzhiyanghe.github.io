@@ -86,7 +86,7 @@ Sunrise at Portland Head Light.
 
 ![JordanPond](/images/EastCoast/Acadia_JordanPond.jpeg)
 =========================
-Jordan Pond at Acadia.
+Jordan Pond at Acadia. The true colors of Fall eludes capture by cameras. 
 
 ## Sydney, Australia {#Sydney}
 
