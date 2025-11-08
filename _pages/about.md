@@ -22,11 +22,11 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 - Quantum code surgery, but get them for constant time a piece if you run many of them.  
 [Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery](https://arxiv.org/abs/2510.14895) 
 
-- Fault-tolerance is, at its core, a combinatorial study.  
-[Composable Quantum Fault-Tolerance](https://arxiv.org/abs/2508.08246)
+- Have you heard of high-density parity-check codes before? Anyways, layer codes with random HDPC input codes have provable and numerical partial self-correction properties.  
+[Layer codes as partially self-correcting quantum memories](https://arxiv.org/abs/2510.06659)
 
-- Check it out: permutation gates in $$C_3$$ whose inverses are not in $$C_k$$.  
-[Characterization of permutation gates in the third level of the Clifford hierarchy](https://arxiv.org/abs/2510.04993)
+- Asymptotically good codes, where you can address any three logical qubits with a transversal CCZ gate.  
+[Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)
 
 <details markdown="1">
   <summary>Past Highlights</summary>
@@ -36,17 +36,14 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
   [Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165)  
 
     <img src="/images/MSD_main.png" alt="Logical magic state distillation with color code" width="600">
-
-  - Punctured quantum Reed-Solomon codes have transversal and addressable CCZ gates.  
-  [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)   
-  Similar construction with algebraic geometry codes gives [asymptotically good parameters](https://arxiv.org/abs/2507.05392).  
   - Quantum LDPC code surgery can perform parallel logical Pauli measurements.  
   [Parallel Logical Measurements via Quantum Code Surgery](https://arxiv.org/abs/2503.05003)
-  - Have you heard of high-density parity-check codes before? Anyways, layer codes with random HDPC input codes have provable and numerical partial self-correction properties.  
-  [Layer codes as partially self-correcting quantum memories](https://arxiv.org/abs/2510.06659)
   - ML decoders can be faster and more accurate than BPOSD for QLDPC codes.  
   [Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes](https://arxiv.org/abs/2504.13043)
-  
+  - Fault-tolerance is, at its core, a combinatorial study.  
+[Composable Quantum Fault-Tolerance](https://arxiv.org/abs/2508.08246)
+  - Check it out: permutation gates in $$C_3$$ whose inverses are not in $$C_k$$.  
+  [Characterization of permutation gates in the third level of the Clifford hierarchy](https://arxiv.org/abs/2510.04993)
   <!-- </div> -->
 </details>
   
@@ -78,7 +75,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 </details>
 
 ## Experiences {#exp}
-- I am serving on the program committee of QIP 2026.
+- I served on the program committee of QIP 2026.
 - I was a summer intern at [QuEra](https://www.quera.com/) in 2024. 
 - In Spring 2024, I was a visitor at the [Quantum Algorithms, Complexity, and Fault Tolerance Workshop](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance) hosted by [Simons Institute](https://simons.berkeley.edu/homepage) at UC Berkeley.
 - I was a summer intern at [IBM Quantum](https://www.ibm.com/quantum) in 2022 and 2023. 
@@ -95,7 +92,8 @@ Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.
 
 1. __Layer codes as partially self-correcting quantum memories__, 2025  
 Shouzhen Gu, Libor Caha, Shin Ho Choe, Zhiyang He, Aleksander Kubica, Eugene Tang.  
-Talks at [SQuInT 2025](https://squint.unm.edu/events/2025.html), [Princeton PCTS](https://pcts.princeton.edu/events/2025/theoretical-and-experimental-advances-quantum-error-correction) and [MCQST 2025](https://www.mcqst.de/conference2025/)   
+*QIP 2026.*  
+Talks at MIT, [SQuInT 2025](https://squint.unm.edu/events/2025.html), [Princeton PCTS](https://pcts.princeton.edu/events/2025/theoretical-and-experimental-advances-quantum-error-correction) and [MCQST 2025](https://www.mcqst.de/conference2025/)   
 [[arxiv]](https://arxiv.org/abs/2510.06659), [[Alex's Talk at Princeton]](https://mediacentral.princeton.edu/media/Kubica%2C+Alex%2C+February+5%2C+2025%2C+%22Quantum+memories+and+self-correction%22/1_kit0egwf), [[Libor's Talk at Munich]](https://www.youtube.com/watch?v=Hkl_IcdhAmQ)
 
 1. __Characterization of permutation gates in the 3rd level of the Clifford hierarchy__, 2025  
@@ -107,7 +105,8 @@ Supersedes an earlier [preprint](https://arxiv.org/abs/2410.11818).
 1. __Composable Quantum Fault-Tolerance__, 2025  
 Zhiyang He, Quynh T. Nguyen, Christopher A. Pattison.  
 *QEC 2025.*  
-[[arxiv]](https://arxiv.org/abs/2508.08246), [[Chris's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a6e106f-5f21-417f-8bd9-b33000f3e782&start=1905.061)
+<!-- Talks at IQC, Foxconn.  -->
+Talk at IQC. [[arxiv]](https://arxiv.org/abs/2508.08246), [[Chris's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a6e106f-5f21-417f-8bd9-b33000f3e782&start=1905.061)
 
 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, <span class="nowrap">2025</span>  
 John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Isaac L. Chuang.  
@@ -115,10 +114,10 @@ John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Isaac L. Chuang.
 
 1. __Extractors: QLDPC Architecture for Efficient Pauli-Based Computation__, 2025  
 Zhiyang He, Alexander Cowtan, Dominic J. Williamson, Theodore J. Yoder.  
-*QEC 2025.*  
+*QEC 2025, QIP 2026.*  
 Invited talk at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/) at IEEE Quantum Week (QCE 2025).  
 <!-- Talk at [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) at Simons Institute.   -->
-Talks at Simons, MIT, IBM, Yale YQI, Xanadu, 
+Talks at Simons, MIT, IBM, Yale YQI, Tufts, Xanadu, 
 [DIMACS](http://dimacs.rutgers.edu/index.php/), and USydney & PsiQuantum.  
 [[arxiv]](https://arxiv.org/abs/2503.10390), [[Slides]](files/Extractors.pdf), [[Talk at Simons]](https://www.youtube.com/watch?v=L6cDAbaW2Zs), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066)
 
@@ -131,7 +130,7 @@ Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.
 (II) __Asymptotically Good Quantum Codes with Addressable and Transversal__  
 __Non-Clifford Gates__, 2025  
 Zhiyang He, Vinod Vaikuntanathan, Adam Wills, Rachel Yun Zhang.  
-*QEC 2025.*  
+*QEC 2025, QIP 2026.*  
 Talks at MIT, [Coogee 2025](https://quantum.sydney.edu.au/coogee25/), [Asia Pacific QEC](https://www.youtube.com/@AsiaPacificQEC/videos), and [Inria](https://team.inria.fr/qasar/).  
 [[arxiv I]](https://arxiv.org/abs/2502.01864), [[arxiv II]](https://arxiv.org/abs/2507.05392), [[Slides]](/files/AddressableCCZ.pdf), [[Adam's Talk at APQEC]](https://www.youtube.com/watch?v=V9U_OJ5mZjI&t=7s), [[Rachel's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47537f46-5540-41bc-bea2-b3300101875e)
 
