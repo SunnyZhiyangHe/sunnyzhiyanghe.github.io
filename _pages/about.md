@@ -138,8 +138,8 @@ Talks at MIT, [Coogee 2025](https://quantum.sydney.edu.au/coogee25/), [Asia Paci
 Pedro Sales Rodriguez, John M. Robinson, Paul Niklas Jepsen, Zhiyang He, Casey Duckering, Chen Zhao, Kai-Hsin Wu, <label for="auth-toggle-1" style="cursor:pointer; text-decoration:underline; display:inline;">and 60 more authors</label><input type="checkbox" id="auth-toggle-1" style="display:none;"><span class="more-authors">: Joseph Campo, Kevin Bagnall, Minho Kwon, Thomas Karolyshyn, Phillip Weinberg, Madelyn Cain, Simon J. Evered, Alexandra A. Geim, Marcin Kalinowski, Sophie H. Li, Tom Manovitz, Jesse Amato-Grill, James I. Basham, Liane Bernstein, Boris Braverman, Alexei Bylinskii, Adam Choukri, Robert DeAngelo, Fang Fang, Connor Fieweger, Paige Frederick, David Haines, Majd Hamdan, Julian Hammett, Ning Hsu, Ming-Guang Hu, Florian Huber, Ningyuan Jia, Dhruv Kedar, Milan Kornjača, Fangli Liu, John Long, Jonathan Lopatin, Pedro L. S. Lopes, Xiu-Zhe Luo, Tommaso Macrì, Ognjen Marković, Luis A. Martínez-Martínez, Xianmei Meng, Stefan Ostermann, Evgeny Ostroumov, David Paquette, Zexuan Qiang, Vadim Shofman, Anshuman Singh, Manuj Singh, Nandan Sinha, Henry Thoreen, Noel Wan, Yiping Wang, Daniel Waxman-Lenz, Tak Wong, Jonathan Wurtz, Andrii Zhdanov, Laurent Zheng, Markus Greiner, Alexander Keesling, Nathan Gemelke, Vladan Vuletić, Takuya Kitagawa</span>, Sheng-Tao Wang, Dolev Bluvstein, Mikhail D. Lukin, Alexander Lukin, Hengyun Zhou, Sergio H. Cantú.  
 ***Nature (2025).***  
 Invited to the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/) at IEEE Quantum Week (QCE 2025).  
-Talks at QEC 2025, [Princeton PCTS](https://pcts.princeton.edu/events/2025/theoretical-and-experimental-advances-quantum-error-correction), [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/), MIT, Harvard, APS March Meetings.  
-[[arxiv]](https://arxiv.org/abs/2412.15165), [[Nature]](https://www.nature.com/articles/s41586-025-09367-3), [[Harry's talk at Princeton]](https://mediacentral.princeton.edu/media/Zhou%2C+Harry%2C+February+6%2C+2025%2C+%22Experimental+Demonstration+of+Logical+Magic+State+Distillation%22/1_9s8cg5ob), [[Harry's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=376d45f2-3342-4bfe-85e0-b3300100e71d), [[Popular Mechanics]](https://www.popularmechanics.com/science/a65450326/magic-state-distillation/)   
+Talks at QEC 2025, [Princeton PCTS](https://pcts.princeton.edu/events/2025/theoretical-and-experimental-advances-quantum-error-correction), [FTQC](https://les-houches-ftqc-workshop.alice-bob.com/), MIT, Harvard, and APS Meetings.  
+[[arxiv]](https://arxiv.org/abs/2412.15165), [[Nature]](https://www.nature.com/articles/s41586-025-09367-3), [[Harry's talk at Princeton]](https://mediacentral.princeton.edu/media/Zhou%2C+Harry%2C+February+6%2C+2025%2C+%22Experimental+Demonstration+of+Logical+Magic+State+Distillation%22/1_9s8cg5ob), [[Harry's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89a42325-e2ba-41f5-bdf7-b33001014596), [[Popular Mechanics]](https://www.popularmechanics.com/science/a65450326/magic-state-distillation/)   
 <!-- [[Blog Post by QuEra]](https://www.quera.com/blog-posts/magic-state-distillation-on-logical-qubits),  -->
 <!-- 1. __Permutation gates in the third level of the Clifford hierarchy__, 2024  
 Zhiyang He, Luke Robitaille, Xinyu Tan.  
@@ -150,8 +150,9 @@ Talk at MIT.
 Andrew Cross, Zhiyang He, Patrick J. Rall, Theodore J. Yoder.  
 *QIP 2025.*  
 <!-- *QIP 2025, NPJ Quantum Information.*   -->
-Talk at [Fault-Tolerant Quantum Technologies](https://www.benasque.org/2024ftqt/) in Benasque.  
-Talks at MIT, Harvard, IBM, APS March Meetings.  
+Talks at [Fault-Tolerant Quantum Technologies](https://www.benasque.org/2024ftqt/),  MIT, Harvard, IBM, and APS Meetings.  
+ <!-- in Benasque.   -->
+<!-- Talks at MIT, Harvard, IBM, and APS Meetings.   -->
 [[arxiv]](https://arxiv.org/abs/2407.18393), [[Slides at QIP]](files/QLDPC_Surgery.pdf), [[Talk at QIP with Esha]](https://www.youtube.com/watch?v=42TYCtUMkD8), [[Poster at QEC]](files/surgery_qec2025_poster.pdf)
 <!-- [[NPJ QI]]() -->
 
@@ -164,7 +165,7 @@ Talk at [Advances in Quantum Coding Theory](https://simons.berkeley.edu/workshop
 1. __Quantum Locally Testable Code with Constant Soundness__, 2022  
 Andrew Cross, Zhiyang He, Anand Natarajan, Mario Szegedy, Guanyu Zhu.  
 *QIP 2023. Quantum.*  
-Talks at MIT, Tufts, APS March Meetings, and IBM Yorktown.  
+Talks at MIT, Tufts, APS March Meetings, and IBM.  
 [[arxiv]](https://arxiv.org/abs/2209.11405), [[Talk at QIP]](https://www.youtube.com/watch?v=iFoAmifvfto), [[Quantum]](https://quantum-journal.org/papers/q-2024-10-18-1501/)
 
 ### Graph Algorithms
