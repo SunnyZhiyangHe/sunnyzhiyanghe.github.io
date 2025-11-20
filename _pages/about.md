@@ -12,7 +12,7 @@ Hi! This is Sunny, I am a graduate student at MIT advised by Professor [Peter Sh
 
 Prior to grad school I was an undergrad at CMU. I worked in graph algorithms with Professor [Anupam Gupta](https://cs.nyu.edu/~anupamg/) and [Jason Li](https://q3r.github.io/), and combinatorics with Professor [Boris Bukh](https://www.borisbukh.org/) and [Michael Tait](https://sites.google.com/view/michaeltait).
 
-## Recent Works
+## Paper Highlights
 
 - **Extractor architectures**: A bridge from QLDPC memories to large-scale fault-tolerant QLDPC computers. [[Slides]](files/Extractors.pdf), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066)  
 [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390)  
@@ -48,9 +48,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 </details>
   
 ## Talks and Travel {#talks}
-<!-- - I’ve just been anointed a [quantum surgeon](https://bsky.app/profile/domwilliamson.bsky.social/post/3m3ekjfae522v) by my fellow quantum surgeon, Dom Williamson. -->
 - I gave an invited talk on [Challenges in Scalable Quantum Error Correction](https://sunnyzhiyanghe.github.io/files/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
-- I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/), part of IEEE Quantum Week hosted in Albuquerque. We visited their [Watermelon Mountains](/travel#ABQ).
 - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. 
 - I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
 - I gave a guest lecture at UCLA titled [An Introduction to Quantum LDPC Codes](files/QLDPC_UCLA.pdf), hosted by Professor [Jens Palsberg](https://web.cs.ucla.edu/~palsberg/). 
@@ -61,7 +59,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
   <summary>Past Updates</summary>
 
   <div markdown="1">
-  <!-- - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/) at IEEE Quantum Week (QCE 2025). -->
+  - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/), part of IEEE Quantum Week hosted in Albuquerque. We visited their [Watermelon Mountains](/travel#ABQ).
   - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) hosted by Simons Institute. Here is the [recording](https://www.youtube.com/watch?v=L6cDAbaW2Zs) on Youtube.
   - I presented our work on [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864) ([Slides](/files/AddressableCCZ.pdf)) at [Inria's QASAR Seminar](https://team.inria.fr/qasar/).
   <!-- - I gave an invited talk on [Extractors](https://arxiv.org/abs/2503.10390) at the [DIMACS Workshop on Quantum Software Systems and Theory](http://dimacs.rutgers.edu/events/details?eID=3248), hosted at Rutgers University.  -->

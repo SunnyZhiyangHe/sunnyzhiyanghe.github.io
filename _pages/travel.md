@@ -31,29 +31,6 @@ Ancient gymnasium at Delphi, next to the Oracle. Olympian athletes of ancient Gr
 
 <!-- ## Fall in White Mountains, New Hampshire {#WhiteMountains} -->
 
-## Summer in Benasque, Spain {#Benasque}
-
-![Benasque_1](/images/Benasque_1.jpg)  
-
-![Benasque_2](/images/Benasque_2.jpg)
-
-![Benasque_talk](/images/Benasque_Talk.jpeg)  
-=========================
-This photo is taken by Chris Pattison.
-
-## Japan {#Japan}
-
-![Tokyo_1](/images/Tokyo_1.jpg)
-=========================
-Sensō-ji (浅草寺) is a magnificent temple in Tokyo with more than 30 million visitors annually.
-
-![Nara_1](/images/Nara_1.jpg)
-=========================
-Tōdai-ji (東大寺) was established in the early 8th century. The Nara Park hosting the temple is populated by cookie-seeking deers.
-
-![Nara_2](/images/Nara_2.jpg)
-=========================
-Two representatives. They can sniff the cookies in your pockets. 
 
 ## Spring around Yale, New Haven {#Yale}
 
@@ -78,6 +55,16 @@ Right: A signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*,
 <br/>
 Fluorite and aquamarine displayed at Yale's [Peabody museum](https://peabody.yale.edu/).
 
+## Summer in Benasque, Spain {#Benasque}
+
+![Benasque_1](/images/Benasque_1.jpg)  
+
+![Benasque_2](/images/Benasque_2.jpg)
+
+![Benasque_talk](/images/Benasque_Talk.jpeg)  
+=========================
+This photo is taken by Chris Pattison.
+
 ## Fall in Maine {#Maine}
 
 ![Headlight](/images/EastCoast/Headlight_Sunrise.jpeg)
@@ -86,9 +73,37 @@ Sunrise at Portland Head Light.
 
 ![JordanPond](/images/EastCoast/Acadia_JordanPond.jpeg)
 =========================
-Jordan Pond at Acadia. The true colors of Fall eludes capture by cameras. 
+Jordan Pond at Acadia. The true color of Fall eludes capture by cameras. 
+
+## Winter in Yosemite Valley, California {#Yosemite}
+
+![Yosemite_1](/images/Yosemite/Yosemite1.jpeg)
+
+![Yosemite_2](/images/Yosemite/Yosemite2.jpeg)
+
+## Japan {#Japan}
+<details markdown="1">
+  <summary>Photos</summary>
+
+  <div markdown="1">
+![Tokyo_1](/images/Tokyo_1.jpg)
+=========================
+Sensō-ji (浅草寺) is a magnificent temple in Tokyo with more than 30 million visitors annually.
+
+![Nara_1](/images/Nara_1.jpg)
+=========================
+Tōdai-ji (東大寺) was established in the early 8th century. The Nara Park hosting the temple is populated by cookie-seeking deers.
+
+![Nara_2](/images/Nara_2.jpg)
+=========================
+Two representatives. They can sniff the cookies in your pockets. 
+  </div>
+</details>
 
 ## Sydney, Australia {#Sydney}
+<details markdown="1">
+  <summary>Photos</summary>
+  <div markdown="1">
 
 ![Sydney_opera](/images/Sydney_opera.jpg)
 
@@ -98,8 +113,15 @@ Jordan Pond at Acadia. The true colors of Fall eludes capture by cameras.
 </div>  
 Some kangaroos are a lot more polite than others.
 
-## Gent, Belgium {#Gent}
+  </div>
+</details>
 
+## Gent, Belgium {#Gent}
+<details markdown="1">
+  <summary>Photos</summary>
+
+  <div markdown="1">
+  
 ![Gent_1](/images/Gent_1_v2.JPG)
 
 <!-- ![Gent_2](/images/Gent_2.JPG) -->
@@ -113,9 +135,14 @@ They have the most fantastic chocolates and waffles in Belgium.
 ![Brugge_1](/images/Brugge_1.JPG)
 =========================
 This photo is taken in Brugge.
+  </div>
+</details>
 
 ## Albuquerque, New Mexico {#ABQ}
+<details markdown="1">
+  <summary>Photos</summary>
 
+  <div markdown="1">
 ![Pano](/images/ABQ/pano.png)
 =========================
 Photo taken from the Sandia mountains. The word "Sandia" means watermelon in Spanish. It captures the color of the [red mountains with the green forests on top](https://en.wikipedia.org/wiki/Sandia_Mountains#Etymology). 
@@ -123,19 +150,33 @@ Photo taken from the Sandia mountains. The word "Sandia" means watermelon in Spa
 ![oldtown](/images/ABQ/oldtown.jpeg)
 =========================
 Many thanks to Cole Maurer for being the local guide.
+  </div>
+</details>
 
 ## San Francisco, California {#CA}
+<details markdown="1">
+  <summary>Photos</summary>
 
+  <div markdown="1">
 ![Chinatown](/images/SanFrancisco/Chinatown.JPG)
 <!-- =========================
 The San Francisco chinatown is the oldest in North America.  -->
 
 ![SF_1](/images/SanFrancisco/Palace_of_Fine_arts.jpeg)
+  </div>
+</details>
 
 ## Winter in Salt Lake City, Utah {#SLC}
+<details markdown="1">
+  <summary>Photos</summary>
 
+  <div markdown="1">
+  
 ![SLC_1](/images/SLC_1.jpg)
 
 ![SLC_2](/images/SLC_2.jpg)
 
+  </div>
+</details>
+<br>
 If you've scrolled all this way, I also have a [secret cheeseboard page](/cheeseboards), and a page for [randomly distributed cats](/cats).
