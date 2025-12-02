@@ -19,41 +19,39 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="400">  
 
-- Quantum code surgery, but get them for constant time a piece if you run many of them.  
-[Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery](https://arxiv.org/abs/2510.14895) 
+- Magic state distillation works! Our paper was just published in [Nature](https://www.nature.com/articles/s41586-025-09367-3).  
+[Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165)  
 
-- Have you heard of high-density parity-check codes before? Anyways, layer codes with random HDPC input codes have provable and numerical partial self-correction properties.  
-[Layer codes as partially self-correcting quantum memories](https://arxiv.org/abs/2510.06659)
+  <img src="/images/MSD_main.png" alt="Logical magic state distillation with color code" width="600">
 
-- Asymptotically good codes, where you can address any three logical qubits with a transversal CCZ gate.  
-[Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)
+- Fault-tolerance is, at its core, a combinatorial study.  
+[Composable Quantum Fault-Tolerance](https://arxiv.org/abs/2508.08246)
 
 <details markdown="1">
   <summary>Past Highlights</summary>
 
   <!-- <div markdown="1"> -->
-  - Magic state distillation works! Our paper was just published in [Nature](https://www.nature.com/articles/s41586-025-09367-3).  
-  [Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165)  
-
-    <img src="/images/MSD_main.png" alt="Logical magic state distillation with color code" width="600">
+  - Quantum code surgery, but get them for constant time a piece if you run many of them.  
+  [Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery](https://arxiv.org/abs/2510.14895) 
+  - Have you heard of high-density parity-check codes before? Anyways, layer codes with random HDPC input codes have provable and numerical partial self-correction properties.  
+  [Layer codes as partially self-correcting quantum memories](https://arxiv.org/abs/2510.06659)
+  - Asymptotically good codes, where you can address any three logical qubits with a transversal CCZ gate.  
+  [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864)
   - Quantum LDPC code surgery can perform parallel logical Pauli measurements.  
   [Parallel Logical Measurements via Quantum Code Surgery](https://arxiv.org/abs/2503.05003)
   - ML decoders can be faster and more accurate than BPOSD for QLDPC codes.  
   [Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes](https://arxiv.org/abs/2504.13043)
-  - Fault-tolerance is, at its core, a combinatorial study.  
-[Composable Quantum Fault-Tolerance](https://arxiv.org/abs/2508.08246)
   - Check it out: permutation gates in $$C_3$$ whose inverses are not in $$C_k$$.  
   [Characterization of permutation gates in the third level of the Clifford hierarchy](https://arxiv.org/abs/2510.04993)
   <!-- </div> -->
 </details>
   
 ## Talks and Travel {#talks}
-- I gave an invited talk on [Challenges in Scalable Quantum Error Correction](https://sunnyzhiyanghe.github.io/files/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
+- I will be presenting our work on [Composable Fault-Tolerance](https://arxiv.org/abs/2508.08246) at Foxconn Research.
+- I will be presenting a poster on [Extractors: Scalable Quantum Computers of the Future](files/QMIT_Poster.pdf) at the [MIT Quantum Initiative Launch Event](https://web.cvent.com/event/3947809f-be65-4020-8457-4276a031fc85/summary). 
+- I gave an invited talk on [Challenges in Scalable Quantum Error Correction](files/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
 - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. 
 - I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
-- I gave a guest lecture at UCLA titled [An Introduction to Quantum LDPC Codes](files/QLDPC_UCLA.pdf), hosted by Professor [Jens Palsberg](https://web.cs.ucla.edu/~palsberg/). 
-- I attended QEC 2023 in Sydney, Australia. Did you know that visitors can pet [koalas and (small) kangaroos](/travel#Sydney) at the [Featherdale Wildlife Park](https://www.featherdale.com.au/)?
-
 
 <details markdown="1">
   <summary>Past Updates</summary>
@@ -63,6 +61,8 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
   - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) hosted by Simons Institute. Here is the [recording](https://www.youtube.com/watch?v=L6cDAbaW2Zs) on Youtube.
   - I presented our work on [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864) ([Slides](/files/AddressableCCZ.pdf)) at [Inria's QASAR Seminar](https://team.inria.fr/qasar/).
   <!-- - I gave an invited talk on [Extractors](https://arxiv.org/abs/2503.10390) at the [DIMACS Workshop on Quantum Software Systems and Theory](http://dimacs.rutgers.edu/events/details?eID=3248), hosted at Rutgers University.  -->
+  - I gave a guest lecture at UCLA titled [An Introduction to Quantum LDPC Codes](files/QLDPC_UCLA.pdf), hosted by Professor [Jens Palsberg](https://web.cs.ucla.edu/~palsberg/). 
+  - I attended QEC 2023 in Sydney, Australia. Did you know that visitors can pet [koalas and (small) kangaroos](/travel#Sydney) at the [Featherdale Wildlife Park](https://www.featherdale.com.au/)?
   - I presented our work on [Single-shot decoding of good quantum LDPC codes](https://arxiv.org/abs/2306.12470) at TQC 2024 hosted in Okinawa, Japan. Here are some [photos](/travel#Japan) of Japan.
   <!-- - I gave a talk on Building a Quantum Computer Beyond the Surface Code in Apr 2025, at the MIT PQI seminar organized by Anand Natarajan.   -->
   - In Fall 2024, I helped organize a reading group on Quantum Fault-Tolerance with Rachel Zhang, Adam Wills and Vinod Vaikuntanathan.
@@ -83,7 +83,8 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 ## Writings {#writings}
 
 ### Quantum
-<!-- 1. __Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and__ <span class="nowrap">  __transversal surgery__, 2025</span>   -->
+<!-- 1. __Characterizing QuEra's Gemini-class neutral atom quantum computer__, To Appear-->
+
 1. __Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery__, 2025  
 Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder. 
 [[arxiv]](https://arxiv.org/abs/2510.14895) 
@@ -103,8 +104,7 @@ Supersedes an earlier [preprint](https://arxiv.org/abs/2410.11818).
 1. __Composable Quantum Fault-Tolerance__, 2025  
 Zhiyang He, Quynh T. Nguyen, Christopher A. Pattison.  
 *QEC 2025.*  
-<!-- Talks at IQC, Foxconn.  -->
-Talk at IQC. [[arxiv]](https://arxiv.org/abs/2508.08246), [[Chris's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a6e106f-5f21-417f-8bd9-b33000f3e782&start=1905.061)
+Talks at IQC, Foxconn. [[arxiv]](https://arxiv.org/abs/2508.08246), [[Chris's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a6e106f-5f21-417f-8bd9-b33000f3e782&start=1905.061)
 
 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, <span class="nowrap">2025</span>  
 John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Isaac L. Chuang.  
@@ -117,7 +117,7 @@ Invited talk at the [Scalable QEC Workshop](https://error-correction-lab.github.
 <!-- Talk at [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) at Simons Institute.   -->
 Talks at Simons, MIT, IBM, Yale YQI, Tufts, Xanadu, 
 [DIMACS](http://dimacs.rutgers.edu/index.php/), and USydney & PsiQuantum.  
-[[arxiv]](https://arxiv.org/abs/2503.10390), [[Slides]](files/Extractors.pdf), [[Talk at Simons]](https://www.youtube.com/watch?v=L6cDAbaW2Zs), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066)
+[[arxiv]](https://arxiv.org/abs/2503.10390), [[Slides]](files/Extractors.pdf), [[Talk at Simons]](https://www.youtube.com/watch?v=L6cDAbaW2Zs), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066), [[Poster at QMIT]]((files/QMIT_Poster.pdf))
 
 1. __Parallel Logical Measurements via Quantum Code Surgery__, 2025  
 Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.  
