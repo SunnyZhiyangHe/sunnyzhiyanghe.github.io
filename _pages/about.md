@@ -8,7 +8,7 @@ redirect_from:
 
 <!-- ## About -->
 
-Hi! This is Sunny, I am a graduate student at MIT advised by Professor [Peter Shor](https://math.mit.edu/~shor/) and [Anand Natarajan](https://www.mit.edu/~anandn/). My research is in quantum computation, with a focus in quantum error correction. I believe quantum computational power is a fundamental new resource bestowed to us by nature, and quantum error correction is the procedure that refines this raw resource for use in applications. I hope my work contributes to the constructions and later improvements of truly fault-tolerant, large-scale quantum computers in not-too-many decades.
+Hi! This is Sunny (贺之阳), I am a graduate student at MIT advised by Professor [Peter Shor](https://math.mit.edu/~shor/) and [Anand Natarajan](https://www.mit.edu/~anandn/). My research is in quantum computation, with a focus in quantum error correction. I believe quantum computational power is a fundamental new resource bestowed to us by nature, and quantum error correction is the procedure that refines this raw resource for use in applications. I hope my work contributes to the constructions and later improvements of truly fault-tolerant, large-scale quantum computers in not-too-many decades.
 
 Prior to grad school I was an undergrad at CMU. I worked in graph algorithms with Professor [Anupam Gupta](https://cs.nyu.edu/~anupamg/) and [Jason Li](https://q3r.github.io/), and combinatorics with Professor [Boris Bukh](https://www.borisbukh.org/) and [Michael Tait](https://sites.google.com/view/michaeltait).
 
@@ -117,7 +117,7 @@ Invited talk at the [Scalable QEC Workshop](https://error-correction-lab.github.
 <!-- Talk at [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) at Simons Institute.   -->
 Talks at Simons, MIT, IBM, Yale YQI, Tufts, Xanadu, 
 [DIMACS](http://dimacs.rutgers.edu/index.php/), and USydney & PsiQuantum.  
-[[arxiv]](https://arxiv.org/abs/2503.10390), [[Slides]](files/Extractors.pdf), [[Talk at Simons]](https://www.youtube.com/watch?v=L6cDAbaW2Zs), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066), [[Poster at QMIT]]((files/QMIT_Poster.pdf))
+[[arxiv]](https://arxiv.org/abs/2503.10390), [[Slides]](files/Extractors.pdf), [[Talk at Simons]](https://www.youtube.com/watch?v=L6cDAbaW2Zs), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066), [[Poster at QMIT]](files/QMIT_Poster.pdf)
 
 1. __Parallel Logical Measurements via Quantum Code Surgery__, 2025  
 Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.  
