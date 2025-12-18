@@ -47,7 +47,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 </details>
   
 ## Talks and Travel {#talks}
-- I will be presenting our work on [Composable Fault-Tolerance](https://arxiv.org/abs/2508.08246) at Foxconn Research.
+- I presented our work on [Composable Fault-Tolerance](https://arxiv.org/abs/2508.08246) ([Slides](files/Composable_FT_slides.pdf)) at Foxconn Research.
 - I presented a poster on [Extractors: Scalable Quantum Computers of the Future](files/QMIT_Poster.pdf) at the [MIT Quantum Initiative Launch Event](https://web.cvent.com/event/3947809f-be65-4020-8457-4276a031fc85/summary). 
 - I gave an invited talk on [Challenges in Scalable Quantum Error Correction](files/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
 - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. 
@@ -74,6 +74,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 
 ## Experiences {#exp}
 - Program Committee services: QIP 2026, TQC 2026.
+<!-- - Review Services: PRX, PRL, PRA, Quantum, NPJQI, FOCS, STOC, QIP, TQC, QEC... -->
 - I was a summer intern at [QuEra](https://www.quera.com/) in 2024. 
 - In Spring 2024, I was a visitor at the [Quantum Algorithms, Complexity, and Fault Tolerance Workshop](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance) hosted by [Simons Institute](https://simons.berkeley.edu/homepage) at UC Berkeley.
 - I was a summer intern at [IBM Quantum](https://www.ibm.com/quantum) in 2022 and 2023. 
@@ -104,7 +105,8 @@ Supersedes an earlier [preprint](https://arxiv.org/abs/2410.11818).
 1. __Composable Quantum Fault-Tolerance__, 2025  
 Zhiyang He, Quynh T. Nguyen, Christopher A. Pattison.  
 *QEC 2025.*  
-Talks at IQC, Foxconn. [[arxiv]](https://arxiv.org/abs/2508.08246), [[Chris's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a6e106f-5f21-417f-8bd9-b33000f3e782&start=1905.061)
+Talks at IQC, Foxconn Research.  
+[[arxiv]](https://arxiv.org/abs/2508.08246), [[Slides]](files/Composable_FT_slides.pdf), [[Chris's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a6e106f-5f21-417f-8bd9-b33000f3e782&start=1905.061)
 
 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, <span class="nowrap">2025</span>  
 John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Isaac L. Chuang.  
