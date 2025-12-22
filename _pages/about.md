@@ -47,8 +47,8 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 </details>
   
 ## Talks and Travel {#talks}
-- I presented our work on [Composable Fault-Tolerance](https://arxiv.org/abs/2508.08246) ([Slides](files/Composable_FT_slides.pdf)) at Foxconn Research.
-- I presented a poster on [Extractors: Scalable Quantum Computers of the Future](files/QMIT_Poster.pdf) at the [MIT Quantum Initiative Launch Event](https://web.cvent.com/event/3947809f-be65-4020-8457-4276a031fc85/summary). 
+- I presented our work on [Composable Fault-Tolerance](https://arxiv.org/abs/2508.08246) ([Slides](files/Composable_FT_slides.pdf)) at Foxconn Research, the recording is here ([YouTube](https://www.youtube.com/watch?v=ZvPMA6UOwmA)).
+- I presented our work on [Extractors: Scalable Quantum Computers of the Future](files/QMIT_Poster.pdf) at the [MIT Quantum Initiative Launch Event](https://web.cvent.com/event/3947809f-be65-4020-8457-4276a031fc85/summary). 
 - I gave an invited talk on [Challenges in Scalable Quantum Error Correction](files/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
 - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*. 
 - I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
@@ -58,7 +58,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 
   <div markdown="1">
   - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/), part of IEEE Quantum Week hosted in Albuquerque. We visited their [Watermelon Mountains](/travel#ABQ).
-  - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) hosted by Simons Institute. Here is the [recording](https://www.youtube.com/watch?v=L6cDAbaW2Zs) on Youtube.
+  - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) hosted by Simons Institute. Here is the [recording](https://www.youtube.com/watch?v=L6cDAbaW2Zs) on YouTube.
   - I presented our work on [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864) ([Slides](/files/AddressableCCZ.pdf)) at [Inria's QASAR Seminar](https://team.inria.fr/qasar/).
   <!-- - I gave an invited talk on [Extractors](https://arxiv.org/abs/2503.10390) at the [DIMACS Workshop on Quantum Software Systems and Theory](http://dimacs.rutgers.edu/events/details?eID=3248), hosted at Rutgers University.  -->
   - I gave a guest lecture at UCLA titled [An Introduction to Quantum LDPC Codes](files/QLDPC_UCLA.pdf), hosted by Professor [Jens Palsberg](https://web.cs.ucla.edu/~palsberg/). 
@@ -106,7 +106,7 @@ Supersedes an earlier [preprint](https://arxiv.org/abs/2410.11818).
 Zhiyang He, Quynh T. Nguyen, Christopher A. Pattison.  
 *QEC 2025.*  
 Talks at IQC, Foxconn Research.  
-[[arxiv]](https://arxiv.org/abs/2508.08246), [[Slides]](files/Composable_FT_slides.pdf), [[Chris's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a6e106f-5f21-417f-8bd9-b33000f3e782&start=1905.061)
+[[arxiv]](https://arxiv.org/abs/2508.08246), [[Slides]](files/Composable_FT_slides.pdf), [[Talk at Foxconn]](https://www.youtube.com/watch?v=ZvPMA6UOwmA), [[Chris's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a6e106f-5f21-417f-8bd9-b33000f3e782&start=1905.061)
 
 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, <span class="nowrap">2025</span>  
 John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Isaac L. Chuang.  
