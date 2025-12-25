@@ -24,7 +24,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 
   <img src="/images/MSD_main.png" alt="Logical magic state distillation with color code" width="600">
 
-- Fault-tolerance is, at its core, a combinatorial study.  
+- Fault-tolerance is, at its core, a combinatorial study. [[Slides]](files/Composable_FT_slides.pdf), [[Talk]](https://www.youtube.com/watch?v=ZvPMA6UOwmA)  
 [Composable Quantum Fault-Tolerance](https://arxiv.org/abs/2508.08246)
 
 <details markdown="1">
