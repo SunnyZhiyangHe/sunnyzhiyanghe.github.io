@@ -19,6 +19,9 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="400">  
 
+- Quantum code surgery: fast, addressable, parallel, (almost) constant space overhead, all at once on your favorite hypergraph product codes.  
+[Constant-Time Surgery on 2D Hypergraph Product Codes with Near-Constant Space Overhead](https://arxiv.org/abs/2603.02157v1)
+
 - Magic state distillation works! Our paper was just published in [Nature](https://www.nature.com/articles/s41586-025-09367-3).  
 [Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165)  
 
@@ -86,10 +89,13 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 ### Quantum
 <!-- 1. __Characterizing QuEra's Gemini-class neutral atom quantum computer__, To Appear-->
 
+1. __Constant-Time Surgery on 2D Hypergraph Product Codes with Near-Constant Space Overhead__, 2026  
+Kathleen Chang, Zhiyang He, Theodore J. Yoder, Guanyu Zhu, Tomas Jochym-O’Connor.  
+[[arxiv]](https://arxiv.org/abs/2603.02157v1)
+
 1. __Distilling Magic States in the Bicycle Architecture__, 2026  
 Shifan Xu, Kun Liu, Patrick J. Rall, Zhiyang He, Yongshan Ding. 
 [[arxiv]](https://arxiv.org/abs/2602.20546)
-
 
 1. __Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery__, 2025  
 Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder. 
