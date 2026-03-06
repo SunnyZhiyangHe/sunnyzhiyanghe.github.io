@@ -4,7 +4,7 @@ title: "Randomly Distributed Cats"
 author_profile: false
 ---
 
-The following photos display results of calls to a randomized CAT oracle, which enables one to decide all languages in the mysterious complexity class $$\text{CAT}\subseteq \{$$"meow", treats$$\}^*$$.
+The following photos display results of calls to a randomized CAT oracle, which enables one to decide all languages in the mysterious complexity class $$\text{CAT}\subseteq \{$$"meow"$$\}^*$$.
 
 <p align="center">
 <img src="/images/Cats/Alfred.png" alt="Alfred" width="50%" /><br>
@@ -32,6 +32,10 @@ Cats in Delphi, in front of the Delphi Archaeological Museum.
   Moose spawn on couch in New Mexico.
 </p>
 
+<p align="center">
+  <img src="/images/Cats/Cat-Latvia.jpeg" alt="Latvia" width="70%"><br>
+  Cat spawn in Latvia.
+</p>
 
 
 More oracle calls in progress, check back later!

@@ -34,6 +34,10 @@ Ancient gymnasium at Delphi, next to the Oracle. Olympian athletes of ancient Gr
 
 ## Spring around Yale, New Haven {#Yale}
 
+<details markdown="1">
+  <summary>Photos</summary>
+
+  <div markdown="1">
 <!-- ![Yale_2](/images/Yale_2.jpg) -->
 
 ![Yale_1](/images/Yale_1.jpg)
@@ -55,7 +59,16 @@ Right: A signed copy of Newton's *Philosophiæ Naturalis Principia Mathematica*,
 <br/>
 Fluorite and aquamarine displayed at Yale's [Peabody museum](https://peabody.yale.edu/).
 
+  </div>
+</details>
+
+
 ## Summer in Benasque, Spain {#Benasque}
+
+<details markdown="1">
+  <summary>Photos</summary>
+
+  <div markdown="1">
 
 ![Benasque_1](/images/Benasque_1.jpg)  
 
@@ -64,6 +77,10 @@ Fluorite and aquamarine displayed at Yale's [Peabody museum](https://peabody.yal
 ![Benasque_talk](/images/Benasque_Talk.jpeg)  
 =========================
 This photo is taken by Chris Pattison.
+
+  </div>
+</details>
+
 
 ## Fall in Maine {#Maine}
 
@@ -80,6 +97,14 @@ Jordan Pond at Acadia. The true color of Fall eludes capture by cameras.
 ![Yosemite_1](/images/Yosemite/Yosemite1.jpeg)
 
 ![Yosemite_2](/images/Yosemite/Yosemite2.jpeg)
+
+## Riga, Latvia {#Latvia}
+
+![Latvia_1](/images/Latvia/Latvia_1.jpeg)  
+
+![Latvia_2](/images/Latvia/Latvia_2.jpeg) 
+=========================
+It was really cold.
 
 ## Japan {#Japan}
 <details markdown="1">
