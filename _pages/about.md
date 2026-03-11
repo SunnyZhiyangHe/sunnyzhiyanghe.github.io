@@ -22,9 +22,6 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 - Quantum code surgery: fast, addressable, parallel, (almost) constant space overhead, all at once on your favorite hypergraph product codes.  
 [Constant-Time Surgery on 2D Hypergraph Product Codes with Near-Constant Space Overhead](https://arxiv.org/abs/2603.02157)
 
-- Good old code surgery, now more parsimonious than ever.  
-[Parsimonious Quantum Low-Density Parity-Check Code Surgery](https://arxiv.org/abs/2603.05082)
-
 - Magic state distillation works! Our paper was just published in [Nature](https://www.nature.com/articles/s41586-025-09367-3).  
 [Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165)  
 
@@ -37,6 +34,8 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
   <summary>Past Highlights</summary>
 
   <!-- <div markdown="1"> -->
+  - Good old code surgery, now more parsimonious than ever.  
+  [Parsimonious Quantum Low-Density Parity-Check Code Surgery](https://arxiv.org/abs/2603.05082)
   - Quantum code surgery, but get them for constant time a piece if you run many of them.  
   [Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery](https://arxiv.org/abs/2510.14895) 
   - Have you heard of high-density parity-check codes before? Anyways, layer codes with random HDPC input codes have provable and numerical partial self-correction properties.  
@@ -93,6 +92,7 @@ Symbols: ($$*$$) mark alphabetical ordering of authors, $$\dagger$$ denotes join
 
 ### Quantum
 <!-- 1. __Characterizing QuEra's Gemini-class neutral atom quantum computer__, To Appear-->
+<!-- Talk at March Meetings. -->
 
 1. __Parsimonious Quantum Low-Density Parity-Check Code Surgery__, 2026  
 Andrew C. Yuan, Alexander Cowtan, Zhiyang He, Ting-Chun Lin, Dominic J. Williamson.  
@@ -100,7 +100,7 @@ Andrew C. Yuan, Alexander Cowtan, Zhiyang He, Ting-Chun Lin, Dominic J. Williams
 
 1. __Constant-Time Surgery on 2D Hypergraph Product Codes with Near-Constant Space Overhead__, 2026  
 Kathleen Chang$$^\dagger$$, Zhiyang He$$^\dagger$$, Theodore J. Yoder, Guanyu Zhu, Tomas Jochym-O’Connor.  
-Talks at Yale, UMD, and [Inria](https://team.inria.fr/qasar/).
+Talks at Yale, UMD, [Inria](https://team.inria.fr/qasar/), and March Meetings.
 [[arxiv]](https://arxiv.org/abs/2603.02157)
 
 1. __Distilling Magic States in the Bicycle Architecture__, 2026  
@@ -114,7 +114,7 @@ Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.
 1. __Layer codes as partially self-correcting quantum memories__, 2025  
 Shouzhen Gu$$^\dagger$$, Libor Caha$$^\dagger$$, Shin Ho Choe, Zhiyang He, Aleksander Kubica, Eugene Tang.  
 *QIP 2026.*  
-Talks at MIT, [SQuInT 2025](https://squint.unm.edu/events/2025.html), [Princeton PCTS](https://pcts.princeton.edu/events/2025/theoretical-and-experimental-advances-quantum-error-correction) and [MCQST 2025](https://www.mcqst.de/conference2025/)   
+Talks at MIT, [SQuInT 2025](https://squint.unm.edu/events/2025.html), [YITP](https://sites.google.com/view/2025-yitp-logical-gates/home), [Princeton PCTS](https://pcts.princeton.edu/events/2025/theoretical-and-experimental-advances-quantum-error-correction) and [MCQST 2025](https://www.mcqst.de/conference2025/)   
 [[arxiv]](https://arxiv.org/abs/2510.06659), [[Alex's Talk at Princeton]](https://mediacentral.princeton.edu/media/Kubica%2C+Alex%2C+February+5%2C+2025%2C+%22Quantum+memories+and+self-correction%22/1_kit0egwf), [[Libor's Talk at Munich]](https://www.youtube.com/watch?v=Hkl_IcdhAmQ)
 
 1. __Characterization of permutation gates in the 3rd level of the Clifford hierarchy__, 2025  
@@ -152,7 +152,7 @@ Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.
 __Non-Clifford Gates__, 2025  
 Zhiyang He, Vinod Vaikuntanathan, Adam Wills, Rachel Yun Zhang. ($$*$$)   
 *QEC 2025, QIP 2026.*  
-Talks at MIT, [Coogee 2025](https://quantum.sydney.edu.au/coogee25/), [Asia Pacific QEC](https://www.youtube.com/@AsiaPacificQEC/videos), and [Inria](https://team.inria.fr/qasar/).  
+Talks at MIT, [Coogee 2025](https://quantum.sydney.edu.au/coogee25/), [YITP](https://sites.google.com/view/2025-yitp-logical-gates/home), [Asia Pacific QEC](https://www.youtube.com/@AsiaPacificQEC/videos), and [Inria](https://team.inria.fr/qasar/).  
 [[arxiv I]](https://arxiv.org/abs/2502.01864), [[arxiv II]](https://arxiv.org/abs/2507.05392), [[Slides]](/files/AddressableCCZ.pdf), [[Adam's Talk at APQEC]](https://www.youtube.com/watch?v=V9U_OJ5mZjI&t=7s), [[Rachel's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47537f46-5540-41bc-bea2-b3300101875e)
 
 1. __Experimental Demonstration of Logical Magic State Distillation__, 2024  
