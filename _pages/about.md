@@ -19,9 +19,6 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="400">  
 
-- Quantum code surgery: fast, addressable, parallel, (almost) constant space overhead, all at once on your favorite hypergraph product codes.  
-[Constant-Time Surgery on 2D Hypergraph Product Codes with Near-Constant Space Overhead](https://arxiv.org/abs/2603.02157)
-
 - Magic state distillation works! Our paper was just published in [Nature](https://www.nature.com/articles/s41586-025-09367-3).  
 [Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165)  
 
@@ -34,6 +31,8 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
   <summary>Past Highlights</summary>
 
   <!-- <div markdown="1"> -->
+  - Quantum code surgery: fast, addressable, parallel, (almost) constant space overhead, all at once on your favorite hypergraph product codes.  
+  [Constant-Time Surgery on 2D Hypergraph Product Codes with Near-Constant Space Overhead](https://arxiv.org/abs/2603.02157)
   - Good old code surgery, now more parsimonious than ever.  
   [Parsimonious Quantum Low-Density Parity-Check Code Surgery](https://arxiv.org/abs/2603.05082)
   - Quantum code surgery, but get them for constant time a piece if you run many of them.  
@@ -52,9 +51,11 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 </details>
   
 ## Talks and Travel {#talks}
+<!-- - I will be joining the Fault-Tolerant Logical Processing Workshop at YITP in October, 2026. -->
+<!-- - I will be at QEC 2026 in Santa Barbara. -->
 - I presented our work on [Extractors: Scalable Quantum Computers of the Future](files/QMIT_Poster.pdf) at the [MIT Quantum Initiative Launch Event](https://web.cvent.com/event/3947809f-be65-4020-8457-4276a031fc85/summary), and at [QIP 2026](https://qip2026.lu.lv/) in Riga, Latvia. Here are some [photos](/travel#Latvia) of snow-covered Latvia.
 - I presented our work on [Composable Fault-Tolerance](https://arxiv.org/abs/2508.08246) ([Slides](files/Composable_FT_slides.pdf)) at Foxconn Research, the recording is on [YouTube](https://www.youtube.com/watch?v=ZvPMA6UOwmA).
-- I gave an invited talk on [Challenges in Scalable Quantum Error Correction](files/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
+- I gave a talk on [Challenges in Scalable Quantum Error Correction](files/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
 - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Principia*.
 <!-- *Philosophiæ Naturalis Principia Mathematica*.  -->
 - I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
@@ -79,6 +80,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 </details>
 
 ## Experiences {#exp}
+<!-- - I will be a 2026 summer intern at [Google Quantum AI](https://quantumai.google/). -->
 - Program Committee services: QIP 2026, TQC 2026.
 <!-- - Review Services: PRX, PRL, PRA, Quantum, NPJQI, FOCS, STOC, QIP, TQC, QEC, IEEE Information Theory... -->
 - I was a summer intern at [QuEra](https://www.quera.com/) in 2024. 
@@ -94,17 +96,21 @@ Symbols: ($$*$$) mark alphabetical ordering of authors, $$\dagger$$ denotes join
 <!-- 1. __Characterizing QuEra's Gemini-class neutral atom quantum computer__, To Appear-->
 <!-- Talk at March Meetings. -->
 
+<!-- 1. __Extractor Assembly for Logical Processing on Hypergraph Product Codes__, To Appear   -->
+<!-- Talk at March Meetings. [[Slides]]() -->
+
 1. __Parsimonious Quantum Low-Density Parity-Check Code Surgery__, 2026  
 Andrew C. Yuan, Alexander Cowtan, Zhiyang He, Ting-Chun Lin, Dominic J. Williamson.  
 [[arxiv]](https://arxiv.org/abs/2603.05082)
 
 1. __Constant-Time Surgery on 2D Hypergraph Product Codes with Near-Constant Space Overhead__, 2026  
 Kathleen Chang$$^\dagger$$, Zhiyang He$$^\dagger$$, Theodore J. Yoder, Guanyu Zhu, Tomas Jochym-O’Connor.  
-Talks at Yale, UMD, [Inria](https://team.inria.fr/qasar/), and March Meetings.
-[[arxiv]](https://arxiv.org/abs/2603.02157)
+Talks at Yale, UMD, [Inria](https://team.inria.fr/qasar/), and March Meetings.  
+[[arxiv]](https://arxiv.org/abs/2603.02157), [[Poster]](/files/Posters/Constant-time-surgery-HGP.pdf)
 
 1. __Distilling Magic States in the Bicycle Architecture__, 2026  
-Shifan Xu, Kun Liu, Patrick J. Rall, Zhiyang He, Yongshan Ding. 
+Shifan Xu, Kun Liu, Patrick J. Rall, Zhiyang He, Yongshan Ding.  
+*ISCA 2026.*
 [[arxiv]](https://arxiv.org/abs/2602.20546)
 
 1. __Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery__, 2025  
@@ -124,7 +130,7 @@ Supersedes an earlier [preprint](https://arxiv.org/abs/2410.11818).
 [[arxiv]](https://arxiv.org/abs/2510.04993), [[Poster at QIP & QEC]](files/Permutations_QEC_2025_poster.pdf)  
 
 1. __Composable Quantum Fault-Tolerance__, 2025  
-Zhiyang He, Quynh T. Nguyen, Christopher A. Pattison. ($$*$$)   
+Zhiyang He, Quynh T. Nguyen, Christopher A. Pattison.    
 *QEC 2025.*  
 Talks at IQC, Foxconn Research.  
 [[arxiv]](https://arxiv.org/abs/2508.08246), [[Slides]](files/Composable_FT_slides.pdf), [[Talk at Foxconn]](https://www.youtube.com/watch?v=ZvPMA6UOwmA), [[Chris's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a6e106f-5f21-417f-8bd9-b33000f3e782&start=1905.061)
@@ -138,8 +144,8 @@ Zhiyang He, Alexander Cowtan, Dominic J. Williamson, Theodore J. Yoder.
 *QEC 2025, QIP 2026.*  
 Invited talk at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/) at IEEE Quantum Week (QCE 2025).  
 <!-- Talk at [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) at Simons Institute.   -->
-Talks at Simons, MIT, IBM, Yale YQI, Tufts, Xanadu, 
-[DIMACS](http://dimacs.rutgers.edu/index.php/), and USydney & PsiQuantum.  
+Talks at Simons, MIT, IBM, Yale, Tufts, Xanadu, 
+[DIMACS](http://dimacs.rutgers.edu/index.php/), USydney, and PsiQuantum.  
 [[arxiv]](https://arxiv.org/abs/2503.10390), [[Slides]](files/Extractors.pdf), [[Talk at Simons]](https://www.youtube.com/watch?v=L6cDAbaW2Zs), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066), [[Poster at QMIT]](files/QMIT_Poster.pdf)
 
 1. __Parallel Logical Measurements via Quantum Code Surgery__, 2025  
