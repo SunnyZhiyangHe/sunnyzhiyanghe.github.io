@@ -110,7 +110,8 @@ Talks at Yale, UMD, [Inria](https://team.inria.fr/qasar/), and March Meetings.
 
 1. __Distilling Magic States in the Bicycle Architecture__, 2026  
 Shifan Xu, Kun Liu, Patrick J. Rall, Zhiyang He, Yongshan Ding.  
-*ISCA 2026.*
+*International Symposium on Computer Architecture ([ISCA](https://iscaconf.org/isca2026/)) 2026.*  
+<!-- *[ISCA 2026](https://iscaconf.org/isca2026/).*  -->
 [[arxiv]](https://arxiv.org/abs/2602.20546)
 
 1. __Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery__, 2025  
@@ -191,7 +192,7 @@ Talk at [Advances in Quantum Coding Theory](https://simons.berkeley.edu/workshop
 
 1. __Quantum Locally Testable Code with Constant Soundness__, 2022  
 Andrew Cross, Zhiyang He, Anand Natarajan, Mario Szegedy, Guanyu Zhu. ($$*$$)   
-*QIP 2023. Quantum.*  
+*QIP 2023. Quantum Journal.*  
 Talks at MIT, Tufts, APS March Meetings, and IBM.  
 [[arxiv]](https://arxiv.org/abs/2209.11405), [[Talk at QIP]](https://www.youtube.com/watch?v=iFoAmifvfto), [[Quantum]](https://quantum-journal.org/papers/q-2024-10-18-1501/)
 
