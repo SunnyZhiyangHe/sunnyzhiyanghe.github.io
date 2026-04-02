@@ -126,6 +126,7 @@ Talks at MIT, [SQuInT 2025](https://squint.unm.edu/events/2025.html), [YITP](htt
 
 1. __Characterization of permutation gates in the 3rd level of the Clifford hierarchy__, 2025  
 Zhiyang He, Luke Robitaille, Xinyu Tan. ($$*$$)  
+*TQC 2026*  
 Talk at MIT. 
 Supersedes an earlier [preprint](https://arxiv.org/abs/2410.11818).  
 [[arxiv]](https://arxiv.org/abs/2510.04993), [[Poster at QIP & QEC]](files/Permutations_QEC_2025_poster.pdf)  
