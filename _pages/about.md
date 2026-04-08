@@ -53,6 +53,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 ## Talks and Travel {#talks}
 <!-- - I will be joining the Fault-Tolerant Logical Processing Workshop at YITP in October, 2026. -->
 <!-- - I will be at QEC 2026 in Santa Barbara. -->
+<!-- - I gave a short tutorial talk on quantum code surgery at MIT. -->
 - I presented our work on [Extractors: Scalable Quantum Computers of the Future](files/QMIT_Poster.pdf) at the [MIT Quantum Initiative Launch Event](https://web.cvent.com/event/3947809f-be65-4020-8457-4276a031fc85/summary), and at [QIP 2026](https://qip2026.lu.lv/) in Riga, Latvia. Here are some [photos](/travel#Latvia) of snow-covered Latvia.
 - I presented our work on [Composable Fault-Tolerance](https://arxiv.org/abs/2508.08246) ([Slides](files/Composable_FT_slides.pdf)) at Foxconn Research, the recording is on [YouTube](https://www.youtube.com/watch?v=ZvPMA6UOwmA).
 - I gave a talk on [Challenges in Scalable Quantum Error Correction](files/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
@@ -99,6 +100,11 @@ Symbols: ($$*$$) mark alphabetical ordering of authors, $$\dagger$$ denotes join
 <!-- 1. __Extractor Assembly for Logical Processing on Hypergraph Product Codes__, To Appear   -->
 <!-- Talk at March Meetings. [[Slides]]() -->
 
+1. __In-Situ Simultaneous Magic State Injection on Arbitrary CSS qLDPC Codes__, 2026  
+Kun Liu, Shifan Xu, Tomas Jochym-O’Connor, Z. He, Shraddha Singh, Yongshan Ding.  
+[[arxiv]](https://arxiv.org/abs/2604.05126)
+<!-- , [[Poster at QEC]]()  -->
+
 1. __Parsimonious Quantum Low-Density Parity-Check Code Surgery__, 2026  
 Andrew C. Yuan, Alexander Cowtan, Zhiyang He, Ting-Chun Lin, Dominic J. Williamson.  
 [[arxiv]](https://arxiv.org/abs/2603.05082)
@@ -126,7 +132,7 @@ Talks at MIT, [SQuInT 2025](https://squint.unm.edu/events/2025.html), [YITP](htt
 
 1. __Characterization of permutation gates in the 3rd level of the Clifford hierarchy__, 2025  
 Zhiyang He, Luke Robitaille, Xinyu Tan. ($$*$$)  
-*TQC 2026*  
+*TQC 2026.*  
 Talk at MIT. 
 Supersedes an earlier [preprint](https://arxiv.org/abs/2410.11818).  
 [[arxiv]](https://arxiv.org/abs/2510.04993), [[Poster at QIP & QEC]](files/Permutations_QEC_2025_poster.pdf)  
@@ -152,7 +158,7 @@ Talks at Simons, MIT, IBM, Yale, Tufts, Xanadu,
 
 1. __Parallel Logical Measurements via Quantum Code Surgery__, 2025  
 Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.  
-*QEC 2025, TQC 2025.*  
+*QEC 2025, TQC 2025. PRX Quantum.*  
 [[arxiv]](https://arxiv.org/abs/2503.05003), [[Alex's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=1833.065999) 
 
 1. (I)&nbsp; __Quantum Codes with Addressable and Transversal Non-Clifford Gates__, 2025   
