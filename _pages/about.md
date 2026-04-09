@@ -53,7 +53,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 ## Talks and Travel {#talks}
 <!-- - I will be joining the Fault-Tolerant Logical Processing Workshop at YITP in October, 2026. -->
 <!-- - I will be at QEC 2026 in Santa Barbara. -->
-<!-- - I gave a short tutorial talk on quantum code surgery at MIT. -->
+<!-- - I gave a short tutorial talk on Quantum Code Surgery at MIT. -->
 - I presented our work on [Extractors: Scalable Quantum Computers of the Future](files/QMIT_Poster.pdf) at the [MIT Quantum Initiative Launch Event](https://web.cvent.com/event/3947809f-be65-4020-8457-4276a031fc85/summary), and at [QIP 2026](https://qip2026.lu.lv/) in Riga, Latvia. Here are some [photos](/travel#Latvia) of snow-covered Latvia.
 - I presented our work on [Composable Fault-Tolerance](https://arxiv.org/abs/2508.08246) ([Slides](files/Composable_FT_slides.pdf)) at Foxconn Research, the recording is on [YouTube](https://www.youtube.com/watch?v=ZvPMA6UOwmA).
 - I gave a talk on [Challenges in Scalable Quantum Error Correction](files/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
@@ -126,7 +126,7 @@ Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.
 
 1. __Layer codes as partially self-correcting quantum memories__, 2025  
 Shouzhen Gu$$^\dagger$$, Libor Caha$$^\dagger$$, Shin Ho Choe, Zhiyang He, Aleksander Kubica, Eugene Tang.  
-*QIP 2026.*  
+*QIP 2026. PRL.*  
 Talks at MIT, [SQuInT 2025](https://squint.unm.edu/events/2025.html), [YITP](https://sites.google.com/view/2025-yitp-logical-gates/home), [Princeton PCTS](https://pcts.princeton.edu/events/2025/theoretical-and-experimental-advances-quantum-error-correction) and [MCQST 2025](https://www.mcqst.de/conference2025/)   
 [[arxiv]](https://arxiv.org/abs/2510.06659), [[Alex's Talk at Princeton]](https://mediacentral.princeton.edu/media/Kubica%2C+Alex%2C+February+5%2C+2025%2C+%22Quantum+memories+and+self-correction%22/1_kit0egwf), [[Libor's Talk at Munich]](https://www.youtube.com/watch?v=Hkl_IcdhAmQ)
 
