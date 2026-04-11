@@ -53,7 +53,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 ## Talks and Travel {#talks}
 <!-- - I will be joining the Fault-Tolerant Logical Processing Workshop at YITP in October, 2026. -->
 <!-- - I will be at QEC 2026 in Santa Barbara. -->
-<!-- - I gave a short tutorial talk on Quantum Code Surgery at MIT. -->
+- I gave a tutorial talk on Pauli-Based Computation in QLDPC Codes at MIT.
 - I presented our work on [Extractors: Scalable Quantum Computers of the Future](files/QMIT_Poster.pdf) at the [MIT Quantum Initiative Launch Event](https://web.cvent.com/event/3947809f-be65-4020-8457-4276a031fc85/summary), and at [QIP 2026](https://qip2026.lu.lv/) in Riga, Latvia. Here are some [photos](/travel#Latvia) of snow-covered Latvia.
 - I presented our work on [Composable Fault-Tolerance](https://arxiv.org/abs/2508.08246) ([Slides](files/Composable_FT_slides.pdf)) at Foxconn Research, the recording is on [YouTube](https://www.youtube.com/watch?v=ZvPMA6UOwmA).
 - I gave a talk on [Challenges in Scalable Quantum Error Correction](files/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
@@ -72,7 +72,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
   - I gave a guest lecture at UCLA titled [An Introduction to Quantum LDPC Codes](files/QLDPC_UCLA.pdf), hosted by Professor [Jens Palsberg](https://web.cs.ucla.edu/~palsberg/). 
   - I attended QEC 2023 in Sydney, Australia. Did you know that visitors can pet [koalas and (small) kangaroos](/travel#Sydney) at the [Featherdale Wildlife Park](https://www.featherdale.com.au/)?
   - I presented our work on [Single-shot decoding of good quantum LDPC codes](https://arxiv.org/abs/2306.12470) at TQC 2024 hosted in Okinawa, Japan. Here are some [photos](/travel#Japan) of Japan.
-  <!-- - I gave a talk on Building a Quantum Computer Beyond the Surface Code in Apr 2025, at the MIT PQI seminar organized by Anand Natarajan.   -->
+  - I gave a talk on Building a Quantum Computer Beyond Surface Codes at MIT in Apr 2025.  
   - In Fall 2024, I helped organize a reading group on Quantum Fault-Tolerance with Rachel Zhang, Adam Wills and Vinod Vaikuntanathan.
   <!-- - In Summer 2023 and 2025, I attended the [Quantum Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-workshop) at Simons Institute. -->
   - I presented our work on [Quantum Locally Testable Code with Constant Soundness](https://arxiv.org/abs/2209.11405) at QIP 2023 in Gent, Belgium. Here are some [photos](/travel#Gent) of the beautiful city of Gent. 
@@ -159,7 +159,7 @@ Talks at Simons, MIT, IBM, Yale, Tufts, Xanadu,
 1. __Parallel Logical Measurements via Quantum Code Surgery__, 2025  
 Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.  
 *QEC 2025, TQC 2025. PRX Quantum.*  
-[[arxiv]](https://arxiv.org/abs/2503.05003), [[Alex's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=1833.065999) 
+[[arxiv]](https://arxiv.org/abs/2503.05003), [[Alex's Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=1833.065999), [[PRXQ]](https://journals.aps.org/prxquantum/accepted/10.1103/gj8x-n5gg)
 
 1. (I)&nbsp; __Quantum Codes with Addressable and Transversal Non-Clifford Gates__, 2025   
 (II) __Asymptotically Good Quantum Codes with Addressable and Transversal__  
@@ -184,10 +184,8 @@ Talk at MIT.
 1. __Improved QLDPC Surgery: Logical Measurements and Bridging Codes__, 2024  
 Andrew Cross, Zhiyang He, Patrick J. Rall, Theodore J. Yoder. ($$*$$)  
 *QIP 2025.*  
-<!-- *QIP 2025, NPJ Quantum Information.*   -->
+<!-- *QIP 2025. NPJ Quantum Information.*   -->
 Talks at [Fault-Tolerant Quantum Technologies](https://www.benasque.org/2024ftqt/),  MIT, Harvard, IBM, and APS Meetings.  
- <!-- in Benasque.   -->
-<!-- Talks at MIT, Harvard, IBM, and APS Meetings.   -->
 [[arxiv]](https://arxiv.org/abs/2407.18393), [[Slides at QIP]](files/QLDPC_Surgery.pdf), [[Talk at QIP with Esha]](https://www.youtube.com/watch?v=42TYCtUMkD8), [[Poster at QEC]](files/surgery_qec2025_poster.pdf)
 <!-- [[NPJ QI]]() -->
 
