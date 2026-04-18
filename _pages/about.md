@@ -111,6 +111,7 @@ Andrew C. Yuan, Alexander Cowtan, Zhiyang He, Ting-Chun Lin, Dominic J. Williams
 
 1. __Constant-Time Surgery on 2D Hypergraph Product Codes with Near-Constant Space Overhead__, 2026  
 Kathleen Chang$$^\dagger$$, Zhiyang He$$^\dagger$$, Theodore J. Yoder, Guanyu Zhu, Tomas Jochym-O’Connor.  
+*QEC 2026.*  
 Talks at Yale, UMD, [Inria](https://team.inria.fr/qasar/), and March Meetings.  
 [[arxiv]](https://arxiv.org/abs/2603.02157), [[Poster]](/files/Posters/Constant-time-surgery-HGP.pdf)
 
@@ -122,6 +123,7 @@ Shifan Xu, Kun Liu, Patrick J. Rall, Zhiyang He, Yongshan Ding.
 
 1. __Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery__, 2025  
 Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.    
+*QEC 2026.*  
 [[arxiv]](https://arxiv.org/abs/2510.14895), [[Alex's Talk at Coogee]](https://www.youtube.com/watch?v=LxzwhhbG71M)
 
 1. __Layer codes as partially self-correcting quantum memories__, 2025  
