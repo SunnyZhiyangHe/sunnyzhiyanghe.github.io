@@ -14,7 +14,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 
 ## Paper Highlights
 
-- **Extractor architectures**: A blueprint for large-scale fault-tolerant QLDPC computers. This work received the Charles W. and Jennifer C. Johnson Prize from MIT Math in 2026, awarded to one paper each year. [[Slides]](files/Extractors.pdf), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066)  
+- **Extractor architectures**: A blueprint for large-scale fault-tolerant QLDPC computers. This work received the Charles W. and Jennifer C. Johnson Prize from MIT Math in 2026, awarded to one paper in applied math each year. [[Slides]](files/Extractors.pdf), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066)  
 [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390)  
 
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="400">  
@@ -111,7 +111,7 @@ Andrew C. Yuan, Alexander Cowtan, Zhiyang He, Ting-Chun Lin, Dominic J. Williams
 1. __Constant-Time Surgery on 2D Hypergraph Product Codes with Near-Constant Space Overhead__, 2026  
 Kathleen Chang$$^\dagger$$, Zhiyang He$$^\dagger$$, Theodore J. Yoder, Guanyu Zhu, Tomas Jochym-O’Connor.  
 *QEC 2026.*  
-Talks at Yale, UMD, [Inria](https://team.inria.fr/qasar/), and March Meetings.  
+Talks at Yale, UMD, [Inria](https://team.inria.fr/qasar/), Stony Brooks, and March Meetings.  
 [[arxiv]](https://arxiv.org/abs/2603.02157), [[Poster]](/files/Posters/Constant-time-surgery-HGP.pdf)
 
 1. __Distilling Magic States in the Bicycle Architecture__, 2026  
