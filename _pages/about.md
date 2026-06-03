@@ -19,6 +19,10 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="400">  
 
+- Extractors: smaller than the code, enable full logical processing, same error rate as memory, compatible with fixed connectivity.   
+<!-- We made lots of promises about extractors in the past year, this paper fulfills them quite well.   -->
+[Full Extractors for Logical Processing in Hypergraph Product Codes](https://arxiv.org/abs/2606.03507) 
+
 - Magic state distillation works! Our paper was published in [Nature](https://www.nature.com/articles/s41586-025-09367-3).  
 [Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165)  
 
@@ -96,8 +100,11 @@ Symbols: ($$*$$) mark alphabetical ordering of authors, $$\dagger$$ denotes join
 <!-- 1. __Characterizing QuEra's Gemini-class neutral atom quantum computer__, To Appear-->
 <!-- Talk at March Meetings. -->
 
-<!-- 1. __Extractor Assembly for Logical Processing on Hypergraph Product Codes__, To Appear   -->
-<!-- Talk at March Meetings. [[Slides]]() -->
+1. __Full Extractors for Logical Processing in Hypergraph Product Codes__, 2026  
+John Blue, Zhiyang He, Hengyun Zhou, Isaac L. Chuang.  
+Talk at March Meetings. 
+[[arxiv]](https://arxiv.org/abs/2606.03507)
+<!-- [[Slides]]() -->
 
 1. __In-Situ Simultaneous Magic State Injection on Arbitrary CSS qLDPC Codes__, 2026  
 Kun Liu, Shifan Xu, Tomas Jochym-O’Connor, Z. He, Shraddha Singh, Yongshan Ding.  
