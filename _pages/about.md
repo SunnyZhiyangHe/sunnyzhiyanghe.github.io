@@ -159,7 +159,7 @@ John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Isaac L. Chuang.
 1. __Extractors: QLDPC Architecture for Efficient Pauli-Based Computation__, 2025  
 Zhiyang He, Alexander Cowtan, Dominic J. Williamson, Theodore J. Yoder.  
 <span class="venue">QEC 2025, QIP 2026.</span>   
-__Charles W. and Jennifer C. Johnson Prize (2026), MIT Mathematics__  
+<span class="venue"><strong>Charles W. and Jennifer C. Johnson Prize (2026), MIT Mathematics</strong></span>  
 Invited talk at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/) at IEEE Quantum Week (QCE 2025).  
 <!-- Talk at [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) at Simons Institute.   -->
 Talks at Simons, MIT, IBM, Yale, Tufts, Xanadu, 
