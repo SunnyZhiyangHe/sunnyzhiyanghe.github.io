@@ -28,13 +28,12 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 
   <img src="/images/MSD_main.png" alt="Logical magic state distillation with color code" width="600">
 
-- Fault-tolerance is, at its core, a combinatorial study. [[Slides]](files/Composable_FT_slides.pdf), [[Talk]](https://www.youtube.com/watch?v=ZvPMA6UOwmA)  
-[Composable Quantum Fault-Tolerance](https://arxiv.org/abs/2508.08246)
-
 <details markdown="1">
   <summary>Past Highlights</summary>
 
   <!-- <div markdown="1"> -->
+  - Fault-tolerance is, at its core, a combinatorial study. [[Slides]](files/Composable_FT_slides.pdf), [[Talk]](https://www.youtube.com/watch?v=ZvPMA6UOwmA)  
+  [Composable Quantum Fault-Tolerance](https://arxiv.org/abs/2508.08246)
   - Quantum code surgery: fast, addressable, parallel, (almost) constant space overhead, all at once on your favorite hypergraph product codes.  
   [Constant-Time Surgery on 2D Hypergraph Product Codes with Near-Constant Space Overhead](https://arxiv.org/abs/2603.02157)
   - Good old code surgery, now more parsimonious than ever.  
@@ -85,7 +84,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 </details>
 
 ## Experiences {#exp}
-- I will be a 2026 summer intern at [Google Quantum AI](https://quantumai.google/).
+- I am a 2026 summer intern at [Google Quantum AI](https://quantumai.google/).
 - Program Committee services: QIP 2026, TQC 2026.
 <!-- - Review Services: PRX, PRL, PRA, Quantum, NPJQI, FOCS, STOC, QIP, TQC, QEC, IEEE Information Theory... -->
 - In Spring 2024, I was a visitor at the [Quantum Algorithms, Complexity, and Fault Tolerance Workshop](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance) hosted by [Simons Institute](https://simons.berkeley.edu/homepage) at UC Berkeley.
@@ -119,7 +118,7 @@ Andrew C. Yuan, Alexander Cowtan, Zhiyang He, Ting-Chun Lin, Dominic J. Williams
 Kathleen Chang$$^\dagger$$, Zhiyang He$$^\dagger$$, Theodore J. Yoder, Guanyu Zhu, Tomas Jochym-O'Connor.  
 <span class="venue">QEC 2026.</span>  
 Talks at Yale, UMD, [Inria](https://team.inria.fr/qasar/), Stony Brooks, and March Meetings.  
-[[arxiv]](https://arxiv.org/abs/2603.02157), [[Poster]](/files/Posters/Constant-time-surgery-HGP.pdf)
+[[arxiv]](https://arxiv.org/abs/2603.02157), [[Slides]](/files/constant-time-surgery.pdf), [[Poster]](/files/Posters/Constant-time-surgery-HGP.pdf)
 
 1. __Distilling Magic States in the Bicycle Architecture__, 2026  
 Shifan Xu, Kun Liu, Patrick J. Rall, Zhiyang He, Yongshan Ding.  
@@ -130,7 +129,7 @@ Shifan Xu, Kun Liu, Patrick J. Rall, Zhiyang He, Yongshan Ding.
 1. __Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery__, 2025  
 Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.    
 <span class="venue">QEC 2026.</span>  
-[[arxiv]](https://arxiv.org/abs/2510.14895), [[Alex's Talk at Coogee]](https://www.youtube.com/watch?v=LxzwhhbG71M)
+[[arxiv]](https://arxiv.org/abs/2510.14895), [[Slides]](/files/constant-time-surgery.pdf), [[Alex's Talk at Coogee]](https://www.youtube.com/watch?v=LxzwhhbG71M)
 
 1. __Layer codes as partially self-correcting quantum memories__, 2025  
 Shouzhen Gu$$^\dagger$$, Libor Caha$$^\dagger$$, Shin Ho Choe, Zhiyang He, Aleksander Kubica, Eugene Tang.  
@@ -162,8 +161,8 @@ Zhiyang He, Alexander Cowtan, Dominic J. Williamson, Theodore J. Yoder.
 <span class="venue"><strong>Charles W. and Jennifer C. Johnson Prize (2026), MIT Mathematics</strong></span>  
 Invited talk at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/) at IEEE Quantum Week (QCE 2025).  
 <!-- Talk at [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) at Simons Institute.   -->
-Talks at Simons, MIT, IBM, Yale, Tufts, Xanadu, 
-[DIMACS](http://dimacs.rutgers.edu/index.php/), USydney, and PsiQuantum.  
+Talks at Simons, MIT, IBM, Yale, Tufts, Xanadu, USydney, PsiQuantum, and Google.  
+<!-- [DIMACS](http://dimacs.rutgers.edu/index.php/) -->
 [[arxiv]](https://arxiv.org/abs/2503.10390), [[Slides]](files/Extractors.pdf), [[Talk at Simons]](https://www.youtube.com/watch?v=L6cDAbaW2Zs), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066), [[Poster at QMIT]](files/QMIT_Poster.pdf)
 
 1. __Parallel Logical Measurements via Quantum Code Surgery__, 2025  
@@ -235,5 +234,6 @@ Zhiyang He, Michael Tait. ($$*$$)
 [[arxiv]](https://arxiv.org/abs/1807.10177), [[SIAM]](https://epubs.siam.org/doi/10.1137/18M1203389)
 
 ### Others
+<!-- - Tutorial on QLDPC surgery (presentation) [Slides](). -->
 - Master's Thesis: [On Extremal Combinatorics and Its Applications in Matroid Theory](/files/Masters_Thesis.pdf)
 
