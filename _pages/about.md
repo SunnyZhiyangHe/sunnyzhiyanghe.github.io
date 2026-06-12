@@ -102,29 +102,28 @@ Symbols: ($$*$$) mark alphabetical ordering of authors, $$\dagger$$ denotes join
 1. __Full Extractors for Logical Processing in Hypergraph Product Codes__, 2026  
 John Blue, Zhiyang He, Hengyun Zhou, Isaac L. Chuang.  
 Talk at March Meetings. 
-[[arxiv]](https://arxiv.org/abs/2606.03507)
-<!-- [[Slides]]() -->
+[[arxiv]](https://arxiv.org/abs/2606.03507), [[Poster]](files/Posters/HGP-extractors-qec26.pdf)
 
 1. __In-Situ Simultaneous Magic State Injection on Arbitrary CSS qLDPC Codes__, 2026  
 Kun Liu, Shifan Xu, Tomas Jochym-O'Connor, Z. He, Shraddha Singh, Yongshan Ding.  
-[[arxiv]](https://arxiv.org/abs/2604.05126)
-<!-- , [[Poster at QEC]]()  -->
+[[arxiv]](https://arxiv.org/abs/2604.05126), [[Poster]](files/Posters/qec26_poster_qldpc_msi.pdf) 
 
 1. __Parsimonious Quantum Low-Density Parity-Check Code Surgery__, 2026  
 Andrew C. Yuan, Alexander Cowtan, Zhiyang He, Ting-Chun Lin, Dominic J. Williamson.  
 [[arxiv]](https://arxiv.org/abs/2603.05082)
+<!-- [[Poster]]() -->
 
 1. __Constant-Time Surgery on 2D Hypergraph Product Codes with Near-Constant Space Overhead__, 2026  
 Kathleen Chang$$^\dagger$$, Zhiyang He$$^\dagger$$, Theodore J. Yoder, Guanyu Zhu, Tomas Jochym-O'Connor.  
 <span class="venue">QEC 2026.</span>  
 Talks at Yale, UMD, [Inria](https://team.inria.fr/qasar/), Stony Brooks, and March Meetings.  
-[[arxiv]](https://arxiv.org/abs/2603.02157), [[Slides]](/files/constant-time-surgery.pdf), [[Poster]](/files/Posters/Constant-time-surgery-HGP.pdf)
+[[arxiv]](https://arxiv.org/abs/2603.02157), [[Slides]](/files/constant-time-surgery.pdf), [[Katie's Talk at Inria]](https://mybox.inria.fr/d/1bdad1a71d834f9a8f8a/)
 
 1. __Distilling Magic States in the Bicycle Architecture__, 2026  
 Shifan Xu, Kun Liu, Patrick J. Rall, Zhiyang He, Yongshan Ding.  
 <span class="venue">International Symposium on Computer Architecture ([ISCA](https://iscaconf.org/isca2026/)) 2026.</span>  
 <!-- *[ISCA 2026](https://iscaconf.org/isca2026/).*  -->
-[[arxiv]](https://arxiv.org/abs/2602.20546)
+[[arxiv]](https://arxiv.org/abs/2602.20546), [[Poster]](files/Posters/MSD-BB-qec26.pdf)
 
 1. __Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery__, 2025  
 Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.    
