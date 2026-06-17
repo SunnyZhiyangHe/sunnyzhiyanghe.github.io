@@ -236,4 +236,3 @@ Zhiyang He, Michael Tait. ($$*$$)
 <!-- - Tutorial on QLDPC surgery (presentation) [Slides](). -->
 - AI-derived proof of a fun observation, with human proofread and edits: [Round-robin CCZ is All You Need](/files/Notes/Round-robin-CCZ.pdf)
 - Master's Thesis: [On Extremal Combinatorics and Its Applications in Matroid Theory](/files/MSThesis.pdf)
-
