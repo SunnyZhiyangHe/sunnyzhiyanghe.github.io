@@ -55,20 +55,19 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
   
 ## Updates {#updates}
 <!-- - I will be joining the Fault-Tolerant Logical Processing Workshop at YITP in October, 2026. -->
-<!-- - I will be at QEC 2026 in Santa Barbara. -->
-- I've started a blog! The first post is a fun observation: [Round-robin-CCZ is all you need](/blog/round-robin-ccz/).
+- I started a blog! The first post is on a fun AI-derived observation: [Round-robin-CCZ is all you need](/blog/round-robin-ccz/).
+- I attended QEC 2026 in Santa Barbara, the sunshine and beaches were counter-productive. Katie presented our works on constant-time surgery, here are the [slides](/files/Talks/constant-time-surgery.pdf). 
 - I gave a tutorial talk on Pauli-Based Computation on QLDPC Codes at MIT.
 - I presented our work on [Composable Fault-Tolerance](https://arxiv.org/abs/2508.08246) ([Slides](files/Talks/Composable_FT_slides.pdf)) at Foxconn Research, the recording is on [YouTube](https://www.youtube.com/watch?v=ZvPMA6UOwmA).
 - I gave a talk on [Challenges in Scalable Quantum Error Correction](files/Talks/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
 - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Talks/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Principia*.
 <!-- *Philosophiæ Naturalis Principia Mathematica*.  -->
-- I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
 
 <details markdown="1">
   <summary>Past Updates</summary>
 
   <div markdown="1">
-  - I attended QEC 2026 in Santa Barbara. Katie Chang presented our works on constant-time surgery. Here are the [slides](/files/Talks/constant-time-surgery.pdf). 
+  - I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
   - I presented our work on [Extractors: Scalable Quantum Computers of the Future](files/Posters/QMIT_Poster.pdf) at the [MIT Quantum Initiative Launch Event](https://web.cvent.com/event/3947809f-be65-4020-8457-4276a031fc85/summary), and at [QIP 2026](https://qip2026.lu.lv/) in Riga, Latvia. Here are some [photos](/travel#Latvia) of snow-covered Latvia.
   - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/), part of IEEE Quantum Week hosted in Albuquerque. We visited their [Watermelon Mountains](/travel#ABQ).
   - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) hosted by Simons Institute. Here is the [recording](https://www.youtube.com/watch?v=L6cDAbaW2Zs) on YouTube.
@@ -140,9 +139,8 @@ Talks at MIT, [SQuInT 2025](https://squint.unm.edu/events/2025.html), [YITP](htt
 1. __Characterization of permutation gates in the 3rd level of the Clifford hierarchy__, 2025  
 Zhiyang He, Luke Robitaille, Xinyu Tan. ($$*$$)  
 <span class="venue">TQC 2026.</span>  
-Talk at MIT. 
-Supersedes an earlier [preprint](https://arxiv.org/abs/2410.11818).  
-[[arxiv]](https://arxiv.org/abs/2510.04993), [[Poster at QIP & QEC]](files/Posters/Permutations_QEC_2025_poster.pdf)  
+Talk at MIT. [[arxiv]](https://arxiv.org/abs/2510.04993), [[Poster]](files/Posters/Permutations_QEC_2025_poster.pdf)  
+<!-- [TQC]() -->
 
 1. __Composable Quantum Fault-Tolerance__, 2025  
 Zhiyang He, Quynh T. Nguyen, Christopher A. Pattison.    
@@ -152,8 +150,9 @@ Talks at IQC, Foxconn Research.
 
 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, <span class="nowrap">2025</span>  
 John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Isaac L. Chuang.  
-<span class="venue">Quantum Journal.</span> 
-[[arxiv]](https://arxiv.org/abs/2504.13043), [[Poster at QIP]](files/Posters/decoder_qip25_poster.pdf)
+<span class="venue">Quantum Journal.</span>  
+[[arxiv]](https://arxiv.org/abs/2504.13043), [[Poster]](files/Posters/decoder_qip25_poster.pdf)
+<!-- [Quantum]() -->
 
 1. __Extractors: QLDPC Architecture for Efficient Pauli-Based Computation__, 2025  
 Zhiyang He, Alexander Cowtan, Dominic J. Williamson, Theodore J. Yoder.  
@@ -194,7 +193,7 @@ Talk at MIT.
 Andrew Cross, Zhiyang He, Patrick J. Rall, Theodore J. Yoder. ($$*$$)  
 <span class="venue">QIP 2025. NPJ Quantum Information.</span>  
 Talks at [Fault-Tolerant Quantum Technologies](https://www.benasque.org/2024ftqt/),  MIT, Harvard, IBM, and APS Meetings.  
-[[arxiv]](https://arxiv.org/abs/2407.18393), [[Slides at QIP]](files/Talks/QLDPC_Surgery.pdf), [[Talk at QIP with Esha]](https://www.youtube.com/watch?v=42TYCtUMkD8), [[Poster at QEC]](files/Posters/surgery_qec2025_poster.pdf)
+[[arxiv]](https://arxiv.org/abs/2407.18393), [[Slides at QIP]](files/Talks/QLDPC_Surgery.pdf), [[Talk at QIP with Esha]](https://www.youtube.com/watch?v=42TYCtUMkD8), [[Poster]](files/Posters/surgery_qec2025_poster.pdf)
 <!-- [[NPJ QI]]() -->
 
 1. __Single-shot decoding of good quantum LDPC codes__, 2023  
@@ -213,28 +212,28 @@ Talks at MIT, Tufts, APS March Meetings, and IBM.
 
 1. __Breaking the $$n^k$$ Barrier for Minimum $$k$$-cut on Simple Graphs__, 2021  
 Zhiyang He, Jason Li. ($$*$$)    
-<span class="venue">STOC 2022.</span>
+<span class="venue">STOC 2022.</span>  
 [[arxiv]](https://arxiv.org/abs/2111.03221), [[Talk at STOC]](https://www.youtube.com/watch?v=Uo9ff0Tq2Fo), [[STOC]](https://dl.acm.org/doi/10.1145/3519935.3519948)
 
 1. __Near-linear-time, Optimal Vertex Cut Sparsifier in Directed Acyclic Graphs__, 2020  
 Zhiyang He, Jason Li, Magnus Wahlström. ($$*$$)    
-<span class="venue">European Symposium on Algorithms (ESA) 2021, <strong>Best Paper Award</strong>.</span>
+<span class="venue">European Symposium on Algorithms (ESA) 2021, <strong>Best Paper Award</strong>.</span>  
 [[arxiv]](https://arxiv.org/abs/2011.13485), [[ESA]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2021.52)
 
 ### Combinatorics
 
 1. __A New Upper Bound on Extremal Number of Even Cycles__, 2020  
 Zhiyang He.   
-<span class="venue">The Electronic Journal of Combinatorics.</span> 
-[[arxiv]](https://arxiv.org/abs/2009.04590), [[EJC]](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v28i2p41)
+<span class="venue">The Electronic Journal of Combinatorics.</span>  
+Talk at CMU. [[arxiv]](https://arxiv.org/abs/2009.04590), [[EJC]](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v28i2p41)
 
 1. __Hypergraphs with Few Berge Paths of Fixed Length between Vertices__, 2018  
 Zhiyang He, Michael Tait. ($$*$$)   
-<span class="venue">SIAM Journal on Discrete Mathematics.</span> 
+<span class="venue">SIAM Journal on Discrete Mathematics.</span>  
 [[arxiv]](https://arxiv.org/abs/1807.10177), [[SIAM]](https://epubs.siam.org/doi/10.1137/18M1203389)
 
 ### Notes and Others
 <!-- - Tutorial on QLDPC surgery (presentation) [Slides](). -->
-- AI-derived proof of a fun observation, with human proof-read and edits: [Round-robin CCZ is All You Need](/files/Notes/Round-robin-CCZ.pdf)
-- Master's Thesis: [On Extremal Combinatorics and Its Applications in Matroid Theory](/files/Notes/Masters_Thesis.pdf)
+- AI-derived proof of a fun observation, with human proofread and edits: [Round-robin CCZ is All You Need](/files/Notes/Round-robin-CCZ.pdf)
+- Master's Thesis: [On Extremal Combinatorics and Its Applications in Matroid Theory](/files/MSThesis.pdf)
 
