@@ -1,9 +1,15 @@
 ---
 permalink: /blog
-title: "Blog"
-author_profile: False
+title: ""
+# title: "An Optimist's Blog"
+layout: archive
+author_profile: true
 ---
 
-This page is under construction, check back later!
-
-<!-- ## A Review of Recent Progress on QLDPC Code Surgery -->
+{% if site.posts.size > 0 %}
+  {% for post in site.posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+  <p>No posts yet — check back soon!</p>
+{% endif %}

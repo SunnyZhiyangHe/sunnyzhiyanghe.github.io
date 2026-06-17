@@ -10,7 +10,11 @@ main:
     url: /#writings
 
   - title: "Travel"
-    url: /travel  
+    url: /travel
+
+  # - title: "An Optimist's Blog"
+  - title: "Blog"
+    url: /blog
 
   # - title: "Teaching"
   #   url: /teaching/    
