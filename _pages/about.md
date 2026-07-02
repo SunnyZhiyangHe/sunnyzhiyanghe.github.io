@@ -132,7 +132,7 @@ Alexander Cowtan, Zhiyang He, Dominic J. Williamson, Theodore J. Yoder.
 
 1. __Layer codes as partially self-correcting quantum memories__, 2025  
 Shouzhen Gu$$^\dagger$$, Libor Caha$$^\dagger$$, Shin Ho Choe, Zhiyang He, Aleksander Kubica, Eugene Tang.  
-<span class="venue">QIP 2026. PRL.</span>  
+<span class="venue">QIP 2026, AQIS 2026. PRL.</span>  
 Talks at MIT, [SQuInT 2025](https://squint.unm.edu/events/2025.html), [YITP](https://sites.google.com/view/2025-yitp-logical-gates/home), [Princeton PCTS](https://pcts.princeton.edu/events/2025/theoretical-and-experimental-advances-quantum-error-correction), [Inria](https://team.inria.fr/qasar/), and [MCQST 2025](https://www.mcqst.de/conference2025/)   
 [[arxiv]](https://arxiv.org/abs/2510.06659), [[Alex's Talk at Princeton]](https://mediacentral.princeton.edu/media/Kubica%2C+Alex%2C+February+5%2C+2025%2C+%22Quantum+memories+and+self-correction%22/1_kit0egwf), [[Libor's Talk at Munich]](https://www.youtube.com/watch?v=Hkl_IcdhAmQ)
 
