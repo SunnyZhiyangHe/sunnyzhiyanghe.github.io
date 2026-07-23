@@ -55,11 +55,11 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
   
 ## Updates {#updates}
 <!-- - I will be joining the Fault-Tolerant Logical Processing Workshop at YITP in October, 2026. -->
+- I gave a talk on [Building a Quantum Computer with QLDPC Codes](/files/Talks/Building_a_Quantum_Computer_with_QLDPC_codes.pdf) at the [2026 Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-final-workshop/schedule#simons-tabs) hosted by Simons Institute. Here is the [recording](https://simons.berkeley.edu/talks/sunny-zhiyang-he-mit-2026-07-23). 
 - I started a blog! The first post is on a fun AI-derived observation: [Round-robin-CCZ is all you need](/blog/round-robin-ccz/).
 - I attended QEC 2026 in Santa Barbara, the sunshine and beaches were counter-productive. Katie presented our works on constant-time surgery, here are the [slides](/files/Talks/constant-time-surgery.pdf). 
 - I gave a tutorial talk on Pauli-Based Computation on QLDPC Codes at MIT.
 - I presented our work on [Composable Fault-Tolerance](https://arxiv.org/abs/2508.08246) ([Slides](files/Talks/Composable_FT_slides.pdf)) at Foxconn Research, the recording is on [YouTube](https://www.youtube.com/watch?v=ZvPMA6UOwmA).
-- I gave a talk on [Challenges in Scalable Quantum Error Correction](files/Talks/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
 - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Talks/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Principia*.
 <!-- *Philosophiæ Naturalis Principia Mathematica*.  -->
 
@@ -67,8 +67,8 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
   <summary>Past Updates</summary>
 
   <div markdown="1">
-  - I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
   - I presented our work on [Extractors: Scalable Quantum Computers of the Future](files/Posters/QMIT_Poster.pdf) at the [MIT Quantum Initiative Launch Event](https://web.cvent.com/event/3947809f-be65-4020-8457-4276a031fc85/summary), and at [QIP 2026](https://qip2026.lu.lv/) in Riga, Latvia. Here are some [photos](/travel#Latvia) of snow-covered Latvia.
+  - I gave a talk on [Challenges in Scalable Quantum Error Correction](files/Talks/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
   - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/), part of IEEE Quantum Week hosted in Albuquerque. We visited their [Watermelon Mountains](/travel#ABQ).
   - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) hosted by Simons Institute. Here is the [recording](https://www.youtube.com/watch?v=L6cDAbaW2Zs) on YouTube.
   - I presented our work on [Quantum Codes with Addressable and Transversal Non-Clifford Gates](https://arxiv.org/abs/2502.01864) ([Slides](/files/Talks/AddressableCCZ.pdf)) at [Inria's QASAR Seminar](https://team.inria.fr/qasar/).
@@ -77,6 +77,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
   - I attended QEC 2023 in Sydney, Australia. Did you know that visitors can pet [koalas and (small) kangaroos](/travel#Sydney) at the [Featherdale Wildlife Park](https://www.featherdale.com.au/)?
   - I presented our work on [Single-shot decoding of good quantum LDPC codes](https://arxiv.org/abs/2306.12470) at TQC 2024 hosted in Okinawa, Japan. Here are some [photos](/travel#Japan) of Japan.
   - I gave a talk on Building a Quantum Computer Beyond Surface Codes at MIT in Apr 2025.  
+  - I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
   - In Fall 2024, I helped organize a reading group on Quantum Fault-Tolerance with Rachel Zhang, Adam Wills and Vinod Vaikuntanathan.
   <!-- - In Summer 2023 and 2025, I attended the [Quantum Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-workshop) at Simons Institute. -->
   - I presented our work on [Quantum Locally Testable Code with Constant Soundness](https://arxiv.org/abs/2209.11405) at QIP 2023 in Gent, Belgium. Here are some [photos](/travel#Gent) of the beautiful city of Gent. 
