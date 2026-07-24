@@ -235,5 +235,6 @@ Zhiyang He, Michael Tait. ($$*$$)
 
 ### Notes and Others
 <!-- - Tutorial on QLDPC surgery (presentation) [Slides](). -->
+- An overview talk on modern QLDPC architectures: [Building a Quantum Computer with QLDPC Codes](/files/Talks/Building_a_Quantum_Computer_with_QLDPC_codes.pdf). [[Recording]](https://simons.berkeley.edu/talks/sunny-zhiyang-he-mit-2026-07-23)
 - AI-derived proof of a fun observation, with human proofread and edits: [Round-robin CCZ is All You Need](/files/Notes/Round-robin-CCZ.pdf)
 - Master's Thesis: [On Extremal Combinatorics and Its Applications in Matroid Theory](/files/MSThesis.pdf)
