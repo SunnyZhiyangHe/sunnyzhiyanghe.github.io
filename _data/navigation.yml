@@ -6,8 +6,8 @@
 
 main:
 
-  - title: "Writings"
-    url: /#writings
+  - title: "Writings and Talks"
+    url: /#writings_and_talks
 
   - title: "Travel"
     url: /travel
