@@ -14,7 +14,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 
 ## Paper Highlights
 
-- **Extractor architectures**: A blueprint for large-scale fault-tolerant QLDPC computers. This work received the Charles W. and Jennifer C. Johnson Prize from MIT Math in 2026, awarded to one paper in applied math each year. [[Slides]](files/Talks/Extractors.pdf), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066)  
+- **Extractor architectures**: A blueprint for large-scale fault-tolerant QLDPC computers. This work received the Charles W. and Jennifer C. Johnson Prize from MIT Math in 2026, awarded to one paper in applied math each year. <!-- It was published in [Nature Physics](). --> [[Slides]](files/Talks/Extractors.pdf), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066)  
 [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390)  
 
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="400">  
@@ -54,11 +54,12 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 </details>
   
 ## Updates {#updates}
-<!-- - I will be joining the Fault-Tolerant Logical Processing Workshop at YITP in October, 2026. -->
+<!-- - I will be joining the [Fault-Tolerant Logical Processing Workshop](https://sites.google.com/view/2026-yitp-logical-processing/home) at YITP in October, 2026. -->
+- I gave [a tutorial on surgery and surgery-based architectures](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) at [FTQT 2026](https://benasque.org/2026ftqt/) in Benasque and at MIT. Here are the [slides](/files/Talks/Surgery_Tutorial_Benasque2026.pdf).
 - I gave a talk on [Building a Quantum Computer with QLDPC Codes](/files/Talks/Building_a_Quantum_Computer_with_QLDPC_codes.pdf) at the [2026 Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-final-workshop/schedule#simons-tabs) hosted by Simons Institute. Here is the [recording](https://simons.berkeley.edu/talks/sunny-zhiyang-he-mit-2026-07-23). 
 - I started a blog! The first post is on a fun AI-derived observation: [Round-robin-CCZ is all you need](/blog/round-robin-ccz/).
 - I attended QEC 2026 in Santa Barbara, the sunshine and beaches were counter-productive. Katie presented our works on constant-time surgery, here are the [slides](/files/Talks/constant-time-surgery.pdf). 
-- I gave a tutorial talk on Pauli-Based Computation on QLDPC Codes at MIT.
+<!-- - I gave a tutorial talk on Pauli-Based Computation on QLDPC Codes at MIT. -->
 - I presented our work on [Composable Fault-Tolerance](https://arxiv.org/abs/2508.08246) ([Slides](files/Talks/Composable_FT_slides.pdf)) at Foxconn Research, the recording is on [YouTube](https://www.youtube.com/watch?v=ZvPMA6UOwmA).
 - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Talks/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Principia*.
 <!-- *Philosophiæ Naturalis Principia Mathematica*.  -->
@@ -94,8 +95,19 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 - In Fall 2022, I was a TA for [Peter Shor's course on Quantum Computation](https://math.mit.edu/~shor/435-LN/).
 - AT MIT, I taught recitations for Linear Algebra. At Carnegie Mellon, I taught recitations for Discrete Math, Concepts of Mathematics, and Calculus II. 
 
-## Writings {#writings}
+## Writings and Talks {#writings_and_talks}
 Symbols: ($$*$$) mark alphabetical ordering of authors, $$\dagger$$ denotes joint first authors.
+
+### Talks
+1. __A Tutorial on Surgery and Surgery-based Architectures__, 2026  
+Presented at [FTQT 2026](https://benasque.org/2026ftqt/) and MIT. [[Slides]](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) 
+
+1. __Building a Quantum Computer with QLDPC Codes__, 2026  
+Presented at [Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-final-workshop/schedule#simons-tabs) at Simons Institute. 
+[[Slides]](/files/Talks/Building_a_Quantum_Computer_with_QLDPC_codes.pdf), [[Recording]](https://simons.berkeley.edu/talks/sunny-zhiyang-he-mit-2026-07-23) 
+
+1. __Challenges in Scalable Quantum Error Correction__, 2025  
+Presented at the Mathematics of Computation Workshop hosted by IBM. [[Slides]](files/Talks/Challenges_in_Scalable_QEC.pdf) 
 
 ### Quantum
 <!-- 1. __Characterizing QuEra's Gemini-class neutral atom quantum computer__, To Appear-->
@@ -117,7 +129,7 @@ Andrew C. Yuan, Alexander Cowtan, Zhiyang He, Ting-Chun Lin, Dominic J. Williams
 1. __Constant-Time Surgery on 2D Hypergraph Product Codes with Near-Constant Space Overhead__, 2026  
 Kathleen Chang$$^\dagger$$, Zhiyang He$$^\dagger$$, Theodore J. Yoder, Guanyu Zhu, Tomas Jochym-O'Connor.  
 <span class="venue">QEC 2026.</span>  
-Talks at Yale, UMD, [Inria](https://team.inria.fr/qasar/), Stony Brooks, and March Meetings.  
+Talks at Yale, UMD, [Inria](https://team.inria.fr/qasar/), Stony Brooks, [FTQT 2026](https://benasque.org/2026ftqt/), and March Meetings.  
 [[arxiv]](https://arxiv.org/abs/2603.02157), [[Slides]](/files/Talks/constant-time-surgery.pdf), [[Katie's Talk at Inria]](https://mybox.inria.fr/d/1bdad1a71d834f9a8f8a/)
 
 1. __Distilling Magic States in the Bicycle Architecture__, 2026  
@@ -157,7 +169,8 @@ John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Isaac L. Chuang.
 
 1. __Extractors: QLDPC Architecture for Efficient Pauli-Based Computation__, 2025  
 Zhiyang He, Alexander Cowtan, Dominic J. Williamson, Theodore J. Yoder.  
-<span class="venue">QEC 2025, QIP 2026.</span>   
+<!-- <span class="venue"><strong>Nature Physics (2026).</strong> QEC 2025, QIP 2026.</span>    -->
+<span class="venue">QEC 2025, QIP 2026.</span>  
 <span class="venue"><strong>Charles W. and Jennifer C. Johnson Prize (2026), MIT Mathematics</strong></span>  
 Invited talk at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/) at IEEE Quantum Week (QCE 2025).  
 <!-- Talk at [Quantum Algorithms, Complexity, and Fault Tolerance Reunion](https://simons.berkeley.edu/workshops/quantum-algorithms-complexity-fault-tolerance-reunion) at Simons Institute.   -->
@@ -234,7 +247,7 @@ Zhiyang He, Michael Tait. ($$*$$)
 [[arxiv]](https://arxiv.org/abs/1807.10177), [[SIAM]](https://epubs.siam.org/doi/10.1137/18M1203389)
 
 ### Notes and Others
-<!-- - Tutorial on QLDPC surgery (presentation) [Slides](). -->
-- An overview talk on modern QLDPC architectures: [Building a Quantum Computer with QLDPC Codes](/files/Talks/Building_a_Quantum_Computer_with_QLDPC_codes.pdf). [[Recording]](https://simons.berkeley.edu/talks/sunny-zhiyang-he-mit-2026-07-23)
+<!-- - A [tutorial on surgery and surgery-based architectures](/files/Talks/Surgery_Tutorial_Benasque2026.pdf), presented at [FTQT 2026](https://benasque.org/2026ftqt/) in Benasque.
+- An overview talk on modern QLDPC architectures: [Building a Quantum Computer with QLDPC Codes](/files/Talks/Building_a_Quantum_Computer_with_QLDPC_codes.pdf). [[Recording]](https://simons.berkeley.edu/talks/sunny-zhiyang-he-mit-2026-07-23) -->
 - AI-derived proof of a fun observation, with human proofread and edits: [Round-robin CCZ is All You Need](/files/Notes/Round-robin-CCZ.pdf)
 - Master's Thesis: [On Extremal Combinatorics and Its Applications in Matroid Theory](/files/MSThesis.pdf)
