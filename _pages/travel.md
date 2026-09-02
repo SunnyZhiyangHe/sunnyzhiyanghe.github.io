@@ -99,12 +99,19 @@ Jordan Pond at Acadia. The true color of Fall eludes capture by cameras.
 ![Yosemite_2](/images/Yosemite/Yosemite2.jpeg)
 
 ## Riga, Latvia {#Latvia}
+<details markdown="1">
+  <summary>Photos</summary>
+
+  <div markdown="1">
 
 ![Latvia_1](/images/Latvia/Latvia_1.jpeg)  
 
 ![Latvia_2](/images/Latvia/Latvia_2.jpeg) 
 =========================
 It was really cold.
+
+  </div>
+</details>
 
 ## Japan {#Japan}
 <details markdown="1">
@@ -204,4 +211,4 @@ The San Francisco chinatown is the oldest in North America.  -->
   </div>
 </details>
 <br>
-If you've scrolled all this way, I also have a [secret cheeseboard page](/cheeseboards), and a page for [randomly distributed cats](/cats).
+If you've scrolled all this way, I also have a page for [food encountered](/food), and a page for [randomly distributed cats](/cats).

@@ -11,6 +11,7 @@ redirect_from:
 Hi! This is Sunny He (贺之阳), I am a graduate student at MIT advised by Professor [Peter Shor](https://math.mit.edu/~shor/) and [Anand Natarajan](https://www.mit.edu/~anandn/). My research is in quantum computation, with a focus in quantum error correction. I believe quantum computational power is a fundamental new resource bestowed to us by nature, and quantum error correction is the procedure that refines this raw resource for use in applications. I hope my work contributes to the constructions and later improvements of fault-tolerant, powerful quantum computers in not-too-many decades.
 
 Prior to grad school I was an undergrad at CMU. I worked in graph algorithms with Professor [Anupam Gupta](https://cs.nyu.edu/~anupamg/) and [Jason Li](https://q3r.github.io/), and combinatorics with Professor [Boris Bukh](https://www.borisbukh.org/) and [Michael Tait](https://sites.google.com/view/michaeltait).
+Here is my [CV](/files/ZhiyangHe_CV.pdf) (updated Aug 27, 2026). 
 
 ## Paper Highlights
 
@@ -54,20 +55,20 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
 </details>
   
 ## Updates {#updates}
-<!-- - I will be joining the [Fault-Tolerant Logical Processing Workshop](https://sites.google.com/view/2026-yitp-logical-processing/home) at YITP in October, 2026. -->
-- I gave [a tutorial on surgery and surgery-based architectures](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) at [FTQT 2026](https://benasque.org/2026ftqt/) in Benasque and at MIT. Here are the [slides](/files/Talks/Surgery_Tutorial_Benasque2026.pdf).
+- I am co-organizing a workshop at FOCS 2026 (in NYC) on TCS Problems inQuantum Architecture & Compilation, with Robert Huang, Siddhartha Jain, Robin Kothari, and Esha Swaroop. Stay tuned! 
+- I will be joining the [Fault-Tolerant Logical Processing Workshop](https://sites.google.com/view/2026-yitp-logical-processing/home) at YITP in October, 2026.
+- I gave [a tutorial on surgery and surgery-based architectures](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) at [FTQT 2026](https://benasque.org/2026ftqt/) in Benasque and at MIT. Here are the [slides](/files/Talks/Surgery_Tutorial_Benasque2026.pdf). Benasque is beautiful as always, and the workshop is amazingly organized. Also, we saw the [total solar eclipse in Spain](). 
 - I gave a talk on [Building a Quantum Computer with QLDPC Codes](/files/Talks/Building_a_Quantum_Computer_with_QLDPC_codes.pdf) at the [2026 Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-final-workshop/schedule#simons-tabs) hosted by Simons Institute. Here is the [recording](https://simons.berkeley.edu/talks/sunny-zhiyang-he-mit-2026-07-23). 
 - I started a blog! The first post is on a fun AI-derived observation: [Round-robin-CCZ is all you need](/blog/round-robin-ccz/).
 - I attended QEC 2026 in Santa Barbara, the sunshine and beaches were counter-productive. Katie presented our works on constant-time surgery, here are the [slides](/files/Talks/constant-time-surgery.pdf). 
-<!-- - I gave a tutorial talk on Pauli-Based Computation on QLDPC Codes at MIT. -->
 - I presented our work on [Composable Fault-Tolerance](https://arxiv.org/abs/2508.08246) ([Slides](files/Talks/Composable_FT_slides.pdf)) at Foxconn Research, the recording is on [YouTube](https://www.youtube.com/watch?v=ZvPMA6UOwmA).
-- I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Talks/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Principia*.
-<!-- *Philosophiæ Naturalis Principia Mathematica*.  -->
+
 
 <details markdown="1">
   <summary>Past Updates</summary>
 
   <div markdown="1">
+  - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Talks/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Principia*. <!-- *Philosophiæ Naturalis Principia Mathematica*.  -->
   - I presented our work on [Extractors: Scalable Quantum Computers of the Future](files/Posters/QMIT_Poster.pdf) at the [MIT Quantum Initiative Launch Event](https://web.cvent.com/event/3947809f-be65-4020-8457-4276a031fc85/summary), and at [QIP 2026](https://qip2026.lu.lv/) in Riga, Latvia. Here are some [photos](/travel#Latvia) of snow-covered Latvia.
   - I gave a talk on [Challenges in Scalable Quantum Error Correction](files/Talks/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
   - I presented our work on [Extractors](https://arxiv.org/abs/2503.10390) at the [Scalable QEC Workshop](https://error-correction-lab.github.io/QECWorkshop2025/), part of IEEE Quantum Week hosted in Albuquerque. We visited their [Watermelon Mountains](/travel#ABQ).
@@ -77,7 +78,7 @@ Prior to grad school I was an undergrad at CMU. I worked in graph algorithms wit
   - I gave a guest lecture at UCLA titled [An Introduction to Quantum LDPC Codes](files/Talks/QLDPC_UCLA.pdf), hosted by Professor [Jens Palsberg](https://web.cs.ucla.edu/~palsberg/). 
   - I attended QEC 2023 in Sydney, Australia. Did you know that visitors can pet [koalas and (small) kangaroos](/travel#Sydney) at the [Featherdale Wildlife Park](https://www.featherdale.com.au/)?
   - I presented our work on [Single-shot decoding of good quantum LDPC codes](https://arxiv.org/abs/2306.12470) at TQC 2024 hosted in Okinawa, Japan. Here are some [photos](/travel#Japan) of Japan.
-  - I gave a talk on Building a Quantum Computer Beyond Surface Codes at MIT in Apr 2025.  
+  <!-- - I gave a talk on Building a Quantum Computer Beyond Surface Codes at MIT in Apr 2025.   -->
   - I presented our work on [Improved QLDPC Surgery: Logical Measurements and Bridging Codes](https://arxiv.org/abs/2407.18393) at the [Fault-Tolerant Quantum Technologies Workshop](https://www.benasque.org/2024ftqt/) at Benasque, Spain. Here are a few [photos](/travel#Benasque) of the mountain town of Benasque.
   - In Fall 2024, I helped organize a reading group on Quantum Fault-Tolerance with Rachel Zhang, Adam Wills and Vinod Vaikuntanathan.
   <!-- - In Summer 2023 and 2025, I attended the [Quantum Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-workshop) at Simons Institute. -->
@@ -100,7 +101,7 @@ Symbols: ($$*$$) mark alphabetical ordering of authors, $$\dagger$$ denotes join
 
 ### Talks
 1. __A Tutorial on Surgery and Surgery-based Architectures__, 2026  
-Presented at [FTQT 2026](https://benasque.org/2026ftqt/) and MIT. [[Slides]](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) 
+Presented at [FTQT 2026](https://benasque.org/2026ftqt/), Google QAI and MIT. [[Slides]](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) 
 
 1. __Building a Quantum Computer with QLDPC Codes__, 2026  
 Presented at [Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-final-workshop/schedule#simons-tabs) at Simons Institute. 
@@ -110,8 +111,6 @@ Presented at [Summer Cluster Workshop](https://simons.berkeley.edu/workshops/qua
 Presented at the Mathematics of Computation Workshop hosted by IBM. [[Slides]](files/Talks/Challenges_in_Scalable_QEC.pdf) 
 
 ### Quantum
-<!-- 1. __Characterizing QuEra's Gemini-class neutral atom quantum computer__, To Appear-->
-<!-- Talk at March Meetings. -->
 
 1. __Full Extractors for Logical Processing in Hypergraph Product Codes__, 2026  
 John Blue, Zhiyang He, Hengyun Zhou, Isaac L. Chuang.  
@@ -152,8 +151,7 @@ Talks at MIT, [SQuInT 2025](https://squint.unm.edu/events/2025.html), [YITP](htt
 1. __Characterization of permutation gates in the 3rd level of the Clifford hierarchy__, 2025  
 Zhiyang He, Luke Robitaille, Xinyu Tan. ($$*$$)  
 <span class="venue">TQC 2026.</span>  
-Talk at MIT. [[arxiv]](https://arxiv.org/abs/2510.04993), [[Poster]](files/Posters/Permutations_QEC_2025_poster.pdf)  
-<!-- [TQC]() -->
+Talk at MIT. [[arxiv]](https://arxiv.org/abs/2510.04993), [[Poster]](files/Posters/Permutations_QEC_2025_poster.pdf), [[TQC]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2026.2)
 
 1. __Composable Quantum Fault-Tolerance__, 2025  
 Zhiyang He, Quynh T. Nguyen, Christopher A. Pattison.    
@@ -164,8 +162,7 @@ Talks at IQC, Foxconn Research.
 1. __Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes__, <span class="nowrap">2025</span>  
 John Blue, Harshil Avlani, Zhiyang He, Liu Ziyin, Isaac L. Chuang.  
 <span class="venue">Quantum Journal.</span>  
-[[arxiv]](https://arxiv.org/abs/2504.13043), [[Poster]](files/Posters/decoder_qip25_poster.pdf)
-<!-- [Quantum]() -->
+[[arxiv]](https://arxiv.org/abs/2504.13043), [[Poster]](files/Posters/decoder_qip25_poster.pdf), [[Quantum]](https://quantum-journal.org/papers/q-2026-06-30-2149/)
 
 1. __Extractors: QLDPC Architecture for Efficient Pauli-Based Computation__, 2025  
 Zhiyang He, Alexander Cowtan, Dominic J. Williamson, Theodore J. Yoder.  

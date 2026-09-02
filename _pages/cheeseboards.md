@@ -1,6 +1,6 @@
 ---
-permalink: /cheeseboards
-title: "Cheeseboards"
+permalink: /food
+title: "Food encountered"
 author_profile: false
 ---
 
