@@ -55,7 +55,7 @@ Here is my [CV](/files/ZhiyangHe_CV.pdf) (updated Aug 27, 2026).
 </details>
   
 ## Updates {#updates}
-- I am co-organizing a workshop at FOCS 2026 (in NYC) on TCS Problems inQuantum Architecture & Compilation, with Robert Huang, Siddhartha Jain, Robin Kothari, and Esha Swaroop. Stay tuned! 
+- I am co-organizing a workshop at FOCS 2026 (in NYC) on TCS Problems in Quantum Architecture & Compilation, with Robert Huang, Siddhartha Jain, Robin Kothari, and Esha Swaroop. Stay tuned! 
 - I will be joining the [Fault-Tolerant Logical Processing Workshop](https://sites.google.com/view/2026-yitp-logical-processing/home) at YITP in October, 2026.
 - I gave [a tutorial on surgery and surgery-based architectures](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) at [FTQT 2026](https://benasque.org/2026ftqt/) in Benasque and at MIT. Here are the [slides](/files/Talks/Surgery_Tutorial_Benasque2026.pdf). Benasque is beautiful as always, and the workshop is amazingly organized. Also, we saw the [total solar eclipse in Spain](). 
 - I gave a talk on [Building a Quantum Computer with QLDPC Codes](/files/Talks/Building_a_Quantum_Computer_with_QLDPC_codes.pdf) at the [2026 Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-final-workshop/schedule#simons-tabs) hosted by Simons Institute. Here is the [recording](https://simons.berkeley.edu/talks/sunny-zhiyang-he-mit-2026-07-23). 
@@ -88,11 +88,10 @@ Here is my [CV](/files/ZhiyangHe_CV.pdf) (updated Aug 27, 2026).
 </details>
 
 ## Experiences {#exp}
-- I am a 2026 summer intern at [Google Quantum AI](https://quantumai.google/).
 - Program Committee services: QIP 2026, TQC 2026.
 <!-- - Review Services: PRX, PRL, PRA, Quantum, NPJQI, FOCS, STOC, QIP, TQC, QEC, IEEE Information Theory... -->
 - In Spring 2024, I was a visitor at the [Quantum Algorithms, Complexity, and Fault Tolerance Workshop](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance) hosted by [Simons Institute](https://simons.berkeley.edu/homepage) at UC Berkeley.
-- I was a summer intern at [IBM Quantum](https://www.ibm.com/quantum) in 2022 and 2023, and a summer intern at [QuEra](https://www.quera.com/) in 2024. 
+- I was a summer intern at [IBM Quantum](https://www.ibm.com/quantum) in 2022 and 2023, at [QuEra](https://www.quera.com/) in 2024, and at [Google Quantum AI](https://quantumai.google/) in 2026. 
 - In Fall 2022, I was a TA for [Peter Shor's course on Quantum Computation](https://math.mit.edu/~shor/435-LN/).
 - AT MIT, I taught recitations for Linear Algebra. At Carnegie Mellon, I taught recitations for Discrete Math, Concepts of Mathematics, and Calculus II. 
 
