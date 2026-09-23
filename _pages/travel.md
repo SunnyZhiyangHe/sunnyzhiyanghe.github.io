@@ -32,6 +32,16 @@ Ancient gymnasium at Delphi, next to the Oracle. Olympian athletes of ancient Gr
 <!-- ## Fall in White Mountains, New Hampshire {#WhiteMountains} -->
 
 
+## Solar Eclipse in Zaragoza, Spain {#Solar-Eclipse}
+
+![Eclipse](images/SolarEclipse2026/Solar-eclipse.jpeg)
+=========================
+Moment of totality. We watched the eclipse from an open park, thanks to the suggestion by [Louis G](https://lgolowich.github.io/) and his ChatGPT instance.
+
+![Zaragoza](images/SolarEclipse2026/Zaragoza.jpeg)
+=========================
+A [famous Cathedral](https://en.wikipedia.org/wiki/Cathedral-Basilica_of_Our_Lady_of_the_Pillar) in Zaragoza. Many local residents and tourists watched the eclipse on the bridge. Thanks to the organizers of FTQT for bringing us here!
+
 ## Spring around Yale, New Haven {#Yale}
 
 <details markdown="1">

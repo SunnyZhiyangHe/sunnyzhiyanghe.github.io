@@ -55,11 +55,11 @@ Here is my [CV](/files/ZhiyangHe_CV.pdf) (updated Aug 27, 2026).
 </details>
   
 ## Updates {#updates}
-- I am co-organizing a workshop at FOCS 2026 (in NYC) on TCS Problems in Quantum Architecture & Compilation, with Robert Huang, Siddhartha Jain, Robin Kothari, and Esha Swaroop. Stay tuned! 
-- I will be joining the [Fault-Tolerant Logical Processing Workshop](https://sites.google.com/view/2026-yitp-logical-processing/home) at YITP in October, 2026.
-- I gave [a tutorial on surgery and surgery-based architectures](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) at [FTQT 2026](https://benasque.org/2026ftqt/) in Benasque and at MIT. Here are the [slides](/files/Talks/Surgery_Tutorial_Benasque2026.pdf). Benasque is beautiful as always, and the workshop is amazingly organized. Also, we saw the [total solar eclipse in Spain](). 
+- In light of the developments in AI mathematics, similar to many others, I have been reflecting on the human roles and objectives in the coming world. I collected some of those thoughts into an essay: [The Human Objective: A Thought Experiment](files/Essays/The-Human-Objective.pdf). Any thoughts and comments would be greatly appreciated, please email me. Happy to discuss. 
+- I am co-organizing a workshop at FOCS 2026 (in NYC) on TCS Problems in [Quantum Architecture & Compilation](https://sidjain.me/workshop/), with Robert Huang, Siddhartha Jain, Robin Kothari, and Esha Swaroop. Stay tuned! 
+<!-- - I will be joining the [Fault-Tolerant Logical Processing Workshop](https://sites.google.com/view/2026-yitp-logical-processing/home) at YITP in October, 2026. -->
+- I gave [a tutorial on surgery and surgery-based architectures](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) at [FTQT 2026](https://benasque.org/2026ftqt/) in Benasque and at MIT. Here are the [slides](/files/Talks/Surgery_Tutorial_Benasque2026.pdf). Benasque is beautiful as always, and the workshop is amazingly organized. Also, we saw the [total solar eclipse in Spain](/travel#Solar-Eclipse). 
 - I gave a talk on [Building a Quantum Computer with QLDPC Codes](/files/Talks/Building_a_Quantum_Computer_with_QLDPC_codes.pdf) at the [2026 Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-final-workshop/schedule#simons-tabs) hosted by Simons Institute. Here is the [recording](https://simons.berkeley.edu/talks/sunny-zhiyang-he-mit-2026-07-23). 
-- I started a blog! The first post is on a fun AI-derived observation: [Round-robin-CCZ is all you need](/blog/round-robin-ccz/).
 - I attended QEC 2026 in Santa Barbara, the sunshine and beaches were counter-productive. Katie presented our works on constant-time surgery, here are the [slides](/files/Talks/constant-time-surgery.pdf). 
 - I presented our work on [Composable Fault-Tolerance](https://arxiv.org/abs/2508.08246) ([Slides](files/Talks/Composable_FT_slides.pdf)) at Foxconn Research, the recording is on [YouTube](https://www.youtube.com/watch?v=ZvPMA6UOwmA).
 
@@ -68,6 +68,7 @@ Here is my [CV](/files/ZhiyangHe_CV.pdf) (updated Aug 27, 2026).
   <summary>Past Updates</summary>
 
   <div markdown="1">
+  - I started a blog! The first post is on a fun AI-derived observation: [Round-robin-CCZ is all you need](/blog/round-robin-ccz/).
   - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Talks/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Principia*. <!-- *Philosophiæ Naturalis Principia Mathematica*.  -->
   - I presented our work on [Extractors: Scalable Quantum Computers of the Future](files/Posters/QMIT_Poster.pdf) at the [MIT Quantum Initiative Launch Event](https://web.cvent.com/event/3947809f-be65-4020-8457-4276a031fc85/summary), and at [QIP 2026](https://qip2026.lu.lv/) in Riga, Latvia. Here are some [photos](/travel#Latvia) of snow-covered Latvia.
   - I gave a talk on [Challenges in Scalable Quantum Error Correction](files/Talks/Challenges_in_Scalable_QEC.pdf) at the Mathematics of Computation and Algorithms Workshop hosted by IBM Cambridge.
@@ -98,6 +99,9 @@ Here is my [CV](/files/ZhiyangHe_CV.pdf) (updated Aug 27, 2026).
 ## Writings and Talks {#writings_and_talks}
 Symbols: ($$*$$) mark alphabetical ordering of authors, $$\dagger$$ denotes joint first authors.
 
+### Essays on Humanity and AI
+1. __The Human Objective: A Thought Experiment__, Sep 2026. [[PDF]](files/Essays/The-Human-Objective.pdf) 
+
 ### Talks
 1. __A Tutorial on Surgery and Surgery-based Architectures__, 2026  
 Presented at [FTQT 2026](https://benasque.org/2026ftqt/), Google QAI and MIT. [[Slides]](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) 
@@ -113,7 +117,7 @@ Presented at the Mathematics of Computation Workshop hosted by IBM. [[Slides]](f
 
 1. __Full Extractors for Logical Processing in Hypergraph Product Codes__, 2026  
 John Blue, Zhiyang He, Hengyun Zhou, Isaac L. Chuang.  
-Talk at March Meetings. 
+Talk at March Meetings and MIT. 
 [[arxiv]](https://arxiv.org/abs/2606.03507), [[Poster]](files/Posters/HGP-extractors-qec26.pdf)
 
 1. __In-Situ Simultaneous Magic State Injection on Arbitrary CSS qLDPC Codes__, 2026  

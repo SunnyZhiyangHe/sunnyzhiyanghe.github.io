@@ -28,6 +28,12 @@ Cats in Delphi, in front of the Delphi Archaeological Museum.
 [Random cat](https://photos.app.goo.gl/HK3oJNRbdTSeYy2E8) spawn on a couch in Cambridge. Left is apparently a natural position for him, as he stayed like this unmoved for half an hour.
 
 <p align="center">
+  <img src="/images/Cats/Uni-etal.jpeg" alt="Moose" width="100%"><br>
+  Cats aligned in a row.
+</p>
+
+
+<p align="center">
   <img src="/images/Cats/Moose.jpeg" alt="Moose" width="70%"><br>
   Moose spawn on couch in New Mexico.
 </p>
