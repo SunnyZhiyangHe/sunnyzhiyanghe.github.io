@@ -8,7 +8,7 @@ The following photos display results of calls to a randomized CAT oracle, which 
 
 <p align="center">
 <img src="/images/Cats/Alfred.png" alt="Alfred" width="50%" /><br>
-<a href="https://arxiv.org/pdf/2508.08246#subsection.1.4">Alfred</a> believes in a constant threshold fault-tolerance quantum computation scheme against coherent noise that doesn't require code concatenation. 
+<a href="https://arxiv.org/pdf/2508.08246#subsection.1.4">Alfred</a> believes in composable fault-tolerance.
 </p>
 
 

@@ -104,7 +104,7 @@ Symbols: ($$*$$) mark alphabetical ordering of authors, $$\dagger$$ denotes join
 
 ### Talks
 1. __A Tutorial on Surgery and Surgery-based Architectures__, 2026  
-Presented at [FTQT 2026](https://benasque.org/2026ftqt/), Google QAI and MIT. [[Slides]](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) 
+Presented at [FTQT 2026](https://benasque.org/2026ftqt/), [FTLP 2026](https://sites.google.com/view/2026-yitp-logical-processing/home), Google QAI and MIT. [[Slides]](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) 
 
 1. __Building a Quantum Computer with QLDPC Codes__, 2026  
 Presented at [Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-final-workshop/schedule#simons-tabs) at Simons Institute. 
