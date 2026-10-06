@@ -28,8 +28,8 @@ Here is my [CV](/files/ZhiyangHe_CV.pdf) (updated Oct 6, 2026).
 - Yes, Google is thinking about QLDPC codes and extractors.  
 [Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules](https://arxiv.org/abs/2610.03682)
 
-<!-- - Rate 1/2 code, now equipped with fast, parallel, low-space-overhead and symmetrically-addressable surgery methods.  
-[Efficient Logic with Ultra-High-Rate Quantum Codes]() -->
+- Rate 1/2 code, now equipped with fast, parallel, low-space-overhead and symmetrically-addressable surgery gadgets.  
+[Efficient Logic with Ultra-High-Rate Quantum Codes](https://arxiv.org/abs/2610.06749)
 
 <details markdown="1">
   <summary>Past Highlights</summary>
@@ -121,9 +121,9 @@ Presented at the Mathematics of Computation Workshop hosted by IBM. [[Slides]](f
 
 ### Fault-Tolerant Quantum Operations and Architectures
 
-<!-- 1. __Efficient Logic with Ultra-High-Rate Quantum Codes__, 2026  
+1. __Efficient Logic with Ultra-High-Rate Quantum Codes__, 2026  
 Nishad Maskara, Rohan Mehta, <span class="me">Z. He</span>, Varun Menon, J. Pablo Bonilla Ataides, <span class="nowrap">Mikhail D. Lukin</span>, Hengyun Zhou.  
-[[arxiv]]() -->
+[[arxiv]](https://arxiv.org/abs/2610.06749)
 
 1. __Low-Overhead Quantum Error Correction with Boundary-Connected Planar__ <span class="nowrap">__Modules__, 2026</span>    
 Oscar Higgott$$^\dagger$$, Hasan Sayginel$$^\dagger$$, Francisco J.H. Heras, <span class="me">Z. He</span>, Tomas Jochym-O'Connor, Andrew W. Senior, Lei M. Zhang, Thomas Edlich, James S. Spencer, Matt McEwen, Craig Gidney, Johannes Bausch, Pushmeet Kohli, Hartmut Neven.  
