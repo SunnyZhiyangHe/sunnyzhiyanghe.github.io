@@ -56,27 +56,30 @@
         async src="//gc.zgo.at/count.js"></script>
 
 <script>
-  // Tag PDF links so GoatCounter counts clicks on them as events. Purely
-  // additive: no visual change, and the links behave exactly as before --
-  // the click is not intercepted, and count.js reports via sendBeacon so
-  // navigation is never delayed.
-  document.addEventListener('DOMContentLoaded', function () {
-    // Only our own files -- otherwise someone else's PDF that we merely link
-    // to would be counted under our own path namespace. The hostname is
-    // listed explicitly as well as location.hostname so that links written
-    // with the full domain still match when serving locally.
-    var mine = [location.hostname, 'sunnyzhiyanghe.github.io']
-    document.querySelectorAll('a[href$=".pdf"]').forEach(function (a) {
-      var u = new URL(a.href, location.href)
-      if (mine.indexOf(u.hostname) === -1)
-        return
-      // u.pathname, so that 'files/x.pdf' and '/files/x.pdf' give one name.
-      a.setAttribute('data-goatcounter-click', 'pdf' + u.pathname)
-      a.setAttribute('data-goatcounter-title', a.textContent.trim() || 'PDF')
-    })
-    // count.js binds once on load and is async, so it may have already run.
-    // Re-binding is safe -- it skips links it has already bound.
-    if (window.goatcounter && window.goatcounter.bind_events) window.goatcounter.bind_events()
-  })
+/* Tag PDF links so GoatCounter counts clicks on them as events.
+
+   IMPORTANT: in production this page goes through _layouts/compress.html,
+   which strips ALL newlines -- including inside this script tag. So this
+   must use block comments and explicit semicolons only. A // comment would
+   swallow the rest of the file, and relying on automatic semicolon
+   insertion would break. The same applies to any inline JS added here.
+
+   Purely additive: no visual change, clicks are not intercepted, and
+   count.js reports via sendBeacon so navigation is never delayed. */
+document.addEventListener('DOMContentLoaded', function () {
+  /* Only our own files, so that someone else's PDF we merely link to is
+     not counted under our own path namespace. */
+  var mine = [location.hostname, 'sunnyzhiyanghe.github.io'];
+  document.querySelectorAll('a[href$=".pdf"]').forEach(function (a) {
+    var u = new URL(a.href, location.href);
+    if (mine.indexOf(u.hostname) === -1) { return; }
+    /* u.pathname, so 'files/x.pdf' and '/files/x.pdf' give one name. */
+    a.setAttribute('data-goatcounter-click', 'pdf' + u.pathname);
+    a.setAttribute('data-goatcounter-title', a.textContent.trim() || 'PDF');
+  });
+  /* count.js binds once on load and is async, so it may already have run.
+     Re-binding is safe -- it skips links it has already bound. */
+  if (window.goatcounter && window.goatcounter.bind_events) { window.goatcounter.bind_events(); }
+});
 </script>
 <!-- end custom head snippets -->
