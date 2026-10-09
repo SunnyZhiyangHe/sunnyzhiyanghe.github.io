@@ -15,6 +15,9 @@ Here is my [CV](/files/ZhiyangHe_CV.pdf) (updated Oct 6, 2026).
 
 ## Paper Highlights
 
+- If you are looking for resources to learn about code surgery, I have some slides:   
+[A Tutorial on Surgery and Surgery-based Architectures](/files/Talks/Surgery_Tutorial_Benasque2026.pdf). 
+
 - **Extractor architectures**: A blueprint for large-scale fault-tolerant QLDPC computers. This work received the Charles W. and Jennifer C. Johnson Prize from MIT Math in 2026, awarded to one paper in applied math each year. <!-- It was published in [Nature Physics](). --> [[Slides]](files/Talks/Extractors.pdf), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066)  
 [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390)  
 
