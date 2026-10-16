@@ -13,31 +13,34 @@ Hi! This is Sunny He (贺之阳), I am a graduate student at MIT advised by Prof
 Prior to grad school I was an undergrad at CMU. I worked in graph algorithms with Professor [Anupam Gupta](https://cs.nyu.edu/~anupamg/) and [Jason Li](https://q3r.github.io/), and combinatorics with Professor [Boris Bukh](https://www.borisbukh.org/) and [Michael Tait](https://sites.google.com/view/michaeltait).
 Here is my [CV](/files/ZhiyangHe_CV.pdf) (updated Oct 6, 2026). 
 
-## Paper Highlights
+In light of the developments in AI mathematics, similar to many others, I have been reflecting on the human roles and objectives in the coming world. I collected some of those thoughts into an essay: [The Human Objective: A Thought Experiment](files/Essays/The-Human-Objective.pdf). Any thoughts and comments would be greatly appreciated, please email me. Happy to discuss. 
+
+## Research Highlights
 
 - If you are looking for resources to learn about code surgery, I have some slides:   
-[A Tutorial on Surgery and Surgery-based Architectures](/files/Talks/Surgery_Tutorial_Benasque2026.pdf). 
+[A Tutorial on Surgery and Surgery-based Architectures](/files/Talks/Surgery_Tutorial_Benasque2026.pdf).  
+If you want to learn about QLDPC codes and the modern quantum architectures based on them, I have some overview slides:  
+[Building a Quantum Computer with QLDPC Codes](/files/Talks/Building_a_Quantum_Computer_with_QLDPC_codes.pdf). [[Recording]](https://simons.berkeley.edu/talks/sunny-zhiyang-he-mit-2026-07-23)
 
 - **Extractor architectures**: A blueprint for large-scale fault-tolerant QLDPC computers. This work received the Charles W. and Jennifer C. Johnson Prize from MIT Math in 2026, awarded to one paper in applied math each year. <!-- It was published in [Nature Physics](). --> [[Slides]](files/Talks/Extractors.pdf), [[Talk at QEC]](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06110e48-4bec-49c6-b499-b33000fe5424&start=3600.066)  
 [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390)  
 
   <img src="/images/Extractor_Architecture.png" alt="Extractor Architecture" width="400">  
 
+- Google is thinking about QLDPC codes and extractors.  
+[Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules](https://arxiv.org/abs/2610.03682)
+
 - Magic state distillation works! Our paper was published in [Nature](https://www.nature.com/articles/s41586-025-09367-3).  
 [Experimental Demonstration of Logical Magic State Distillation](https://arxiv.org/abs/2412.15165)  
 
   <img src="/images/MSD_main.png" alt="Logical magic state distillation with color code" width="600">
 
-- Yes, Google is thinking about QLDPC codes and extractors.  
-[Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules](https://arxiv.org/abs/2610.03682)
-
-- Rate 1/2 code, now equipped with fast, parallel, low-space-overhead and symmetrically-addressable surgery gadgets.  
-[Efficient Logic with Ultra-High-Rate Quantum Codes](https://arxiv.org/abs/2610.06749)
-
 <details markdown="1">
   <summary>Past Highlights</summary>
 
   <!-- <div markdown="1"> -->
+  - Rate 1/2 code, now equipped with fast, parallel, low-space-overhead and symmetrically-addressable surgery gadgets.  
+  [Efficient Logic with Ultra-High-Rate Quantum Codes](https://arxiv.org/abs/2610.06749)
   - Extractors: smaller than the code, enable full logical processing, same error rate as memory, compatible with fixed connectivity.   
   <!-- We made lots of promises about extractors in the past year, this paper fulfills them quite well.   -->
   [Full Extractors for Logical Processing in Hypergraph Product Codes](https://arxiv.org/abs/2606.03507) 
@@ -63,19 +66,17 @@ Here is my [CV](/files/ZhiyangHe_CV.pdf) (updated Oct 6, 2026).
 </details>
   
 ## Updates {#updates}
-- In light of the developments in AI mathematics, similar to many others, I have been reflecting on the human roles and objectives in the coming world. I collected some of those thoughts into an essay: [The Human Objective: A Thought Experiment](files/Essays/The-Human-Objective.pdf). Any thoughts and comments would be greatly appreciated, please email me. Happy to discuss. 
 - I am co-organizing a workshop at FOCS 2026 (in NYC) on TCS Problems in [Quantum Architecture & Compilation](https://sidjain.me/workshop/), with Robert Huang, Siddhartha Jain, Robin Kothari, and Esha Swaroop. Stay tuned! 
 <!-- - I will be joining the [Fault-Tolerant Logical Processing Workshop](https://sites.google.com/view/2026-yitp-logical-processing/home) at YITP in October, 2026. -->
 - I gave [a tutorial on surgery and surgery-based architectures](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) at [FTQT 2026](https://benasque.org/2026ftqt/) in Benasque and at MIT. Here are the [slides](/files/Talks/Surgery_Tutorial_Benasque2026.pdf). Benasque is beautiful as always, and the workshop is amazingly organized. Also, we saw the [total solar eclipse in Spain](/travel#Solar-Eclipse). 
 - I gave a talk on [Building a Quantum Computer with QLDPC Codes](/files/Talks/Building_a_Quantum_Computer_with_QLDPC_codes.pdf) at the [2026 Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-final-workshop/schedule#simons-tabs) hosted by Simons Institute. Here is the [recording](https://simons.berkeley.edu/talks/sunny-zhiyang-he-mit-2026-07-23). 
 - I attended QEC 2026 in Santa Barbara, the sunshine and beaches were counter-productive. Katie presented our works on constant-time surgery, here are the [slides](/files/Talks/constant-time-surgery.pdf). 
-- I presented our work on [Composable Fault-Tolerance](https://arxiv.org/abs/2508.08246) ([Slides](files/Talks/Composable_FT_slides.pdf)) at Foxconn Research, the recording is on [YouTube](https://www.youtube.com/watch?v=ZvPMA6UOwmA).
-
 
 <details markdown="1">
   <summary>Past Updates</summary>
 
   <div markdown="1">
+  - I presented our work on [Composable Fault-Tolerance](https://arxiv.org/abs/2508.08246) ([Slides](files/Talks/Composable_FT_slides.pdf)) at Foxconn Research, the recording is on [YouTube](https://www.youtube.com/watch?v=ZvPMA6UOwmA).
   - I started a blog! The first post is on a fun AI-derived observation: [Round-robin-CCZ is all you need](/blog/round-robin-ccz/).
   - I presented our work on [Extractors: QLDPC Architecture for Efficient Pauli-Based Computation](https://arxiv.org/abs/2503.10390) ([Slides](files/Talks/Extractors.pdf)) at Yale's YQI and QEC 2025. Here are a few [photos](/travel#Yale) taken at Yale, whose [rare book library](https://beinecke.library.yale.edu/) holds a signed copy of Newton's *Principia*. <!-- *Philosophiæ Naturalis Principia Mathematica*.  -->
   - I presented our work on [Extractors: Scalable Quantum Computers of the Future](files/Posters/QMIT_Poster.pdf) at the [MIT Quantum Initiative Launch Event](https://web.cvent.com/event/3947809f-be65-4020-8457-4276a031fc85/summary), and at [QIP 2026](https://qip2026.lu.lv/) in Riga, Latvia. Here are some [photos](/travel#Latvia) of snow-covered Latvia.
@@ -131,7 +132,7 @@ Nishad Maskara, Rohan Mehta, <span class="me">Z. He</span>, Varun Menon, J. Pabl
 1. __Low-Overhead Quantum Error Correction with Boundary-Connected Planar__ <span class="nowrap">__Modules__, 2026</span>    
 Oscar Higgott$$^\dagger$$, Hasan Sayginel$$^\dagger$$, Francisco J.H. Heras, <span class="me">Z. He</span>, Tomas Jochym-O'Connor, Andrew W. Senior, Lei M. Zhang, Thomas Edlich, James S. Spencer, Matt McEwen, Craig Gidney, Johannes Bausch, Pushmeet Kohli, Hartmut Neven.  
 <span class="venue">QEC 2026.</span>   
-Talk at [FTQT 2026](https://benasque.org/2026ftqt/). [[arxiv]](https://arxiv.org/abs/2610.03682)
+Talk at [FTQT 2026](https://benasque.org/2026ftqt/), Google. [[arxiv]](https://arxiv.org/abs/2610.03682)
 
 1. __Full Extractors for Logical Processing in Hypergraph Product Codes__, 2026  
 John Blue, <span class="me">Z. He</span>, Hengyun Zhou, Isaac L. Chuang.  
