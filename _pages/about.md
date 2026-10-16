@@ -11,7 +11,7 @@ redirect_from:
 Hi! This is Sunny He (贺之阳), I am a graduate student at MIT advised by Professor [Peter Shor](https://math.mit.edu/~shor/) and [Anand Natarajan](https://www.mit.edu/~anandn/). My research is in quantum computation, with a focus in quantum error correction. I believe quantum computational power is a fundamental new resource bestowed to us by nature, and quantum error correction is the procedure that refines this raw resource for use in applications. I hope my work contributes to the constructions and later improvements of fault-tolerant, powerful quantum computers in not-too-many decades.
 
 Prior to grad school I was an undergrad at CMU. I worked in graph algorithms with Professor [Anupam Gupta](https://cs.nyu.edu/~anupamg/) and [Jason Li](https://q3r.github.io/), and combinatorics with Professor [Boris Bukh](https://www.borisbukh.org/) and [Michael Tait](https://sites.google.com/view/michaeltait).
-Here is my [CV](/files/ZhiyangHe_CV.pdf) (updated Oct 6, 2026). 
+Here is my [CV](/files/ZhiyangHe_CV.pdf) (updated Oct 16, 2026). 
 
 In light of the developments in AI mathematics, similar to many others, I have been reflecting on the human roles and objectives in the coming world. I collected some of those thoughts into an essay: [The Human Objective: A Thought Experiment](files/Essays/The-Human-Objective.pdf). Any thoughts and comments would be greatly appreciated, please email me. Happy to discuss. 
 
