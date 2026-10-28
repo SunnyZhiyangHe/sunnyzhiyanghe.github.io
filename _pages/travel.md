@@ -86,7 +86,7 @@ Fluorite and aquamarine displayed at Yale's [Peabody museum](https://peabody.yal
 
 ![Benasque_talk](/images/Benasque_Talk.jpeg)  
 =========================
-This photo is taken by Chris Pattison.
+This photo was taken by Chris Pattison.
 
   </div>
 </details>
@@ -100,7 +100,7 @@ Sunrise at Portland Head Light.
 
 ![JordanPond](/images/EastCoast/Acadia_JordanPond.jpeg)
 =========================
-Jordan Pond at Acadia. The true color of Fall eludes capture by cameras. 
+Jordan Pond at Acadia. The true color of Fall eludes capture. 
 
 ## Winter in Yosemite Valley, California {#Yosemite}
 

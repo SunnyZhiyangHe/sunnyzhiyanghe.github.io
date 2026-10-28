@@ -13,7 +13,7 @@ Hi! This is Sunny He (贺之阳), I am a graduate student at MIT advised by Prof
 Prior to grad school I was an undergrad at CMU. I worked in graph algorithms with Professor [Anupam Gupta](https://cs.nyu.edu/~anupamg/) and [Jason Li](https://q3r.github.io/), and combinatorics with Professor [Boris Bukh](https://www.borisbukh.org/) and [Michael Tait](https://sites.google.com/view/michaeltait).
 Here is my [CV](/files/ZhiyangHe_CV.pdf) (updated Oct 16, 2026). 
 
-In light of the developments in AI mathematics, similar to many others, I have been reflecting on the human roles and objectives in the coming world. I collected some of those thoughts into an essay: [The Human Objective: A Thought Experiment](files/Essays/The-Human-Objective.pdf). Any thoughts and comments would be greatly appreciated, please email me. Happy to discuss. 
+In light of the developments in AI mathematics, similar to many others, I have been reflecting on the human roles and objectives in the coming world. I collected some of those thoughts into an essay: [The Human Objective](files/Essays/The-Human-Objective.pdf). Any thoughts and comments would be greatly appreciated, please email me. Happy to discuss. 
 
 ## Research Highlights
 
@@ -110,7 +110,7 @@ Symbols: ($$*$$) mark alphabetical ordering of authors, $$\dagger$$ denotes join
 
 ### Essays on Humanity and AI
 
-1. __The Human Objective: A Thought Experiment__, Sep 2026. [[PDF]](files/Essays/The-Human-Objective.pdf) 
+1. __The Human Objective__, Sep 2026. [[PDF]](files/Essays/The-Human-Objective.pdf) 
 
 ### Talks
 1. __A Tutorial on Surgery and Surgery-based Architectures__, 2026  

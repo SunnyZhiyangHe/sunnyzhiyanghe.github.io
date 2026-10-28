@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Human Objective: A Thought Experiment"
+title: "The Human Objective"
 date: 2026-09-23
 author_profile: false
 permalink: /blog/the-human-objective/
