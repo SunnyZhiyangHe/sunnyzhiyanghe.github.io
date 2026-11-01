@@ -114,7 +114,7 @@ Symbols: ($$*$$) mark alphabetical ordering of authors, $$\dagger$$ denotes join
 
 ### Talks
 1. __A Tutorial on Surgery and Surgery-based Architectures__, 2026  
-Presented at [FTQT 2026](https://benasque.org/2026ftqt/), [FTLP 2026](https://sites.google.com/view/2026-yitp-logical-processing/home), Google QAI and MIT. [[Slides]](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) 
+Presented at [FTQT 2026](https://benasque.org/2026ftqt/), [FTLP 2026](https://sites.google.com/view/2026-yitp-logical-processing/home), Google QAI, Microsoft and MIT. [[Slides]](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) 
 
 1. __Building a Quantum Computer with QLDPC Codes__, 2026  
 Presented at [Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-final-workshop/schedule#simons-tabs) at Simons Institute. 
@@ -132,7 +132,8 @@ Nishad Maskara, Rohan Mehta, <span class="me">Z. He</span>, Varun Menon, J. Pabl
 1. __Low-Overhead Quantum Error Correction with Boundary-Connected Planar__ <span class="nowrap">__Modules__, 2026</span>    
 Oscar Higgott$$^\dagger$$, Hasan Sayginel$$^\dagger$$, Francisco J.H. Heras, <span class="me">Z. He</span>, Tomas Jochym-O'Connor, Andrew W. Senior, Lei M. Zhang, Thomas Edlich, James S. Spencer, Matt McEwen, Craig Gidney, Johannes Bausch, Pushmeet Kohli, Hartmut Neven.  
 <span class="venue">QEC 2026.</span>   
-Talk at [FTQT 2026](https://benasque.org/2026ftqt/), Google. [[arxiv]](https://arxiv.org/abs/2610.03682)
+Talks at [FTQT 2026](https://benasque.org/2026ftqt/), Google.  
+[[arxiv]](https://arxiv.org/abs/2610.03682), [[Oscar's Talk at QEC]](https://youtu.be/T8CvUVT1Wuk?si=VHba-k8vDGTB5Csz)
 
 1. __Full Extractors for Logical Processing in Hypergraph Product Codes__, 2026  
 John Blue, <span class="me">Z. He</span>, Hengyun Zhou, Isaac L. Chuang.  
@@ -151,7 +152,7 @@ Andrew C. Yuan, Alexander Cowtan, <span class="me">Z. He</span>, Ting-Chun Lin, 
 Kathleen Chang$$^\dagger$$, <span class="me">Z. He</span>$$^\dagger$$, Theodore J. Yoder, Guanyu Zhu, Tomas Jochym-O'Connor.  
 <span class="venue">QEC 2026.</span>  
 Talks at Yale, UMD, [Inria](https://team.inria.fr/qasar/), Stony Brooks, [FTQT 2026](https://benasque.org/2026ftqt/), and March Meetings.  
-[[arxiv]](https://arxiv.org/abs/2603.02157), [[Slides]](/files/Talks/constant-time-surgery.pdf), [[Katie's Talk at Inria]](https://mybox.inria.fr/d/1bdad1a71d834f9a8f8a/)
+[[arxiv]](https://arxiv.org/abs/2603.02157), [[Slides]](/files/Talks/constant-time-surgery.pdf), [[Katie's Talk at Inria]](https://mybox.inria.fr/d/1bdad1a71d834f9a8f8a/), [[Katie's Talk at QEC]](https://youtu.be/a6kcCyTYvok?si=hcYNlYDyyXMToR-a)
 
 1. __Distilling Magic States in the Bicycle Architecture__, 2026  
 Shifan Xu, Kun Liu, Patrick J. Rall, <span class="me">Z. He</span>, Yongshan Ding.  
@@ -162,7 +163,7 @@ Shifan Xu, Kun Liu, Patrick J. Rall, <span class="me">Z. He</span>, Yongshan Din
 1. __Fast and fault-tolerant logical measurements: Auxiliary hypergraphs and transversal surgery__, 2025  
 Alexander Cowtan, <span class="me">Z. He</span>, Dominic J. Williamson, Theodore J. Yoder.    
 <span class="venue">QEC 2026.</span>  
-[[arxiv]](https://arxiv.org/abs/2510.14895), [[Slides]](/files/Talks/constant-time-surgery.pdf), [[Alex's Talk at Coogee]](https://www.youtube.com/watch?v=LxzwhhbG71M)
+[[arxiv]](https://arxiv.org/abs/2510.14895), [[Slides]](/files/Talks/constant-time-surgery.pdf), [[Alex's Talk at Coogee]](https://www.youtube.com/watch?v=LxzwhhbG71M), [[Katie's Talk at QEC]](https://youtu.be/a6kcCyTYvok?si=hcYNlYDyyXMToR-a)
 
 
 1. __Extractors: QLDPC Architecture for Efficient Pauli-Based Computation__, 2025  
