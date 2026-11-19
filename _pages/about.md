@@ -66,7 +66,8 @@ If you want to learn about QLDPC codes and the modern quantum architectures base
 </details>
   
 ## Updates {#updates}
-- I am co-organizing a workshop at FOCS 2026 (in NYC) on TCS Problems in [Quantum Architecture & Compilation](https://sidjain.me/workshop/), with Robert Huang, Siddhartha Jain, Robin Kothari, and Esha Swaroop. Stay tuned! 
+- I will talk about [Modern Surgery Techniques](files/Talks/Modern_Surgery_Techniques.pdf) at [Harry Zhou's QEC course](https://zphy.github.io/teaching.html) at MIT.
+- I co-organized a workshop at FOCS 2026 (in NYC) on [TCS Problems in Quantum Architecture & Compilation](https://sidjain.me/workshop/), with Robert Huang, Siddhartha Jain, Robin Kothari, and Esha Swaroop. Thanks to our great speakers: Harry Zhou, Qian Xu, and Ted Yoder!
 <!-- - I will be joining the [Fault-Tolerant Logical Processing Workshop](https://sites.google.com/view/2026-yitp-logical-processing/home) at YITP in October, 2026. -->
 - I gave [a tutorial on surgery and surgery-based architectures](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) at [FTQT 2026](https://benasque.org/2026ftqt/) in Benasque and at MIT. Here are the [slides](/files/Talks/Surgery_Tutorial_Benasque2026.pdf). Benasque is beautiful as always, and the workshop is amazingly organized. Also, we saw the [total solar eclipse in Spain](/travel#Solar-Eclipse). 
 - I gave a talk on [Building a Quantum Computer with QLDPC Codes](/files/Talks/Building_a_Quantum_Computer_with_QLDPC_codes.pdf) at the [2026 Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-final-workshop/schedule#simons-tabs) hosted by Simons Institute. Here is the [recording](https://simons.berkeley.edu/talks/sunny-zhiyang-he-mit-2026-07-23). 
@@ -112,12 +113,17 @@ Symbols: ($$*$$) mark alphabetical ordering of authors, $$\dagger$$ denotes join
 
 1. __The Human Objective__, Sep 2026. [[PDF]](files/Essays/The-Human-Objective.pdf) 
 
+<!-- 1. __Mathematics and Science, Post AI__, Nov 2026. [[PDF]](files/Essays/The-Human-Objective.pdf)  -->
+
 ### Talks
+1. __Modern Surgery Techniques__, 2026  
+Guest lecture at [MIT's QEC Course](https://zphy.github.io/teaching.html). *Overlap with the tutorial below, with more technical focus on extractors, parallel surgery and fast surgery.* [[Slides]](files/Talks/Modern_Surgery_Techniques.pdf)
+
 1. __A Tutorial on Surgery and Surgery-based Architectures__, 2026  
 Presented at [FTQT 2026](https://benasque.org/2026ftqt/), [FTLP 2026](https://sites.google.com/view/2026-yitp-logical-processing/home), Google QAI, Microsoft and MIT. [[Slides]](/files/Talks/Surgery_Tutorial_Benasque2026.pdf) 
 
 1. __Building a Quantum Computer with QLDPC Codes__, 2026  
-Presented at [Summer Cluster Workshop](https://simons.berkeley.edu/workshops/quantum-summer-cluster-final-workshop/schedule#simons-tabs) at Simons Institute. 
+Presented at MIT, Simons Institute and [FOCS workshop on quantum architectures](https://sidjain.me/workshop/).  
 [[Slides]](/files/Talks/Building_a_Quantum_Computer_with_QLDPC_codes.pdf), [[Recording]](https://simons.berkeley.edu/talks/sunny-zhiyang-he-mit-2026-07-23) 
 
 1. __Challenges in Scalable Quantum Error Correction__, 2025  
@@ -127,7 +133,7 @@ Presented at the Mathematics of Computation Workshop hosted by IBM. [[Slides]](f
 
 1. __Efficient Logic with Ultra-High-Rate Quantum Codes__, 2026  
 Nishad Maskara, Rohan Mehta, <span class="me">Z. He</span>, Varun Menon, J. Pablo Bonilla Ataides, <span class="nowrap">Mikhail D. Lukin</span>, Hengyun Zhou.  
-[[arxiv]](https://arxiv.org/abs/2610.06749)
+Talk at MIT. [[arxiv]](https://arxiv.org/abs/2610.06749)
 
 1. __Low-Overhead Quantum Error Correction with Boundary-Connected Planar__ <span class="nowrap">__Modules__, 2026</span>    
 Oscar Higgott$$^\dagger$$, Hasan Sayginel$$^\dagger$$, Francisco J.H. Heras, <span class="me">Z. He</span>, Tomas Jochym-O'Connor, Andrew W. Senior, Lei M. Zhang, Thomas Edlich, James S. Spencer, Matt McEwen, Craig Gidney, Johannes Bausch, Pushmeet Kohli, Hartmut Neven.  
